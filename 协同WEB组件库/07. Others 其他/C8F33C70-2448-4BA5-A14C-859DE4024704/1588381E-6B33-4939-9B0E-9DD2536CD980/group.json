@@ -1,0 +1,136 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1588381E-6B33-4939-9B0E-9DD2536CD980",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 23,
+    "width": 826,
+    "x": 128,
+    "y": 433
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "55C37F87-8E76-4F57-B7FD-22D672BA6E18"
+    },
+    {
+      "class": "group",
+      "id": "DC3703FD-80BE-4975-9805-4534C3F7159D"
+    },
+    {
+      "class": "group",
+      "id": "1FCEF005-D511-4E74-ACDE-2801CCE6D47C"
+    }
+  ],
+  "name": "06. Others 其他/框架/Title bar备份",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "3865C47D-73D2-4BB0-B45C-AA07FD175AD7",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "7083E180-5698-4AF2-BECB-039BBB713798",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 23,
+          "width": 826,
+          "x": 128,
+          "y": 433
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "B4219402-2C62-4C25-97D7-E4B5CE138339",
+        "symbolID": "6208EF19-24A1-4B3C-B13F-6E4BBCAC9B1F"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "7083E180-5698-4AF2-BECB-039BBB713798",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 23,
+          "width": 826,
+          "x": 128,
+          "y": 433
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "B4219402-2C62-4C25-97D7-E4B5CE138339",
+        "symbolID": "6208EF19-24A1-4B3C-B13F-6E4BBCAC9B1F"
+      }
+    }
+  }
+}
