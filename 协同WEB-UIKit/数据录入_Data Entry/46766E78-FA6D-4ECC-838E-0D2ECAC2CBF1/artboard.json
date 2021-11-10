@@ -51,14 +51,6 @@
     {
       "class": "symbolInstance",
       "id": "19D4E668-2E89-468F-9D17-6C30DE6A8455"
-    },
-    {
-      "class": "group",
-      "id": "C866E5EB-C607-4335-B7C6-4E18B185DA01"
-    },
-    {
-      "class": "text",
-      "id": "821F2BC1-2D23-4B14-B304-A40892CBB6BC"
     }
   ],
   "name": "穿梭框Transfer",
