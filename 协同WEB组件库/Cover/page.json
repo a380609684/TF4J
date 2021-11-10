@@ -41,6 +41,10 @@
     {
       "class": "artboard",
       "id": "217F301B-B6BC-45F0-A5CB-C44CFF6C3A30"
+    },
+    {
+      "class": "rectangle",
+      "id": "AA14998F-D0E0-47B6-A926-15684363D187"
     }
   ],
   "name": "Cover",
