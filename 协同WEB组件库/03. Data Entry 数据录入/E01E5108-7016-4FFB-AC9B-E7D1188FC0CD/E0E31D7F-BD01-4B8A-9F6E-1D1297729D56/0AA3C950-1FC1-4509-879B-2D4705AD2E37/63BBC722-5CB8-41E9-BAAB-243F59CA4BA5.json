@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "MicrosoftYaHeiUI",
+              "name": "MicrosoftYaHei",
               "size": 24
             }
           },
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
+    "height": 31,
     "width": 190,
     "x": 150,
-    "y": 3
+    "y": 1
   },
-  "glyphBounds": "{{2, 5}, {185, 20}}",
+  "glyphBounds": "{{2, 6}, {185, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -179,7 +179,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "MicrosoftYaHeiUI",
+            "name": "MicrosoftYaHei",
             "size": 24
           }
         },

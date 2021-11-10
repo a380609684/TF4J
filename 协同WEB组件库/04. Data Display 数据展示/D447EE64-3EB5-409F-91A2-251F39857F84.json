@@ -1,8 +1,15 @@
 {
-  "_class": "group",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CF99034B-E72F-41DF-A14A-8C942864FA25",
+  "do_objectID": "D447EE64-3EB5-409F-91A2-251F39857F84",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,38 +22,42 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 23,
-    "width": 100,
-    "x": 0,
-    "y": 0
+    "height": 998,
+    "width": 1081,
+    "x": -1634,
+    "y": -395
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": true,
   "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "27FF2ECB-F116-443F-BF13-53795C5936EF"
-    },
-    {
-      "class": "group",
-      "id": "C663185F-C637-4121-9749-CA3F654EA608"
-    }
   ],
-  "name": "appicon",
-  "nameIsFixed": true,
+  "name": "画板",
+  "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -54,7 +65,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 1.070572272921585,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -81,7 +92,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "20001E4D-59EB-4292-92B0-2F363E2188F2",
+    "do_objectID": "22CCEA68-77DA-4DDA-9CD9-5C901E62D14E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +103,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
   }
 }
