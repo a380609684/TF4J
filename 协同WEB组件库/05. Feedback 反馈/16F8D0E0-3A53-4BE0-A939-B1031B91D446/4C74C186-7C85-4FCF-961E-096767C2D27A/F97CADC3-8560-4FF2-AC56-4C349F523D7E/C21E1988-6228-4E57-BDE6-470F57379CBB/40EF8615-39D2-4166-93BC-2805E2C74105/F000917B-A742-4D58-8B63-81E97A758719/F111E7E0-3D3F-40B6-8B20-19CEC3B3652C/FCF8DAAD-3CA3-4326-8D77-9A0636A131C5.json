@@ -21,6 +21,7 @@
     "y": 0
   },
   "hasClippingMask": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -87,5 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "567EAFAF-0AD9-4ADF-86B8-0CD2D688A813"
+  "symbolID": "567EAFAF-0AD9-4ADF-86B8-0CD2D688A813",
+  "verticalSpacing": 0
 }

@@ -21,6 +21,7 @@
     "y": 0
   },
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -87,5 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7355A6CF-CABB-4D26-8471-C40AA6135141"
+  "symbolID": "7355A6CF-CABB-4D26-8471-C40AA6135141",
+  "verticalSpacing": 0
 }
