@@ -21,6 +21,7 @@
     "y": 1892
   },
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -87,5 +88,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CA1D510F-9B9E-4150-BFD0-3C70D9A85F30"
+  "symbolID": "CA1D510F-9B9E-4150-BFD0-3C70D9A85F30",
+  "verticalSpacing": 0
 }
