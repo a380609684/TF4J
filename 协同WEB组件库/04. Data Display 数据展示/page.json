@@ -31,7 +31,6 @@
     "guides": [
     ]
   },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -54,10 +53,6 @@
     {
       "class": "artboard",
       "id": "4F8EFF30-6A0C-49D8-802E-D3D0898A988F"
-    },
-    {
-      "class": "artboard",
-      "id": "D447EE64-3EB5-409F-91A2-251F39857F84"
     }
   ],
   "name": "04. Data Display 数据展示",

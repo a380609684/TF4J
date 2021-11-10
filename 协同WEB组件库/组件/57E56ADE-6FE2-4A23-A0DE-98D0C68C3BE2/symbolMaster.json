@@ -42,7 +42,6 @@
   },
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -71,12 +70,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "23D916D3-392C-4A9D-B7D9-9FF06E91CC45_textStyle"
+      "overrideName": "23B08FD3-1B54-4555-B5F5-84D08A65F748/BE5B60D9-C8BA-4EDA-A491-747C561AA4C5_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "23D916D3-392C-4A9D-B7D9-9FF06E91CC45_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "23D916D3-392C-4A9D-B7D9-9FF06E91CC45_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",

@@ -422,7 +422,7 @@
       "do_objectID": "76D473A9-1B07-40E8-A39F-8B9E71E36058",
       "fontFamilyName": "DIN",
       "fontFileName": "DIN-Regular.otf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "DIN-Regular"
       ]
@@ -4550,7 +4550,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -4616,7 +4615,6 @@
                   "y": 0
                 },
                 "hasClippingMask": true,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -4678,8 +4676,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "3C3E9F54-C337-4322-B1C0-E04C42833935",
-                "verticalSpacing": 0
+                "symbolID": "3C3E9F54-C337-4322-B1C0-E04C42833935"
               },
               {
                 "_class": "rectangle",
@@ -5215,7 +5212,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -5281,7 +5277,6 @@
                   "y": 0
                 },
                 "hasClippingMask": true,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -5343,8 +5338,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "3C3E9F54-C337-4322-B1C0-E04C42833935",
-                "verticalSpacing": 0
+                "symbolID": "3C3E9F54-C337-4322-B1C0-E04C42833935"
               },
               {
                 "_class": "rectangle",
@@ -5882,7 +5876,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -6502,7 +6495,6 @@
                           "y": 10
                         },
                         "hasClippingMask": false,
-                        "horizontalSpacing": 0,
                         "isFixedToViewport": false,
                         "isFlippedHorizontal": false,
                         "isFlippedVertical": false,
@@ -6564,8 +6556,7 @@
                           "startMarkerType": 0,
                           "windingRule": 1
                         },
-                        "symbolID": "3C3E9F54-C337-4322-B1C0-E04C42833935",
-                        "verticalSpacing": 0
+                        "symbolID": "3C3E9F54-C337-4322-B1C0-E04C42833935"
                       }
                     ],
                     "name": "dropdown/down",
@@ -7020,7 +7011,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -7640,7 +7630,6 @@
                           "y": 10
                         },
                         "hasClippingMask": false,
-                        "horizontalSpacing": 0,
                         "isFixedToViewport": false,
                         "isFlippedHorizontal": false,
                         "isFlippedVertical": false,
@@ -7702,8 +7691,7 @@
                           "startMarkerType": 0,
                           "windingRule": 1
                         },
-                        "symbolID": "3C3E9F54-C337-4322-B1C0-E04C42833935",
-                        "verticalSpacing": 0
+                        "symbolID": "3C3E9F54-C337-4322-B1C0-E04C42833935"
                       }
                     ],
                     "name": "dropdown/down",
@@ -8164,7 +8152,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -8784,7 +8771,6 @@
                           "y": 10
                         },
                         "hasClippingMask": false,
-                        "horizontalSpacing": 0,
                         "isFixedToViewport": false,
                         "isFlippedHorizontal": false,
                         "isFlippedVertical": false,
@@ -8846,8 +8832,7 @@
                           "startMarkerType": 0,
                           "windingRule": 1
                         },
-                        "symbolID": "3C3E9F54-C337-4322-B1C0-E04C42833935",
-                        "verticalSpacing": 0
+                        "symbolID": "3C3E9F54-C337-4322-B1C0-E04C42833935"
                       }
                     ],
                     "name": "dropdown/down",
@@ -9302,7 +9287,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -9922,7 +9906,6 @@
                           "y": 10
                         },
                         "hasClippingMask": false,
-                        "horizontalSpacing": 0,
                         "isFixedToViewport": false,
                         "isFlippedHorizontal": false,
                         "isFlippedVertical": false,
@@ -9984,8 +9967,7 @@
                           "startMarkerType": 0,
                           "windingRule": 1
                         },
-                        "symbolID": "3C3E9F54-C337-4322-B1C0-E04C42833935",
-                        "verticalSpacing": 0
+                        "symbolID": "3C3E9F54-C337-4322-B1C0-E04C42833935"
                       }
                     ],
                     "name": "dropdown/down",
@@ -10450,7 +10432,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -12298,7 +12279,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -14152,7 +14132,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -16000,7 +15979,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -17850,7 +17828,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -18576,7 +18553,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -19308,7 +19284,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -19693,7 +19668,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -20084,7 +20058,6 @@
         },
         "includeBackgroundColorInExport": false,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -20469,7 +20442,6 @@
         },
         "includeBackgroundColorInExport": false,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -20860,7 +20832,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -21606,7 +21577,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -22358,7 +22328,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -24109,7 +24078,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -25866,7 +25834,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -26880,7 +26847,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -27900,7 +27866,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -28651,7 +28616,6 @@
                                       "y": 0
                                     },
                                     "hasClippingMask": true,
-                                    "horizontalSpacing": 0,
                                     "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
@@ -28718,8 +28682,7 @@
                                       "startMarkerType": 0,
                                       "windingRule": 1
                                     },
-                                    "symbolID": "6C522FEB-4DDA-4058-9C21-EA7DCF7D56D0",
-                                    "verticalSpacing": 0
+                                    "symbolID": "6C522FEB-4DDA-4058-9C21-EA7DCF7D56D0"
                                   },
                                   {
                                     "_class": "rectangle",
@@ -29840,7 +29803,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -30591,7 +30553,6 @@
                                       "y": 0
                                     },
                                     "hasClippingMask": true,
-                                    "horizontalSpacing": 0,
                                     "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
@@ -30658,8 +30619,7 @@
                                       "startMarkerType": 0,
                                       "windingRule": 1
                                     },
-                                    "symbolID": "19421E84-9BB2-4898-AD0B-8427229A60BE",
-                                    "verticalSpacing": 0
+                                    "symbolID": "19421E84-9BB2-4898-AD0B-8427229A60BE"
                                   },
                                   {
                                     "_class": "rectangle",
@@ -31786,7 +31746,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -31983,7 +31942,6 @@
                   "y": 4
                 },
                 "hasClippingMask": false,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -32045,8 +32003,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "98500347-E29C-46C2-BFB8-2C4B91FDC5AD",
-                "verticalSpacing": 0
+                "symbolID": "98500347-E29C-46C2-BFB8-2C4B91FDC5AD"
               },
               {
                 "_class": "text",
@@ -32224,7 +32181,6 @@
                   "y": 2
                 },
                 "hasClippingMask": false,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -32291,8 +32247,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "E3D07B04-E06A-4169-AF54-0525B3831DF1",
-                "verticalSpacing": 0
+                "symbolID": "E3D07B04-E06A-4169-AF54-0525B3831DF1"
               }
             ],
             "name": "Group",
@@ -32489,7 +32444,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -32686,7 +32640,6 @@
                   "y": 4
                 },
                 "hasClippingMask": false,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -32748,8 +32701,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "292ED751-658E-4262-BDE5-76D3DC203167",
-                "verticalSpacing": 0
+                "symbolID": "292ED751-658E-4262-BDE5-76D3DC203167"
               },
               {
                 "_class": "text",
@@ -32927,7 +32879,6 @@
                   "y": 2
                 },
                 "hasClippingMask": false,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -32994,8 +32945,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "AA968C45-E575-478B-8837-67DC7AE15B9F",
-                "verticalSpacing": 0
+                "symbolID": "AA968C45-E575-478B-8837-67DC7AE15B9F"
               }
             ],
             "name": "Group",
@@ -33198,7 +33148,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -33944,7 +33893,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -34696,7 +34644,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -35312,7 +35259,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -35934,7 +35880,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -36232,7 +36177,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -36536,7 +36480,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -36834,7 +36777,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -37138,7 +37080,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -37335,7 +37276,6 @@
                   "y": 4
                 },
                 "hasClippingMask": false,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -37397,8 +37337,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "98500347-E29C-46C2-BFB8-2C4B91FDC5AD",
-                "verticalSpacing": 0
+                "symbolID": "98500347-E29C-46C2-BFB8-2C4B91FDC5AD"
               },
               {
                 "_class": "text",
@@ -37576,7 +37515,6 @@
                   "y": 2
                 },
                 "hasClippingMask": false,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -37643,8 +37581,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "E3D07B04-E06A-4169-AF54-0525B3831DF1",
-                "verticalSpacing": 0
+                "symbolID": "E3D07B04-E06A-4169-AF54-0525B3831DF1"
               }
             ],
             "name": "Group",
@@ -37841,7 +37778,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -38038,7 +37974,6 @@
                   "y": 4
                 },
                 "hasClippingMask": false,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -38100,8 +38035,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "292ED751-658E-4262-BDE5-76D3DC203167",
-                "verticalSpacing": 0
+                "symbolID": "292ED751-658E-4262-BDE5-76D3DC203167"
               },
               {
                 "_class": "text",
@@ -38279,7 +38213,6 @@
                   "y": 2
                 },
                 "hasClippingMask": false,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -38346,8 +38279,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "AA968C45-E575-478B-8837-67DC7AE15B9F",
-                "verticalSpacing": 0
+                "symbolID": "AA968C45-E575-478B-8837-67DC7AE15B9F"
               }
             ],
             "name": "Group",
@@ -38550,7 +38482,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -38799,7 +38730,6 @@
                   "y": 4
                 },
                 "hasClippingMask": false,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -38861,8 +38791,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "98500347-E29C-46C2-BFB8-2C4B91FDC5AD",
-                "verticalSpacing": 0
+                "symbolID": "98500347-E29C-46C2-BFB8-2C4B91FDC5AD"
               },
               {
                 "_class": "text",
@@ -39040,7 +38969,6 @@
                   "y": 2
                 },
                 "hasClippingMask": false,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -39107,8 +39035,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "E3D07B04-E06A-4169-AF54-0525B3831DF1",
-                "verticalSpacing": 0
+                "symbolID": "E3D07B04-E06A-4169-AF54-0525B3831DF1"
               }
             ],
             "name": "Group",
@@ -39300,7 +39227,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -39549,7 +39475,6 @@
                   "y": 4
                 },
                 "hasClippingMask": false,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -39611,8 +39536,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "292ED751-658E-4262-BDE5-76D3DC203167",
-                "verticalSpacing": 0
+                "symbolID": "292ED751-658E-4262-BDE5-76D3DC203167"
               },
               {
                 "_class": "text",
@@ -39790,7 +39714,6 @@
                   "y": 2
                 },
                 "hasClippingMask": false,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -39857,8 +39780,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "AA968C45-E575-478B-8837-67DC7AE15B9F",
-                "verticalSpacing": 0
+                "symbolID": "AA968C45-E575-478B-8837-67DC7AE15B9F"
               }
             ],
             "name": "Group",
@@ -40056,7 +39978,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -40757,7 +40678,6 @@
                                       "y": 0
                                     },
                                     "hasClippingMask": true,
-                                    "horizontalSpacing": 0,
                                     "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
@@ -40824,8 +40744,7 @@
                                       "startMarkerType": 0,
                                       "windingRule": 1
                                     },
-                                    "symbolID": "6C522FEB-4DDA-4058-9C21-EA7DCF7D56D0",
-                                    "verticalSpacing": 0
+                                    "symbolID": "6C522FEB-4DDA-4058-9C21-EA7DCF7D56D0"
                                   },
                                   {
                                     "_class": "rectangle",
@@ -41748,7 +41667,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -42449,7 +42367,6 @@
                                       "y": 0
                                     },
                                     "hasClippingMask": true,
-                                    "horizontalSpacing": 0,
                                     "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
@@ -42516,8 +42433,7 @@
                                       "startMarkerType": 0,
                                       "windingRule": 1
                                     },
-                                    "symbolID": "19421E84-9BB2-4898-AD0B-8427229A60BE",
-                                    "verticalSpacing": 0
+                                    "symbolID": "19421E84-9BB2-4898-AD0B-8427229A60BE"
                                   },
                                   {
                                     "_class": "rectangle",
@@ -43446,7 +43362,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -44232,7 +44147,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -45024,7 +44938,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -46047,7 +45960,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -47080,7 +46992,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -47437,7 +47348,6 @@
                   "y": 0
                 },
                 "hasClippingMask": true,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -47499,8 +47409,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "97E9E9D9-4317-4507-BBEC-4210B158F283",
-                "verticalSpacing": 0
+                "symbolID": "97E9E9D9-4317-4507-BBEC-4210B158F283"
               },
               {
                 "_class": "rectangle",
@@ -47879,7 +47788,6 @@
         },
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -48236,7 +48144,6 @@
                   "y": 0
                 },
                 "hasClippingMask": true,
-                "horizontalSpacing": 0,
                 "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
@@ -48298,8 +48205,7 @@
                   "startMarkerType": 0,
                   "windingRule": 1
                 },
-                "symbolID": "F2835020-5A0D-41DE-B11D-8C7C9EB26172",
-                "verticalSpacing": 0
+                "symbolID": "F2835020-5A0D-41DE-B11D-8C7C9EB26172"
               },
               {
                 "_class": "rectangle",
@@ -48680,7 +48586,6 @@
         },
         "includeBackgroundColorInExport": false,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -49005,7 +48910,6 @@
         },
         "includeBackgroundColorInExport": false,
         "includeBackgroundColorInInstance": false,
-        "includeInCloudUpload": true,
         "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
@@ -51082,8 +50986,8 @@
     ]
   },
   "meta": {
-    "appVersion": "71.1",
-    "build": 115193,
+    "appVersion": "78.1",
+    "build": 131922,
     "version": 136
   },
   "pages": [

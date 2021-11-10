@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -42,7 +42,6 @@
   },
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -62,7 +61,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "6519AAD5-F45D-4AFD-945B-39229437B75E_layerStyle"
+      "overrideName": "1FFB6A85-7ED0-415F-A40E-978182B21BAA_layerStyle"
     }
   ],
   "presetDictionary": {

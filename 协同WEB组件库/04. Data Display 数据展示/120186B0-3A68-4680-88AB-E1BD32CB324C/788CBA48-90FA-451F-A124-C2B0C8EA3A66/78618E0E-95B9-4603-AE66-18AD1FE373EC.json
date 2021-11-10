@@ -21,13 +21,12 @@
     "y": 77
   },
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "04. Data Display 数据展示/Checkbox多选框/checked备份 2",
   "nameIsFixed": false,
   "overrideValues": [
@@ -88,6 +87,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0FA69B6C-1A01-46DD-B36D-70611EF93848",
-  "verticalSpacing": 0
+  "symbolID": "0FA69B6C-1A01-46DD-B36D-70611EF93848"
 }
