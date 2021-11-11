@@ -1,0 +1,190 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "053CD8D4-B692-486D-AF25-D5CE3442A2E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 713,
+    "width": 689,
+    "x": 7649,
+    "y": 1102
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "13274A6E-D09A-4766-B2A5-F4EED6532B31"
+    },
+    {
+      "class": "text",
+      "id": "F9491B0C-BDF5-4326-A600-AC6F4EA55069"
+    },
+    {
+      "class": "text",
+      "id": "BADB5221-2420-4C26-9C31-E15925F3A71D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDFB9AA5-A8D9-49E1-926A-F60FC32A3498"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "92D41185-D526-4CE3-B989-178A5C562DE0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1751E104-8CA4-4C04-9A95-818D2AB6FCEA"
+    },
+    {
+      "class": "group",
+      "id": "6D0C6BA4-47EC-4A0F-9F94-01FE404CE9B5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83642632-41FF-4C2F-A9BE-255C78FDD08B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D641A4C-66D5-4DE4-A299-1BFA9688BF37"
+    },
+    {
+      "class": "text",
+      "id": "2BF4AC89-39F5-4EF6-B40B-7AC863D30E79"
+    },
+    {
+      "class": "text",
+      "id": "E5FBE366-43E9-48E2-BF51-5789A8EFA595"
+    },
+    {
+      "class": "group",
+      "id": "82955771-44AE-44E4-ADAD-5F9D334AC73F"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 70,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1170
+  },
+  "name": "Switch 开关",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "ABEF8C44-6FC0-4984-A1A3-5C9DE0CAB021",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

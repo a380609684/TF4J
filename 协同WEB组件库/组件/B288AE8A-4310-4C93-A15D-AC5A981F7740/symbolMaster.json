@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 128,
-    "x": -2882,
-    "y": 288
+    "width": 68,
+    "x": -2686,
+    "y": 132
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -46,6 +46,7 @@
   },
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -59,18 +60,13 @@
       "id": "6CADA8A1-E14E-4A68-A131-0AF0703CF861"
     },
     {
-      "class": "group",
-      "id": "D131FD42-C316-4D14-815D-1162F6912DBE"
+      "class": "text",
+      "id": "8E6328E8-5E64-4657-9141-26711E1D8290"
     }
   ],
-  "name": "02. Navigation 导航/Tabs标签页/卡片标签/左-可选",
+  "name": "02. Navigation 导航/Tabs标签页/三级导航/左-可选",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "8E6328E8-5E64-4657-9141-26711E1D8290_stringValue"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -79,37 +75,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "4E38A2EA-EDFE-4E3D-B954-DD80A57E3525_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "4E38A2EA-EDFE-4E3D-B954-DD80A57E3525/639787BC-AF89-4411-B30C-2C2A78AE2B63_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "4E38A2EA-EDFE-4E3D-B954-DD80A57E3525_fillColor"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "55DC351F-EAC0-47C5-9299-1B4DB23AB252_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "55DC351F-EAC0-47C5-9299-1B4DB23AB252/898A3935-AC79-4E77-AD35-2D16698280ED_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "55DC351F-EAC0-47C5-9299-1B4DB23AB252_fillColor"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "6CADA8A1-E14E-4A68-A131-0AF0703CF861_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8E6328E8-5E64-4657-9141-26711E1D8290_stringValue"
     }
   ],
   "presetDictionary": {

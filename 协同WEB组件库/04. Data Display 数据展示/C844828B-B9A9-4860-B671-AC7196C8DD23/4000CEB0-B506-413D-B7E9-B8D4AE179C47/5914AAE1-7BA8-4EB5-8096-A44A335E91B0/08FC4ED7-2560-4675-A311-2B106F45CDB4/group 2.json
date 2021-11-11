@@ -1,0 +1,128 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "08FC4ED7-2560-4675-A311-2B106F45CDB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 18,
+    "x": 336,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1AC316C2-76C3-4824-B13D-DE4D7DDF5339"
+    }
+  ],
+  "name": "04. Data Display 数据展示/Tag标签/凸显-红备份 22",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "B4A1729C-1039-48D8-BE31-37A5D318E3E0",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "CA6203F4-787A-4E3F-BD7D-778C4613ABCC",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 18,
+          "width": 18,
+          "x": 336,
+          "y": 0
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "68687FEE-13CC-4F00-8011-F7B71B44058C",
+        "symbolID": "5A6CEC3C-3C48-4D3D-9CB1-7E7861F86280"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "CA6203F4-787A-4E3F-BD7D-778C4613ABCC",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 18,
+          "width": 18,
+          "x": 336,
+          "y": 0
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "68687FEE-13CC-4F00-8011-F7B71B44058C",
+        "symbolID": "5A6CEC3C-3C48-4D3D-9CB1-7E7861F86280"
+      }
+    }
+  }
+}
