@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,11 +62,6 @@
   "name": "01. General 通用/Icon图标/24/035.通知-审批",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "8CDCCC33-63A7-4AB7-B765-8ACA5D5C941D_layerStyle"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

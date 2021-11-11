@@ -24,8 +24,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 46,
-    "width": 28,
-    "x": -2787,
+    "width": 56,
+    "x": -2882,
     "y": 92
   },
   "groupLayout": {
@@ -67,7 +67,7 @@
       "id": "4165284B-3404-4316-8C04-11F1C79F2A8C"
     }
   ],
-  "name": "02. Navigation 导航/Tabs标签页/二级导航/默认-选中",
+  "name": "02. Navigation 导航/Tabs标签页/常规标签/文字-选中",
   "nameIsFixed": true,
   "overrideProperties": [
     {
