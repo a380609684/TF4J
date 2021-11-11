@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 1,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "右"
+    "string": "24-Right"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 12,
-    "x": 430,
+    "width": 50,
+    "x": 411,
     "y": 2077
   },
-  "glyphBounds": "{{0, 4}, {12, 13}}",
+  "glyphBounds": "{{0, 5}, {50, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "右",
+  "name": "24-Right",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "旋转照片"
+    "string": "Rotate"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 48,
-    "x": 721,
+    "width": 38,
+    "x": 726,
     "y": 1322
   },
-  "glyphBounds": "{{0, 4}, {48, 13}}",
+  "glyphBounds": "{{1, 5}, {36, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "旋转照片",
+  "name": "Rotate",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

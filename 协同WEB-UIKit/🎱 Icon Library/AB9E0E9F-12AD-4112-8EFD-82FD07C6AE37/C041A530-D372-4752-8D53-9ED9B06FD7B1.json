@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "播放-F"
+    "string": "Play-F"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -59,7 +59,7 @@
     "x": 728,
     "y": 1246
   },
-  "glyphBounds": "{{0, 4}, {36, 13}}",
+  "glyphBounds": "{{1, 5}, {34, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "播放-F",
+  "name": "Play-F",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

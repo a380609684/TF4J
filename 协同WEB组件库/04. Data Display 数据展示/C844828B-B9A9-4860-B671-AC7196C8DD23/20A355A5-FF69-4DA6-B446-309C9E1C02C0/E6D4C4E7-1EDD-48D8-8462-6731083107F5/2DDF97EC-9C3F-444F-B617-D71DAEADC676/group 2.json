@@ -1,0 +1,140 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2DDF97EC-9C3F-444F-B617-D71DAEADC676",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 84,
+    "x": 13,
+    "y": 32
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "40BABF85-4789-4EB8-917F-8C8C0A5616F9"
+    },
+    {
+      "class": "text",
+      "id": "41659FC4-3827-4A33-A8C1-7F19F1FC62A8"
+    },
+    {
+      "class": "group",
+      "id": "847A2C8D-E4F1-404B-AA5E-9922188F4D17"
+    },
+    {
+      "class": "group",
+      "id": "AA92E6C1-0DEB-4EFB-B6C4-5DF59CD8B4FE"
+    }
+  ],
+  "name": "04. Data Display 数据展示/Tag标签/评价标签",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "4B04E560-7276-4A82-A112-0BA191883459",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "A88ACF16-E347-49B5-B0A9-207A065B0E7E",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 84,
+          "x": 13,
+          "y": 32
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "8AB6D9AA-759A-4C56-A42A-04156B40FA26",
+        "symbolID": "58DBE77D-C23C-424B-AE4E-8E88F089CE59"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "A88ACF16-E347-49B5-B0A9-207A065B0E7E",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 84,
+          "x": 13,
+          "y": 32
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "8AB6D9AA-759A-4C56-A42A-04156B40FA26",
+        "symbolID": "58DBE77D-C23C-424B-AE4E-8E88F089CE59"
+      }
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7012F6B4-4F15-4516-99EF-08D5BD0A2EF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 152,
+    "x": 724,
+    "y": 169
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BB49DEF7-51EB-4536-8A8F-46BE6386ABC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C3D13E5-3010-464D-91B1-771BBB805944"
+    },
+    {
+      "class": "group",
+      "id": "AE5CE5C9-66F8-466E-8C96-70740591C650"
+    }
+  ],
+  "name": "02. Navigation 导航/Dropdown下拉菜单/菜单/文字列表-普通 Copy 18",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "9508EB05-EB85-4094-9197-BEBB437C2D03",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "95A38D8D-6B01-4714-A8E8-90AD6F5D0B20",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 152,
+          "x": 724,
+          "y": 168
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "FF883399-B151-4557-A2E1-118C86BC7A1F",
+        "symbolID": "5024212D-BDDA-4117-81D0-A21C2F11E013"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "95A38D8D-6B01-4714-A8E8-90AD6F5D0B20",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 32,
+          "width": 152,
+          "x": 724,
+          "y": 168
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "FF883399-B151-4557-A2E1-118C86BC7A1F",
+        "symbolID": "5024212D-BDDA-4117-81D0-A21C2F11E013"
+      }
+    }
+  }
+}

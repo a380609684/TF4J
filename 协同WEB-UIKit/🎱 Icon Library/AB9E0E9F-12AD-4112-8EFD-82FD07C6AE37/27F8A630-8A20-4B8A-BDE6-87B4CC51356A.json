@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "删除线"
+    "string": "Strikethrough"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 36,
-    "x": 935,
+    "width": 79,
+    "x": 913.5,
     "y": 1550
   },
-  "glyphBounds": "{{0, 4}, {36, 13}}",
+  "glyphBounds": "{{0, 5}, {78, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "删除线",
+  "name": "Strikethrough",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

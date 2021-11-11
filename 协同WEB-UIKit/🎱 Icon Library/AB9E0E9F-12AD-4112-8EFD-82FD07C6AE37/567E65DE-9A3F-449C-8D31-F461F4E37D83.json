@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "文件夹-F"
+    "string": "Folder-F"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -59,7 +59,7 @@
     "x": 308,
     "y": 1170
   },
-  "glyphBounds": "{{0, 4}, {48, 13}}",
+  "glyphBounds": "{{1, 5}, {46, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "文件夹-F",
+  "name": "Folder-F",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

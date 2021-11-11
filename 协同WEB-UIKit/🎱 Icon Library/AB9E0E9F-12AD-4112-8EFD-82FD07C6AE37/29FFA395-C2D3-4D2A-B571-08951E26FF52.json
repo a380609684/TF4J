@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "链接"
+    "string": "Link"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -59,7 +59,7 @@
     "x": 631,
     "y": 1474
   },
-  "glyphBounds": "{{0, 4}, {24, 13}}",
+  "glyphBounds": "{{1, 5}, {23, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "链接",
+  "name": "Link",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
