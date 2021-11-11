@@ -123,9 +123,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5176470588235293,
-          "green": 0.7411764705882353,
-          "red": 0.04313725490196078,
+          "blue": 0.4980392156862745,
+          "green": 0.7450980392156863,
+          "red": 0,
           "swatchID": "EEA58AC2-A8F9-4A0B-8667-2F38EADBFA39"
         },
         "contextSettings": {

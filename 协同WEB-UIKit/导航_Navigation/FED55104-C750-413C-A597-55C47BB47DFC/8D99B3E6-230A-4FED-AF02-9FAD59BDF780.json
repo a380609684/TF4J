@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 40,
-    "x": 192,
-    "y": 1054
+    "width": 56,
+    "x": 232,
+    "y": 990
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
