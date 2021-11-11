@@ -58,6 +58,11 @@
   "name": "01. General 通用/Icon图标/16/132.撤销",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E8E0E351-138B-43DF-88E0-C356C906F9A5_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

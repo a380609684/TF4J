@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 60,
-    "x": -2803,
-    "y": 44
+    "height": 46,
+    "width": 56,
+    "x": -2882,
+    "y": 30
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -59,11 +59,15 @@
       "id": "AE9449BD-4674-4B1F-AA88-F89CD33D834D"
     },
     {
+      "class": "rectangle",
+      "id": "89D8DC2B-6608-4798-808D-5A35D47AE1EA"
+    },
+    {
       "class": "text",
       "id": "B07B20D2-BE26-4444-9946-8D8E14BED82E"
     }
   ],
-  "name": "02. Navigation 导航/Tabs标签页/二级导航/默认-可选",
+  "name": "02. Navigation 导航/Tabs标签页/常规标签/文字-可选",
   "nameIsFixed": true,
   "overrideProperties": [
     {
