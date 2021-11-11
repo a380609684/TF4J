@@ -57,22 +57,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "text",
-      "id": "9098E39C-C177-4D61-9DC6-7D992051B1FE"
-    },
-    {
-      "class": "group",
-      "id": "C25CA72A-BD43-4207-B6E7-CAB7AB702361"
-    },
-    {
-      "class": "group",
-      "id": "2E449803-C918-4D58-A653-1A0BF7B849CA"
-    },
-    {
-      "class": "group",
-      "id": "0E14C3EC-5A36-452A-9ED9-0E5A98F59FBA"
-    }
   ],
   "layout": {
     "_class": "layoutGrid",
