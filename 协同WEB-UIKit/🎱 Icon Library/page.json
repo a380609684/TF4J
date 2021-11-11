@@ -38,6 +38,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "AB9E0E9F-12AD-4112-8EFD-82FD07C6AE37"
+    }
   ],
   "name": "🎱 Icon Library",
   "nameIsFixed": true,
