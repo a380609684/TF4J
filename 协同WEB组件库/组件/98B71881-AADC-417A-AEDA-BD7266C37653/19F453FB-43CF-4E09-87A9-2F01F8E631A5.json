@@ -38,7 +38,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{-3.2566542055671257e-15, 0}",
       "curveMode": 1,
       "curveTo": "{-3.2566542055671257e-15, 0}",
@@ -48,7 +48,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 0,
       "curveFrom": "{1.0000000000000004, 0}",
       "curveMode": 1,
       "curveTo": "{1.0000000000000004, 0}",

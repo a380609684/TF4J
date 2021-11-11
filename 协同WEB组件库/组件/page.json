@@ -2765,6 +2765,18 @@
     {
       "class": "symbolMaster",
       "id": "8F6D6443-EDF1-4F10-B9F2-23B0DD5686B9"
+    },
+    {
+      "class": "bitmap",
+      "id": "1F46CA91-2DF9-409C-9629-6EA2C2CE6097"
+    },
+    {
+      "class": "text",
+      "id": "38BD2AF9-633B-43EE-97BF-9C669D6583B8"
+    },
+    {
+      "class": "rectangle",
+      "id": "76127E9C-4C13-4073-B7B0-B42E90329F43"
     }
   ],
   "name": "组件",

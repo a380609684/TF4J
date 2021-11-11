@@ -372,6 +372,16 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "33A41B8C-298E-41F2-9970-A8C48346D1A8",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Heavy.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Heavy"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "33E1EB67-8517-4203-BB59-36A509E9E41B",
       "fontFamilyName": "Microsoft YaHei",
       "fontFileName": "MSYHL.TTC",
@@ -444,6 +454,16 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "57D3227D-B884-4DFF-83D5-19EAC53F27A4",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Medium.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SFProText-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "61DB1B4E-0582-49CF-B74B-99FB459EA884",
       "fontFamilyName": "Gotham",
       "fontFileName": "Gotham-ThinItalic.otf",
@@ -460,6 +480,16 @@
       "options": 0,
       "postscriptNames": [
         "Gotham-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "75DC56F8-FCF9-4A5F-B253-0D96F864995A",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Regular"
       ]
     },
     {
@@ -500,6 +530,26 @@
       "options": 0,
       "postscriptNames": [
         "FANGGEEK-Numbers-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "87968B82-B6B1-4305-8AE7-3E8CAF657B45",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8A368458-1304-4A24-B1CA-80A3EE3F1914",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Semibold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Semibold"
       ]
     },
     {
@@ -574,6 +624,16 @@
       "options": 0,
       "postscriptNames": [
         "GothamPro-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BA7A4632-0C40-4A5E-B768-8EDC667300E9",
+      "fontFamilyName": "SF Pro Text",
+      "fontFileName": "SF-Pro-Text-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SFProText-Bold"
       ]
     },
     {

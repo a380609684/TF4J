@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 60,
-    "x": -2803,
-    "y": 44
+    "height": 46,
+    "width": 28,
+    "x": -2787,
+    "y": 30
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -36,7 +36,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

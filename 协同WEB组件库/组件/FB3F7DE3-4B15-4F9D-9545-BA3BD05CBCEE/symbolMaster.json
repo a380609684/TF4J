@@ -78,22 +78,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "24867E75-75D4-45FA-A30D-B82918DA1ED0_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
       "overrideName": "ACAD1C85-D15D-4EB6-B562-8483EF52464C_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "FD85BEAC-9B68-482C-BCD4-5728D4E2A1A0_layerStyle"
     }
   ],
   "presetDictionary": {
   },
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
