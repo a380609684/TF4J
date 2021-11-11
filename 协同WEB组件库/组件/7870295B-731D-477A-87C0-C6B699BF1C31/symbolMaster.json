@@ -63,16 +63,8 @@
       "id": "D4C77D85-618B-4341-865B-F2F6B5CB7DE8"
     },
     {
-      "class": "group",
-      "id": "93FC44F1-B8E2-4960-8BFF-0E148D4039DD"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "9EDA6DE8-13E2-42F5-B76E-35A9F83969F5"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "670CDD3D-D800-459F-9B4E-672193028D38"
+      "class": "rectangle",
+      "id": "D5F3839F-FD6F-4341-AE6E-B06673C8DCFA"
     }
   ],
   "name": "02. Navigation 导航/Tabs标签页/卡片标签/左-选中备份",
@@ -102,11 +94,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "E6A2F837-38EA-4AA2-B4FC-B541BB04BEAB_fillColor"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "24A1E437-4D4A-4991-A9F0-CDBC557CE23E_layerStyle"
     }
   ],
   "presetDictionary": {

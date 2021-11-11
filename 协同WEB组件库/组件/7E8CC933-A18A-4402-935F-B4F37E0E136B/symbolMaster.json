@@ -83,6 +83,11 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "89D8DC2B-6608-4798-808D-5A35D47AE1EA_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "AE9449BD-4674-4B1F-AA88-F89CD33D834D_layerStyle"
     }
   ],

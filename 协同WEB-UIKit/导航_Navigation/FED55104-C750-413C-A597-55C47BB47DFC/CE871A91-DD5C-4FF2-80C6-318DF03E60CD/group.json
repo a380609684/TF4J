@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 460,
-    "x": 100,
-    "y": 840
+    "width": 472,
+    "x": 92,
+    "y": 771
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,16 +30,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "90228E27-AAEF-4C0F-AFC9-5F0D56072E93"
-    },
-    {
-      "class": "rectangle",
-      "id": "9807EA1C-5A57-4069-A071-0E17C209607E"
-    },
     {
       "class": "symbolInstance",
       "id": "A08E59C0-982D-47F1-8E95-6D0ABA48A89A"

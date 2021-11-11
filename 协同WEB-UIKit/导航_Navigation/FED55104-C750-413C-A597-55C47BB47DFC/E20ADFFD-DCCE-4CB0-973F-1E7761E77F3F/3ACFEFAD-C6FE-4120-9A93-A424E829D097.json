@@ -17,8 +17,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 55.99999999999999,
-    "width": 356,
+    "height": 48,
+    "width": 320,
     "x": 0,
     "y": 0
   },
@@ -80,7 +80,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E7EBBACA-5478-473C-AA42-7D2A6C3208DE",
+  "sharedStyleID": "617E48D3-A6A2-4041-9F88-46943B4E75D8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -138,7 +138,7 @@
         },
         "isEnabled": true,
         "offsetX": 0,
-        "offsetY": -1,
+        "offsetY": -2,
         "spread": 0
       }
     ],

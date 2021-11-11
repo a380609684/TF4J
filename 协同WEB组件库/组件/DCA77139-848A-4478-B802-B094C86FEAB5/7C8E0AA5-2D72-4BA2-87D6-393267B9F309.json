@@ -13,7 +13,7 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 8,
+  "fixedRadius": 4,
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
@@ -38,7 +38,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 4,
       "curveFrom": "{0, 4.7878367936959876e-16}",
       "curveMode": 1,
       "curveTo": "{0, 0.69919690997352169}",
@@ -48,7 +48,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 4,
       "curveFrom": "{0.99999999999999967, 0.70169002163358718}",
       "curveMode": 1,
       "curveTo": "{0.99999999999999967, 4.7878367936959876e-16}",
@@ -58,7 +58,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 4,
       "curveFrom": "{0.99999999999999789, 1.0419719501973921}",
       "curveMode": 1,
       "curveTo": "{0.99999999999999789, 0.39971842907063088}",
@@ -68,7 +68,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 4,
       "curveFrom": "{-1.3216172342558179e-15, 0.4022115407306921}",
       "curveMode": 1,
       "curveTo": "{-1.3216172342558179e-15, 1.0444650618574527}",

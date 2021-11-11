@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 46,
     "width": 40,
-    "x": 168,
-    "y": 718
+    "x": 176,
+    "y": 647
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -33,7 +33,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "0C4EBA66-4A17-45A1-9F86-28644A83D673_symbolID",
-      "value": "0D85F625-400D-4C99-B326-A1E5140E38BF"
+      "value": "88A113E0-F390-48A7-9C38-4E8CB4F7C44A"
     }
   ],
   "resizingConstraint": 63,

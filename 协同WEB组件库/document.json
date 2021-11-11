@@ -5297,6 +5297,117 @@
       "remoteStyleID": "55EE1B64-D0C1-46C2-8800-20D3EDA64506[A276E31A-68C4-416B-8625-67666C70629F]",
       "sourceLibraryName": "WEB设计系统",
       "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "6770AB8D-BBF7-4B68-8D3A-B45032F6F26D",
+      "libraryID": "7D1BE774-3427-4365-B9C5-6264C8FE8506",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "9B8DA5FC-7CD6-417C-9EB3-6524175C3FC7",
+        "name": "00.纯白",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": false,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "6CC41DF9-0374-4040-9594-6DFB0D7F4D21",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "BA900FCE-82BF-4283-A433-FBB60C1A9D4E[C67BAB24-4EB3-43F5-9F86-DAF5D4FBD822]",
+      "sourceLibraryName": "WEB设计系统",
+      "symbolPrivate": true
     }
   ],
   "foreignSwatches": [
@@ -50937,9 +51048,9 @@
         "value": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9215686274509803,
-          "green": 0.6745098039215687,
-          "red": 0.1529411764705882
+          "blue": 0.96,
+          "green": 0.7026382978723406,
+          "red": 0.1593191489361702
         }
       },
       {
@@ -50961,9 +51072,9 @@
         "value": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5176470588235293,
-          "green": 0.7411764705882353,
-          "red": 0.04313725490196078
+          "blue": 0.4980392156862745,
+          "green": 0.7450980392156863,
+          "red": 0
         }
       },
       {

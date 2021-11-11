@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 40,
     "width": 88,
-    "x": 279,
+    "x": 288,
     "y": 0
   },
   "hasClippingMask": false,
@@ -39,6 +39,16 @@
       "_class": "overrideValue",
       "overrideName": "12C065A4-0281-4508-8B5E-94B159BBD3A6_stringValue",
       "value": "抄送我的"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "61958CC0-A99A-4BDA-8A57-FD92B928F0ED_layerStyle",
+      "value": "EDC9F6E9-68AB-434B-B5C4-C5A1824FA2F9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "12C065A4-0281-4508-8B5E-94B159BBD3A6_textStyle",
+      "value": "4AE9579E-830B-48F7-AAE3-E8F09D3EC782[8ED750A7-FB62-4F6D-9FAC-E11C668119BC]"
     }
   ],
   "resizingConstraint": 63,

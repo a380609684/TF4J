@@ -59,16 +59,8 @@
       "id": "FFDA782D-C0EF-4A5D-9A34-C28BA4C6A065"
     },
     {
-      "class": "group",
-      "id": "09CCE456-6FBA-4B0D-80EA-1C48456F5915"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "3C9AD0A3-5D90-4D8C-8801-4A60285D6EFF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "843E2250-ED2F-4AAF-AD40-556DC4D202F1"
+      "class": "rectangle",
+      "id": "62EC4489-1956-4F3D-85E7-569EF8F66A9E"
     },
     {
       "class": "group",

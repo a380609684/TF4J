@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 40,
     "width": 40,
-    "x": -3525,
-    "y": 3068
+    "x": -3642,
+    "y": 3008
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -58,6 +58,11 @@
   "name": "01. General 通用/Icon图标/40/030.通知",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6548F1E0-76FE-4F3C-A308-43C3450D59C9_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

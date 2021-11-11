@@ -13,14 +13,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 8,
+  "fixedRadius": 4,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 100,
-    "x": 4,
-    "y": 4
+    "height": 40,
+    "width": 108,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -38,7 +38,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 4,
       "curveFrom": "{0, 5.0365147073725061e-16}",
       "curveMode": 1,
       "curveTo": "{0, 0.7355128573028501}",
@@ -48,7 +48,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 4,
       "curveFrom": "{0.99999999999999734, 0.73813545996958807}",
       "curveMode": 1,
       "curveTo": "{0.99999999999999734, 3.0360329634941781e-15}",
@@ -58,7 +58,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 0,
       "curveFrom": "{0.99999999999999645, 1.0441519528703671}",
       "curveMode": 1,
       "curveTo": "{0.99999999999999645, 0.36854009632676576}",
@@ -68,7 +68,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 0,
       "curveFrom": "{0, 0.37116269899349658}",
       "curveMode": 1,
       "curveTo": "{0, 1.0467745555370975}",
@@ -80,7 +80,7 @@
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E1ED6212-2554-427E-B0FA-77FE801BF2E8",
+  "sharedStyleID": "2CDD8E2D-4DB7-4726-83C2-BAD9C01DFF07",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

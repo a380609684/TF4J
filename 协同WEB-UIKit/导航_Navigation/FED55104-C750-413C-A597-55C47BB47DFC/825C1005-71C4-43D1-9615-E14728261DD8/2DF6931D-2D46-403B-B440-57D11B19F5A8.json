@@ -34,6 +34,18 @@
       "_class": "overrideValue",
       "overrideName": "8E6328E8-5E64-4657-9141-26711E1D8290_stringValue",
       "value": "我的待办"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4E38A2EA-EDFE-4E3D-B954-DD80A57E3525_fillColor",
+      "value": {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5882352941176471,
+        "green": 0.5529411764705883,
+        "red": 0.5294117647058824,
+        "swatchID": "3F62FDFC-C67B-4F6E-8926-D2B5A36D20D4"
+      }
     }
   ],
   "resizingConstraint": 63,

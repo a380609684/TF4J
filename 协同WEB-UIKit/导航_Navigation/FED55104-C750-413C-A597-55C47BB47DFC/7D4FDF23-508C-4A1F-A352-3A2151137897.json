@@ -18,7 +18,7 @@
     "height": 46,
     "width": 76,
     "x": 108,
-    "y": 562
+    "y": 521
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -34,6 +34,18 @@
       "_class": "overrideValue",
       "overrideName": "A7E6B094-1A0C-495D-8D1A-6E98B4076134_stringValue",
       "value": "我的待办"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "978EF7FF-8DAC-434A-957F-A06DD66C2949_fillColor",
+      "value": {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5882352941176471,
+        "green": 0.5529411764705883,
+        "red": 0.5294117647058824,
+        "swatchID": "3F62FDFC-C67B-4F6E-8926-D2B5A36D20D4"
+      }
     }
   ],
   "resizingConstraint": 63,
