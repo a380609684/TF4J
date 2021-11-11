@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 68,
-    "x": -2593,
-    "y": 132
+    "width": 128,
+    "x": -2728,
+    "y": 288
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -46,7 +46,6 @@
   },
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -60,26 +59,36 @@
       "id": "FFDA782D-C0EF-4A5D-9A34-C28BA4C6A065"
     },
     {
-<<<<<<< HEAD
       "class": "rectangle",
       "id": "62EC4489-1956-4F3D-85E7-569EF8F66A9E"
     },
     {
       "class": "group",
       "id": "5F15F571-4775-4FDA-BF10-94CD10AABFE2"
-=======
-      "class": "text",
-      "id": "8EBE519C-ED02-4AE4-B6D5-219FF994DA03"
->>>>>>> 802931a01fa23c378288e9a6d7d13d70f7192b78
     }
   ],
-  "name": "02. Navigation 导航/Tabs标签页/三级导航/左-选中",
+  "name": "02. Navigation 导航/Tabs标签页/卡片标签/左-选中",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "FFDA782D-C0EF-4A5D-9A34-C28BA4C6A065_layerStyle"
+      "overrideName": "17A2DFCB-BE5F-45C2-89EC-17A5CF4968E0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "17A2DFCB-BE5F-45C2-89EC-17A5CF4968E0/898A3935-AC79-4E77-AD35-2D16698280ED_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "17A2DFCB-BE5F-45C2-89EC-17A5CF4968E0_fillColor"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8EBE519C-ED02-4AE4-B6D5-219FF994DA03_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -89,7 +98,22 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "8EBE519C-ED02-4AE4-B6D5-219FF994DA03_stringValue"
+      "overrideName": "3322AD99-3B5D-46F7-8DCD-CAF70A779E96_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3322AD99-3B5D-46F7-8DCD-CAF70A779E96/639787BC-AF89-4411-B30C-2C2A78AE2B63_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3322AD99-3B5D-46F7-8DCD-CAF70A779E96_fillColor"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FFDA782D-C0EF-4A5D-9A34-C28BA4C6A065_layerStyle"
     }
   ],
   "presetDictionary": {

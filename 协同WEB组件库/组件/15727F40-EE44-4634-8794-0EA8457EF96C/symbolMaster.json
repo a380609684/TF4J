@@ -69,13 +69,18 @@
     },
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B737439E-9D51-41C3-BA93-C934BCD463F6/1FFB6A85-7ED0-415F-A40E-978182B21BAA_layerStyle"
+      "canOverride": false,
+      "overrideName": "B737439E-9D51-41C3-BA93-C934BCD463F6/6519AAD5-F45D-4AFD-945B-39229437B75E_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "B737439E-9D51-41C3-BA93-C934BCD463F6_fillColor"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D17FEE13-7B67-48A7-BB7F-9AD4A7210D81_layerStyle"
     }
   ],
   "presetDictionary": {
