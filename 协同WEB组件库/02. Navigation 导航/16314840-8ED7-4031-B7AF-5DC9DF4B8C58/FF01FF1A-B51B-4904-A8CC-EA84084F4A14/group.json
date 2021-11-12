@@ -37,16 +37,16 @@
       "id": "05ECE2DA-1128-4C9D-8564-E2A212C1E797"
     },
     {
-      "class": "symbolInstance",
-      "id": "CAE36B70-5B68-44FF-A167-39F2F283240C"
+      "class": "group",
+      "id": "E5239D79-3A96-4127-9859-AAAC2B73F394"
     },
     {
-      "class": "symbolInstance",
-      "id": "B457C11D-EA11-41FB-B635-8FCCFFD9D7ED"
+      "class": "group",
+      "id": "63517D0A-398B-43A9-8CBB-74E7B67B6433"
     },
     {
-      "class": "symbolInstance",
-      "id": "3DB3A99C-42A4-4B32-A7A5-8A5F052C12CC"
+      "class": "group",
+      "id": "B477EBFF-4367-443A-A4D3-85F711FF6BE4"
     }
   ],
   "name": "编组 5备份 2",

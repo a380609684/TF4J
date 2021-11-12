@@ -75,56 +75,6 @@
       "lineJoinStyle": 0
     },
     "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
-        "isEnabled": false,
-        "position": 1,
-        "thickness": 1
-      }
     ],
     "colorControls": {
       "_class": "colorControls",
@@ -147,9 +97,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1958126905487805,
-          "green": 0.6598115581944092,
-          "red": 0.9308197463768116
+          "blue": 0.0196078431372549,
+          "green": 0.6274509803921569,
+          "red": 0.9803921568627451,
+          "swatchID": "43E4FA22-3EEC-47E1-BBEE-8F6C160B9753"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -202,6 +153,14 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "C71ABA33-9AA5-46CE-A67F-4982C5D11F00",
+        "sharedStyleName": "05.状态色/Warn"
+      }
+    }
   },
   "windingRule": 1
 }

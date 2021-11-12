@@ -37,16 +37,16 @@
       "id": "EDF90CAA-AB5F-443B-9FFB-458AC9B28DFC"
     },
     {
-      "class": "symbolInstance",
-      "id": "4E33D999-D0D4-4B89-883D-B7569EB97EF5"
+      "class": "group",
+      "id": "997C5668-74BE-4CDF-A209-44A38CB99180"
     },
     {
-      "class": "symbolInstance",
-      "id": "DBA472F9-E6E1-4C7A-A32E-52335BF17286"
+      "class": "group",
+      "id": "D8F16AB0-A299-4CDF-8FC7-D9AD37B43117"
     },
     {
-      "class": "symbolInstance",
-      "id": "57E8FD56-627F-498F-8405-A161D8981EC4"
+      "class": "group",
+      "id": "57D39D53-3F5F-47C5-B235-965AD3F416E4"
     }
   ],
   "name": "编组 5备份",

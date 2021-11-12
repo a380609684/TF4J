@@ -58,6 +58,11 @@
   "name": "01. General 通用/Icon图标/16/133.重做",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EF242502-1737-43A3-9BEE-FBCE16F842AB_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

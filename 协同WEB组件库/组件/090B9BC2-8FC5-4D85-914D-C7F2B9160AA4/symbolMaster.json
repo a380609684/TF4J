@@ -58,6 +58,11 @@
   "name": "01. General 通用/Icon图标/16/086.重播备份 6",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E648EC8A-2642-4784-9FC9-46237AAC3781_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

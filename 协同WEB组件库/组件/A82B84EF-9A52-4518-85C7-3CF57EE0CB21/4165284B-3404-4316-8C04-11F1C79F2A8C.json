@@ -17,10 +17,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3,
-    "width": 60,
+    "height": 2,
+    "width": 56,
     "x": 0,
-    "y": 29
+    "y": 44
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -39,47 +39,48 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.032634032634032667, 0}",
+      "curveFrom": "{0.016317016317016351, 0}",
       "curveMode": 1,
-      "curveTo": "{-3.8259993464005416e-15, 0}",
+      "curveTo": "{-1.9129996732002724e-15, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{-3.8259993464005416e-15, 0}"
+      "point": "{-1.9129996732002724e-15, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.9999999999999819, 0}",
+      "curveFrom": "{0.99999999999999867, 0}",
       "curveMode": 1,
-      "curveTo": "{0.96736596736595026, 0}",
+      "curveTo": "{0.9836829836829829, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.9999999999999819, 0}"
+      "point": "{0.99999999999999867, 0}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{0.9999999999999819, 1}",
+      "curveFrom": "{0.99999999999999867, 1}",
       "curveMode": 1,
-      "curveTo": "{0.9999999999999819, 1}",
+      "curveTo": "{0.99999999999999867, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.9999999999999819, 1}"
+      "point": "{0.99999999999999867, 1}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 0,
-      "curveFrom": "{-3.6031783617380126e-15, 0.99999999999999989}",
+      "curveFrom": "{-1.8015891808690071e-15, 1.0000000000000009}",
       "curveMode": 1,
-      "curveTo": "{-3.6031783617380126e-15, 0.99999999999999989}",
+      "curveTo": "{-1.8015891808690071e-15, 1.0000000000000009}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{-3.6031783617380126e-15, 0.99999999999999989}"
+      "point": "{-1.8015891808690071e-15, 1.0000000000000009}"
     }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "6D526790-F5D8-4F58-9648-DEF5A0E6CCFE",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -124,8 +125,9 @@
           "_class": "color",
           "alpha": 1,
           "blue": 0.9803921568627451,
-          "green": 0.3568627450980392,
-          "red": 0.1725490196078431
+          "green": 0.3568627450980393,
+          "red": 0.1725490196078431,
+          "swatchID": "91B3EB1F-4917-488F-AFB7-5410EC1E8166"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

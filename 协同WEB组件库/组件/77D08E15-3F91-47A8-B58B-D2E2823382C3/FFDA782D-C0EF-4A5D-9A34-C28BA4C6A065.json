@@ -18,7 +18,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 68,
+    "width": 128,
     "x": 0,
     "y": 0
   },
@@ -38,7 +38,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 4,
       "curveFrom": "{0, 4.7878367936959876e-16}",
       "curveMode": 1,
       "curveTo": "{0, 0.69919690997352169}",
@@ -48,7 +48,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 4,
       "curveFrom": "{0.99999999999999967, 0.70169002163358718}",
       "curveMode": 1,
       "curveTo": "{0.99999999999999967, 4.7878367936959876e-16}",
@@ -106,9 +106,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0.9215686274509803,
+          "green": 0.9058823529411765,
+          "red": 0.8941176470588235
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -147,7 +147,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }
@@ -228,5 +228,13 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "5EBB5D54-4633-4ED7-9386-B39EC5248E17",
+        "sharedStyleName": "07.边框/01.默认"
+      }
+    }
   }
 }
