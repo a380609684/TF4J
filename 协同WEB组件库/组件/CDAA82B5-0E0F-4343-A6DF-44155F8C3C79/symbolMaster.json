@@ -1,8 +1,16 @@
 {
-  "_class": "symbolInstance",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "01FE349A-F6C5-4D8C-BDAE-83DE76F11E62",
+  "do_objectID": "CDAA82B5-0E0F-4343-A6DF-44155F8C3C79",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,25 +25,47 @@
     "constrainProportions": false,
     "height": 12,
     "width": 12,
-    "x": 519,
-    "y": 350
+    "x": -3636,
+    "y": 1782
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "01. General 通用/Icon图标/12/016.上涨备份",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B53ECD18-7468-45BC-9A99-94C13E8FDCED"
+    }
   ],
+  "name": "12-AarrowLeft",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -70,7 +100,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7BBEC3F0-ACE2-420C-A261-36BE21E23CB5",
+    "do_objectID": "C21906B5-D571-4943-9E7C-4404833C042B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,5 +112,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F814E687-697F-44B6-AE7E-737CC3491167"
+  "symbolID": "70381D88-7834-403D-842E-703B1942E7E3",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
 }
