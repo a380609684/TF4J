@@ -116,10 +116,10 @@
         "_class": "border",
         "color": {
           "_class": "color",
-          "alpha": 0.09,
-          "blue": 0.1589249320652174,
+          "alpha": 0.1,
+          "blue": 0.1083333333333334,
           "green": 0,
-          "red": 0.6356997282608695
+          "red": 0.5
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -184,9 +184,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3254901960784314,
-          "green": 0.2588235294117647,
-          "red": 0.9294117647058824,
+          "blue": 0.3568627450980392,
+          "green": 0.3019607843137255,
+          "red": 1,
           "swatchID": "3232A317-DB7F-44F8-874F-54CABF0132DA"
         },
         "contextSettings": {
@@ -206,8 +206,8 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.5967658276125097,
-                "green": 0.52,
+                "blue": 0.6130337078651685,
+                "green": 0.5800000000000001,
                 "red": 1
               },
               "position": 0
@@ -217,10 +217,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.3254901960784314,
-                "green": 0.2588235294117647,
-                "red": 0.9294117647058824,
-                "swatchID": "3232A317-DB7F-44F8-874F-54CABF0132DA"
+                "blue": 0.3568627450980393,
+                "green": 0.3019607843137255,
+                "red": 1
               },
               "position": 1
             }
