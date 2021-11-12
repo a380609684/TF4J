@@ -73,12 +73,16 @@
       "id": "1A13917B-D2BD-4B82-8D20-67B479B09F73"
     },
     {
-      "class": "symbolInstance",
-      "id": "D4099120-F25E-4072-8789-EB90B53EAF6D"
+      "class": "group",
+      "id": "2CF12E86-CB74-4305-80B8-A17CBBDD449E"
     },
     {
       "class": "symbolInstance",
       "id": "8B6881F9-CED6-4F83-BCCF-724859709F3F"
+    },
+    {
+      "class": "rectangle",
+      "id": "4332FAC4-812E-48C4-B57E-DF75C734C1C7"
     },
     {
       "class": "symbolInstance",
@@ -122,11 +126,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "2794A9A4-EE93-4011-B65E-9C07DC0FC40E"
+      "id": "CDE89802-BBBD-4C13-A5FE-6C1908EB533F"
     },
     {
       "class": "symbolInstance",
-      "id": "EA7EA8FB-3057-44F4-AC3C-1910E88B710D"
+      "id": "2794A9A4-EE93-4011-B65E-9C07DC0FC40E"
     },
     {
       "class": "symbolInstance",
@@ -135,6 +139,14 @@
     {
       "class": "symbolInstance",
       "id": "0B67B6CC-AC5B-4BFE-A21C-A3A887EA42C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "816808D5-1A26-41ED-8D09-C7E8A6A8447E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F74A5C4-5AD2-41F5-9C3A-E30E2C50C190"
     }
   ],
   "name": "表单Form",
