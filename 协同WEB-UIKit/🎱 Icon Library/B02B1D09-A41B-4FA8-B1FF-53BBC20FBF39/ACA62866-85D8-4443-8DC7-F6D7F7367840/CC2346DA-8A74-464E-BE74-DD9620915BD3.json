@@ -147,7 +147,7 @@
         },
         "isEnabled": true,
         "position": 0,
-        "thickness": 0.6
+        "thickness": 1
       }
     ],
     "colorControls": {

@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "两端缩进"
+    "string": "IndentBoth"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 48,
-    "x": 308,
-    "y": 1626
+    "width": 65,
+    "x": 506.5,
+    "y": 1455
   },
-  "glyphBounds": "{{0, 4}, {48, 13}}",
+  "glyphBounds": "{{0, 5}, {64, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "两端缩进",
+  "name": "IndentBoth",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

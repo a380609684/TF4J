@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "ArrowRight"
+    "string": "ArrowDown"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 66,
-    "x": 196,
-    "y": 790
+    "width": 69,
+    "x": 194.5,
+    "y": 771
   },
-  "glyphBounds": "{{0, 5}, {65, 14}}",
+  "glyphBounds": "{{0, 5}, {68, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "ArrowRight",
+  "name": "ArrowDown",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

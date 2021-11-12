@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "CaretDown-B"
+    "string": "12-AarrowDown"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 77,
-    "x": 293.5,
-    "y": 443
+    "width": 95,
+    "x": 776.5,
+    "y": 370
   },
-  "glyphBounds": "{{0, 5}, {77, 11}}",
+  "glyphBounds": "{{1, 5}, {93, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "CaretDown-B",
+  "name": "12-AarrowDown",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
