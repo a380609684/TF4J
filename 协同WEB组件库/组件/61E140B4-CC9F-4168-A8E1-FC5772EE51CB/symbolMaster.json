@@ -62,11 +62,6 @@
   "name": "01. General 通用/Icon图标/24/002.警告-S",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "830CA0DB-7257-45BF-ACDE-38A48DEBB831_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

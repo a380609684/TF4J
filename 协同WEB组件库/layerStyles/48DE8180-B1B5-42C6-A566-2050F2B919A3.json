@@ -26,9 +26,9 @@
         "_class": "border",
         "color": {
           "_class": "color",
-          "alpha": 0.06,
-          "blue": 0.6356997282608695,
-          "green": 0.1086010189178181,
+          "alpha": 0.08,
+          "blue": 0.5,
+          "green": 0.08333333333333348,
           "red": 0
         },
         "contextSettings": {
@@ -86,7 +86,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F8472A1B-58A2-4105-95FA-7CECB8455B61",
+    "do_objectID": "BB828867-816B-4749-B4C3-C5DEF19D55D9",
     "endMarkerType": 0,
     "fills": [
       {
@@ -116,9 +116,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.9803921568627451,
-                "green": 0.6823529411764706,
-                "red": 0.4705882352941176
+                "blue": 1,
+                "green": 0.691736526946108,
+                "red": 0.56
               },
               "position": 0
             },
@@ -128,9 +128,8 @@
                 "_class": "color",
                 "alpha": 1,
                 "blue": 0.9607843137254902,
-                "green": 0.5019607843137255,
-                "red": 0.3058823529411765,
-                "swatchID": "E5F946B3-E9A2-4F90-A94C-25A7D681936F"
+                "green": 0.5019607843137258,
+                "red": 0.3058823529411765
               },
               "position": 1
             }

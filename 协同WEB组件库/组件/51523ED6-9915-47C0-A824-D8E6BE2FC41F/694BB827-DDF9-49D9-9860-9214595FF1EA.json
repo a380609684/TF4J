@@ -116,10 +116,10 @@
         "_class": "border",
         "color": {
           "_class": "color",
-          "alpha": 0.08,
+          "alpha": 0.09,
           "blue": 0,
-          "green": 0.3390398550724638,
-          "red": 0.6356997282608695
+          "green": 0.2666666666666667,
+          "red": 0.5
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -184,8 +184,8 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.0196078431372549,
-          "green": 0.6274509803921569,
+          "blue": 0,
+          "green": 0.6549019607843137,
           "red": 0.9803921568627451,
           "swatchID": "43E4FA22-3EEC-47E1-BBEE-8F6C160B9753"
         },
@@ -206,8 +206,8 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.4,
-                "green": 0.76,
+                "blue": 0.48,
+                "green": 0.8273600000000001,
                 "red": 1
               },
               "position": 0
@@ -217,9 +217,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.01960000000000002,
-                "green": 0.6272000000000001,
-                "red": 0.98
+                "blue": 0,
+                "green": 0.6679999999999999,
+                "red": 1
               },
               "position": 1
             }

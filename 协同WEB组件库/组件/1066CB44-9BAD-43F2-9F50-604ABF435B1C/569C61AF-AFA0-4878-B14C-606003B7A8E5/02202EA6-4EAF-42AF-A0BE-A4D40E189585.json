@@ -116,10 +116,10 @@
         "_class": "border",
         "color": {
           "_class": "color",
-          "alpha": 0.09,
+          "alpha": 0.1,
           "blue": 0,
-          "green": 0.1907099184782609,
-          "red": 0.6356997282608695
+          "green": 0.08333333333333331,
+          "red": 0.5
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -174,7 +174,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.9000000357627869
     },
     "do_objectID": "9A95C15A-DD78-4C3A-9AF8-B8DB43CE3867",
     "endMarkerType": 0,
@@ -184,9 +184,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1725490196078431,
-          "green": 0.4470588235294117,
-          "red": 0.9607843137254902,
+          "blue": 0.1607843137254902,
+          "green": 0.4117647058823529,
+          "red": 1,
           "swatchID": "D967A591-565B-4F7A-9D19-20046ECD3519"
         },
         "contextSettings": {
@@ -206,8 +206,8 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.38,
-                "green": 0.6279999999999999,
+                "blue": 0.5,
+                "green": 0.65,
                 "red": 1
               },
               "position": 0
@@ -217,9 +217,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.1176,
-                "green": 0.4625600000000001,
-                "red": 0.98
+                "blue": 0.12,
+                "green": 0.384,
+                "red": 1
               },
               "position": 1
             }

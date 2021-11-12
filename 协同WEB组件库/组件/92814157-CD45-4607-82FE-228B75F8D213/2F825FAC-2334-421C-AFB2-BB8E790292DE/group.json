@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "56D13C99-3369-4B3F-B69E-AAC7ABA16124",
+  "do_objectID": "2F825FAC-2334-421C-AFB2-BB8E790292DE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +15,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 734,
-    "y": 2045
+    "height": 1.5,
+    "width": 8,
+    "x": 8,
+    "y": 11.25
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -27,14 +31,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "01. General 通用/Icon图标/24/050.审批人",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BC4EFE7E-0282-4AF7-ACBE-35E273F71A0C"
+    }
   ],
+  "name": "01. General 通用/Icon图标/12/001.加号",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -70,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6DFC4D32-DC00-4209-AB91-D2574357F9EF",
+    "do_objectID": "7E8199A7-2D64-4A03-AC6D-363DCDB56673",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -81,6 +88,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "AADFB73C-8254-4C32-8651-3B0629375478"
+  }
 }

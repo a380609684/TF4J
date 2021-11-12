@@ -193,9 +193,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8901960784313725,
-          "green": 0.7731988795518208,
-          "red": 0.712156862745098
+          "blue": 0.8588235294117647,
+          "green": 0.7647058823529411,
+          "red": 0.7215686274509804
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

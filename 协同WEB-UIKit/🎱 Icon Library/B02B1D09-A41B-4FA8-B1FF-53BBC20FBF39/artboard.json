@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -210,10 +210,6 @@
     },
     {
       "class": "text",
-      "id": "FAB8CF83-B552-4AA5-971F-6610E1B8E20F"
-    },
-    {
-      "class": "text",
       "id": "A12A00F8-3BFA-4BF4-9ADF-6CA591BBE569"
     },
     {
@@ -367,10 +363,6 @@
     {
       "class": "text",
       "id": "3D53B27A-5A57-4500-929D-CEBF34DB24B5"
-    },
-    {
-      "class": "text",
-      "id": "37B1303A-5517-4E09-86E1-F08D12F42A90"
     },
     {
       "class": "symbolInstance",
@@ -774,10 +766,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "3895C3E4-633A-4499-8EF0-91031C810357"
-    },
-    {
-      "class": "symbolInstance",
       "id": "AF11E09F-B9D4-4091-9377-20C3743400DC"
     },
     {
@@ -839,10 +827,6 @@
     {
       "class": "text",
       "id": "7DA7113C-A4F7-4361-B672-86AE96D4F91F"
-    },
-    {
-      "class": "text",
-      "id": "BA5E4AD8-861E-48E2-867F-5B05F3614F0C"
     },
     {
       "class": "symbolInstance",
@@ -1302,14 +1286,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "A5961B1B-70BF-4201-9AF9-D9BFE8FCA5C4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CD747470-6BA5-4069-925D-B55AFC88AE5F"
-    },
-    {
-      "class": "symbolInstance",
       "id": "442CFD39-B59C-4A72-B2DB-4A7C3564BDE4"
     },
     {
@@ -1351,18 +1327,6 @@
     {
       "class": "text",
       "id": "4A34F613-5A06-4A69-9D2A-53E52ED7F8AF"
-    },
-    {
-      "class": "text",
-      "id": "885D3664-877A-408F-9DF9-27B08F8DD6DF"
-    },
-    {
-      "class": "text",
-      "id": "5F276E0C-0515-46FE-91B4-81FC1F659BC9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A21C6C10-6742-4790-8A19-43863F2EE138"
     },
     {
       "class": "symbolInstance",
@@ -1427,10 +1391,6 @@
     {
       "class": "text",
       "id": "0876B4DA-53B2-41A5-A369-F6B9B7880043"
-    },
-    {
-      "class": "text",
-      "id": "1143FFEB-9F5D-4FEF-B2E3-EFF73B5A01E8"
     },
     {
       "class": "symbolInstance",
@@ -1951,14 +1911,6 @@
     {
       "class": "symbolInstance",
       "id": "1560F8DC-2D4C-4883-83EB-8A5345CAB009"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "56D13C99-3369-4B3F-B69E-AAC7ABA16124"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "16E7D8AF-37EB-4EE4-9F60-77A164463C39"
     },
     {
       "class": "rectangle",
