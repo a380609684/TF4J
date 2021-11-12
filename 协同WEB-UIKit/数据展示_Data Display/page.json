@@ -38,6 +38,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "DBDD85C7-658E-4185-BA8A-D7E1B3232BC7"
+    }
   ],
   "name": "数据展示_Data Display",
   "nameIsFixed": true,

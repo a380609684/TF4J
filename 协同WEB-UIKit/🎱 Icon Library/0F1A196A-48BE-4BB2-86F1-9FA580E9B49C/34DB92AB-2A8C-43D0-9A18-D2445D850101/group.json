@@ -1,0 +1,180 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "34DB92AB-2A8C-43D0-9A18-D2445D850101",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 168.0000000000009,
+    "width": 168,
+    "x": 589,
+    "y": 141
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9A3EF31F-1BB0-4606-81D8-1C07F7C37A21"
+    },
+    {
+      "class": "shapePath",
+      "id": "84382D38-83C9-4262-82DE-8CB6CC4828B4"
+    },
+    {
+      "class": "shapePath",
+      "id": "6CD8358E-E1CC-4558-A1D6-E6B10CD240BA"
+    },
+    {
+      "class": "shapePath",
+      "id": "2BEC6491-5EBB-4E61-884F-D03A9BC27BEA"
+    },
+    {
+      "class": "shapePath",
+      "id": "B14C7CEC-572A-4391-805E-17B3A0CC5C1F"
+    },
+    {
+      "class": "shapePath",
+      "id": "45392A36-78A7-4236-A3DA-3E11CA598904"
+    },
+    {
+      "class": "shapePath",
+      "id": "8A2108A9-9FA8-4264-8CA4-34DA96B0E74B"
+    },
+    {
+      "class": "shapePath",
+      "id": "4B6CC7B6-FC8F-4E91-B172-E310184620B8"
+    },
+    {
+      "class": "shapePath",
+      "id": "C416B99D-89E6-4751-B369-BC93EC82F5FE"
+    },
+    {
+      "class": "oval",
+      "id": "3C5B8F9D-4C74-42CA-8333-7B24B5CCE13E"
+    },
+    {
+      "class": "rectangle",
+      "id": "244B548E-9BF9-48D7-ABDB-3CDF2258C784"
+    },
+    {
+      "class": "rectangle",
+      "id": "F99AF148-EFF3-482E-9107-F6B1092E3089"
+    },
+    {
+      "class": "oval",
+      "id": "289D65C8-8CFB-4E31-BE24-7195D06FF15D"
+    },
+    {
+      "class": "rectangle",
+      "id": "39A0B590-0FE5-42FE-B75B-DA6B24B12106"
+    }
+  ],
+  "name": "关键线-垂直矩形",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 70,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "BFFB472F-3DD3-4C04-B059-1C24FD5CECB8",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "9E9515ED-47F0-4060-BDBC-B839CC2D1A15",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 168,
+          "width": 168,
+          "x": 462,
+          "y": 132
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "B59F6FCF-9559-4645-ADD9-9E4AB6899423",
+        "symbolID": "B60AA4D8-438F-4896-82B7-25E9D498D319"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "9E9515ED-47F0-4060-BDBC-B839CC2D1A15",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 168,
+          "width": 168,
+          "x": 462,
+          "y": 132
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "B59F6FCF-9559-4645-ADD9-9E4AB6899423",
+        "symbolID": "B60AA4D8-438F-4896-82B7-25E9D498D319"
+      }
+    }
+  }
+}
