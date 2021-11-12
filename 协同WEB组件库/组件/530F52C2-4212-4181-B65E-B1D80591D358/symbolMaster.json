@@ -52,7 +52,19 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "AAAE77CC-A410-4523-956F-17D69BAD3DF0"
+      "id": "E94F5020-4448-4CEA-B4F5-5AB29AD0780C"
+    },
+    {
+      "class": "oval",
+      "id": "A51CAE87-30DC-4365-87C2-B87D0C710F2B"
+    },
+    {
+      "class": "oval",
+      "id": "7D2DD55F-12AF-4ED4-9B6B-A6472322951D"
+    },
+    {
+      "class": "oval",
+      "id": "81F23129-D4D2-4DF3-AFB6-6C04D1908631"
     }
   ],
   "name": "01. General 通用/Icon图标/24/进行中",
