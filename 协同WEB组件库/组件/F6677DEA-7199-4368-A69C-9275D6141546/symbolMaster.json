@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,14 +55,9 @@
       "id": "FA64B59F-EC68-4B89-8A62-7C2EE129E1D7"
     }
   ],
-  "name": "12-AarrowRight",
+  "name": "01. General 通用/Icon图标/12/12-AarrowRight",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "9FF6E139-417C-4D98-BC44-0F22DBB9BBA9_layerStyle"
-    }
   ],
   "presetDictionary": {
   },
