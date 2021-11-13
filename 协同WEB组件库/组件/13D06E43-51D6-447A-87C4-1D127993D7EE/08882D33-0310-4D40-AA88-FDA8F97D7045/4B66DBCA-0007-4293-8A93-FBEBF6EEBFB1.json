@@ -49,22 +49,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 2,
-      "curveFrom": "{0.6666666666666573, 0.15151515151515149}",
+      "curveFrom": "{0.72222222222221932, 0.15151515151514755}",
       "curveMode": 1,
-      "curveTo": "{0.6666666666666573, 0}",
+      "curveTo": "{0.72222222222221932, -3.9551695252271202e-15}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.6666666666666573, 0}"
+      "point": "{0.72222222222221932, -3.9551695252271202e-15}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 2,
-      "curveFrom": "{1.0000000000000002, 0.48484848484848458}",
+      "curveFrom": "{0.99999999999999711, 0.43939393939393545}",
       "curveMode": 1,
-      "curveTo": "{1.0000000000000002, 0.21212121212121193}",
+      "curveTo": "{0.99999999999999711, 0.16666666666666277}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.0000000000000002, 0.27272727272727249}"
+      "point": "{0.99999999999999711, 0.22727272727272332}"
     },
     {
       "_class": "curvePoint",
@@ -90,7 +90,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "4EBAC11A-09CA-4185-ACEA-9102091C9B46",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -112,56 +111,6 @@
       "lineJoinStyle": 0
     },
     "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 0.1,
-          "blue": 0.1083333333333334,
-          "green": 0,
-          "red": 0.5
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
-        "isEnabled": true,
-        "position": 1,
-        "thickness": 1.2
-      }
     ],
     "colorControls": {
       "_class": "colorControls",
@@ -194,11 +143,11 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "fillType": 1,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.054190768281569539, 0.95008367410048522}",
+          "from": "{0.054190768281569435, 0.95008367410048522}",
           "gradientType": 1,
           "stops": [
             {
@@ -206,8 +155,8 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.6130337078651685,
-                "green": 0.5800000000000001,
+                "blue": 0.5553333333333332,
+                "green": 0.54,
                 "red": 1
               },
               "position": 0
@@ -217,14 +166,14 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.3568627450980393,
-                "green": 0.3019607843137255,
-                "red": 1
+                "blue": 0.2817887640449438,
+                "green": 0.2256,
+                "red": 0.94
               },
               "position": 1
             }
           ],
-          "to": "{0.95068652690560085, 0.059109586789626953}"
+          "to": "{0.95068652690560052, 0.059109586789626745}"
         },
         "isEnabled": true,
         "noiseIndex": 0,
@@ -244,8 +193,8 @@
   "userInfo": {
     "com.sketch.detach": {
       "sharedStyle": {
-        "sharedStyleId": "3834E3C5-893E-46A1-A781-3655C161B4E5",
-        "sharedStyleName": "02.招行红/Red_50"
+        "sharedStyleId": "4EBAC11A-09CA-4185-ACEA-9102091C9B46",
+        "sharedStyleName": "10.渐变色/红"
       }
     }
   }

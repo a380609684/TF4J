@@ -49,22 +49,22 @@
     {
       "_class": "curvePoint",
       "cornerRadius": 2,
-      "curveFrom": "{0.66666666666665719, 0.15151515151515149}",
+      "curveFrom": "{0.72222222222221932, 0.15151515151514844}",
       "curveMode": 1,
-      "curveTo": "{0.66666666666665719, 0}",
+      "curveTo": "{0.72222222222221932, -3.0669911055269949e-15}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0.66666666666665719, 0}"
+      "point": "{0.72222222222221932, -3.0669911055269949e-15}"
     },
     {
       "_class": "curvePoint",
       "cornerRadius": 2,
-      "curveFrom": "{1, 0.48484848484848458}",
+      "curveFrom": "{0.99999999999999711, 0.43939393939393634}",
       "curveMode": 1,
-      "curveTo": "{1, 0.21212121212121193}",
+      "curveTo": "{0.99999999999999711, 0.16666666666666366}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1, 0.27272727272727249}"
+      "point": "{0.99999999999999711, 0.22727272727272421}"
     },
     {
       "_class": "curvePoint",
@@ -90,7 +90,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "3B04FC35-D9B8-49F8-BEBE-2C74BF709DC5",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -112,56 +111,6 @@
       "lineJoinStyle": 0
     },
     "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 0.12,
-          "blue": 0.3999999999999999,
-          "green": 0.5,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
-        "isEnabled": true,
-        "position": 1,
-        "thickness": 1.2
-      }
     ],
     "colorControls": {
       "_class": "colorControls",
@@ -184,9 +133,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4980392156862745,
-          "green": 0.7450980392156863,
-          "red": 0,
+          "blue": 0.4511999999999998,
+          "green": 0.72,
+          "red": 0.144,
           "swatchID": "FEC4479D-EFC4-41D9-A7A1-EF12670DD89D"
         },
         "contextSettings": {
@@ -194,7 +143,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "fillType": 1,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -206,9 +155,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.6868000000000001,
-                "green": 0.85,
-                "red": 0.442
+                "blue": 0.5120000000000002,
+                "green": 0.8,
+                "red": 0.3200000000000001
               },
               "position": 0
             },
@@ -217,9 +166,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.4980392156862746,
-                "green": 0.7450980392156863,
-                "red": 0
+                "blue": 0.3997714285714287,
+                "green": 0.66,
+                "red": 0.1056
               },
               "position": 1
             }
@@ -240,5 +189,13 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "3B04FC35-D9B8-49F8-BEBE-2C74BF709DC5",
+        "sharedStyleName": "10.渐变色/绿"
+      }
+    }
   }
 }

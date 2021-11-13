@@ -13,7 +13,7 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 4,
+  "fixedRadius": 6,
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
@@ -38,7 +38,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -48,7 +48,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -58,7 +58,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -68,7 +68,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 4,
+      "cornerRadius": 6,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -80,7 +80,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "48DE8180-B1B5-42C6-A566-2050F2B919A3",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -102,56 +101,6 @@
       "lineJoinStyle": 0
     },
     "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 0.08,
-          "blue": 0.5,
-          "green": 0.08333333333333348,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
-        "isEnabled": true,
-        "position": 1,
-        "thickness": 1.2
-      }
     ],
     "colorControls": {
       "_class": "colorControls",
@@ -184,7 +133,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "fillType": 1,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -197,8 +146,8 @@
                 "_class": "color",
                 "alpha": 1,
                 "blue": 1,
-                "green": 0.691736526946108,
-                "red": 0.56
+                "green": 0.6497005988023954,
+                "red": 0.5
               },
               "position": 0
             },
@@ -208,8 +157,8 @@
                 "_class": "color",
                 "alpha": 1,
                 "blue": 0.9607843137254902,
-                "green": 0.5019607843137258,
-                "red": 0.3058823529411765
+                "green": 0.4492098156627923,
+                "red": 0.2305882352941176
               },
               "position": 1
             }
@@ -234,8 +183,8 @@
   "userInfo": {
     "com.sketch.detach": {
       "sharedStyle": {
-        "sharedStyleId": "CD293DA0-2B98-4191-95EA-EFFB56E8A740",
-        "sharedStyleName": "渐变/蓝-2"
+        "sharedStyleId": "48DE8180-B1B5-42C6-A566-2050F2B919A3",
+        "sharedStyleName": "10.渐变色/蓝"
       }
     }
   }

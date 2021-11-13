@@ -22,56 +22,6 @@
       "lineJoinStyle": 0
     },
     "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 0.07,
-          "blue": 0.5,
-          "green": 0.09166666666666679,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
-        "isEnabled": true,
-        "position": 1,
-        "thickness": 1.2
-      }
     ],
     "colorControls": {
       "_class": "colorControls",
@@ -86,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9207502D-4CF2-4CC0-832B-34ECA8CECB91",
+    "do_objectID": "8BB163FF-DC88-4715-8330-782AC29D86C6",
     "endMarkerType": 0,
     "fills": [
       {
@@ -116,9 +66,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.86,
-                "green": 0.7657185185185185,
-                "red": 0.7223999999999999
+                "blue": 0.84,
+                "green": 0.7364,
+                "red": 0.6888000000000001
               },
               "position": 0
             },
@@ -127,9 +77,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.7607843137254902,
-                "green": 0.615686274509804,
-                "red": 0.5490196078431373
+                "blue": 0.74,
+                "green": 0.5878888888888888,
+                "red": 0.518
               },
               "position": 1
             }

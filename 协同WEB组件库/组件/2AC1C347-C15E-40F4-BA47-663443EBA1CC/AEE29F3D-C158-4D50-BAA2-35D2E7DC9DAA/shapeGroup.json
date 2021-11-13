@@ -15,9 +15,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 7,
-    "width": 7,
-    "x": 14,
+    "height": 6,
+    "width": 6,
+    "x": 15,
     "y": 1
   },
   "groupLayout": {
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -89,8 +89,8 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4784313725490196,
-          "green": 0.8274509803921568,
+          "blue": 0.5,
+          "green": 0.8345864661654134,
           "red": 1
         },
         "contextSettings": {

@@ -22,56 +22,6 @@
       "lineJoinStyle": 0
     },
     "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 0.1,
-          "blue": 0.1083333333333334,
-          "green": 0,
-          "red": 0.5
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
-        "isEnabled": true,
-        "position": 1,
-        "thickness": 1.2
-      }
     ],
     "colorControls": {
       "_class": "colorControls",
@@ -86,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E1CABF80-9D3A-4095-AB1E-62AFDB58E678",
+    "do_objectID": "8D5DCE76-E909-42C3-BF21-14F05CA01A88",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,7 +58,7 @@
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.054190768281569539, 0.95008367410048522}",
+          "from": "{0.054190768281569435, 0.95008367410048522}",
           "gradientType": 1,
           "stops": [
             {
@@ -116,8 +66,8 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.6130337078651685,
-                "green": 0.5800000000000001,
+                "blue": 0.5553333333333332,
+                "green": 0.54,
                 "red": 1
               },
               "position": 0
@@ -127,14 +77,14 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.3568627450980393,
-                "green": 0.3019607843137255,
-                "red": 1
+                "blue": 0.2817887640449438,
+                "green": 0.2256,
+                "red": 0.94
               },
               "position": 1
             }
           ],
-          "to": "{0.95068652690560085, 0.059109586789626953}"
+          "to": "{0.95068652690560052, 0.059109586789626745}"
         },
         "isEnabled": true,
         "noiseIndex": 0,
