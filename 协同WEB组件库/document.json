@@ -50831,6 +50831,78 @@
       },
       {
         "_class": "swatch",
+        "do_objectID": "886BC8BD-F768-4B14-98B8-D41A850F4D30",
+        "name": "文字状态色/警告",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1254901960784314,
+          "green": 0.3568627450980392,
+          "red": 0.9019607843137255
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "4D4DB3E9-D20A-412B-B36B-52C61A602E61",
+        "name": "文字状态色/错误、上涨",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3215686274509804,
+          "green": 0.2705882352941176,
+          "red": 0.9019607843137255
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "976FBBD4-931D-4B40-BA4A-29B99DFEDB55",
+        "name": "文字状态色/进程中",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8784313725490196,
+          "green": 0.615686274509804,
+          "red": 0
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "128FF046-8030-4A96-8B16-E01F7704C7FA",
+        "name": "文字状态色/成功、下跌",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4,
+          "green": 0.6392156862745098,
+          "red": 0.1294117647058823
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "893D9790-0A5C-4F30-8029-996857DA7496",
+        "name": "文字状态色/提醒",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0.5215686274509804,
+          "red": 0.9215686274509803
+        }
+      },
+      {
+        "_class": "swatch",
+        "do_objectID": "41A6D445-D0E5-4741-A3AF-7FB2BC0A4E99",
+        "name": "文字状态色/提示",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8588235294117647,
+          "green": 0.4509803921568628,
+          "red": 0.2745098039215687
+        }
+      },
+      {
+        "_class": "swatch",
         "do_objectID": "43E4FA22-3EEC-47E1-BBEE-8F6C160B9753",
         "name": "通用色彩/黄",
         "value": {
