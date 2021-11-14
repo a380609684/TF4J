@@ -77,7 +77,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "3B04FC35-D9B8-49F8-BEBE-2C74BF709DC5",
+  "sharedStyleID": "324FC6A6-B6C3-435E-AF47-169E644A67AF",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -131,21 +131,21 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "fillType": 1,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.062449014796573749, 0.94013842187593588}",
-          "gradientType": 1,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
           "stops": [
             {
               "_class": "gradientStop",
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.5120000000000002,
-                "green": 0.8,
-                "red": 0.3200000000000001
+                "blue": 1,
+                "green": 1,
+                "red": 1
               },
               "position": 0
             },
@@ -154,14 +154,14 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.3997714285714287,
-                "green": 0.66,
-                "red": 0.1056
+                "blue": 0,
+                "green": 0,
+                "red": 0
               },
               "position": 1
             }
           ],
-          "to": "{0.94898902661696616, 0.058550881518688924}"
+          "to": "{0.5, 1}"
         },
         "isEnabled": true,
         "noiseIndex": 0,

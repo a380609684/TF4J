@@ -51,8 +51,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "shapePath",
+      "id": "A0128098-4EBB-44A0-A1FC-712E90CAA7E2"
+    },
+    {
       "class": "shapeGroup",
-      "id": "DB5ACBB9-7E43-4696-AF68-D7FF9ACF6335"
+      "id": "A0C070C4-C07D-4487-9F40-E0FECD422E2B"
     }
   ],
   "name": "01. General 通用/Icon图标/24/同意备份",
@@ -61,7 +65,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "DB5ACBB9-7E43-4696-AF68-D7FF9ACF6335_layerStyle"
+      "overrideName": "A0128098-4EBB-44A0-A1FC-712E90CAA7E2_layerStyle"
     }
   ],
   "presetDictionary": {

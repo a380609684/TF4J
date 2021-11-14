@@ -55,16 +55,16 @@
       "id": "E94F5020-4448-4CEA-B4F5-5AB29AD0780C"
     },
     {
-      "class": "oval",
-      "id": "A51CAE87-30DC-4365-87C2-B87D0C710F2B"
+      "class": "shapeGroup",
+      "id": "4AA23E41-B273-4A4B-AC2C-F44450A8249D"
     },
     {
-      "class": "oval",
-      "id": "7D2DD55F-12AF-4ED4-9B6B-A6472322951D"
+      "class": "shapeGroup",
+      "id": "D5236EA3-E506-4E16-AFB8-E12022B6E69A"
     },
     {
-      "class": "oval",
-      "id": "81F23129-D4D2-4DF3-AFB6-6C04D1908631"
+      "class": "shapeGroup",
+      "id": "0D03A74F-B19A-4353-AB40-E6676BC7ACB9"
     }
   ],
   "name": "01. General 通用/Icon图标/24/进行中",
@@ -73,7 +73,22 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "AAAE77CC-A410-4523-956F-17D69BAD3DF0_layerStyle"
+      "overrideName": "81F23129-D4D2-4DF3-AFB6-6C04D1908631_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7D2DD55F-12AF-4ED4-9B6B-A6472322951D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A51CAE87-30DC-4365-87C2-B87D0C710F2B_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E94F5020-4448-4CEA-B4F5-5AB29AD0780C_layerStyle"
     }
   ],
   "presetDictionary": {

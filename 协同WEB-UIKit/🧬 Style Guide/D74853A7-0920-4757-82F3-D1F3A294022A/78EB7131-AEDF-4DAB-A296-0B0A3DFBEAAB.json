@@ -19,8 +19,8 @@
     "constrainProportions": false,
     "height": 80,
     "width": 136,
-    "x": 1100,
-    "y": 1217
+    "x": 812,
+    "y": 1374
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -124,9 +124,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1967064220183489,
-          "green": 0.111743119266055,
-          "red": 0.84
+          "blue": 0.3211764705882353,
+          "green": 0.271764705882353,
+          "red": 0.9
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

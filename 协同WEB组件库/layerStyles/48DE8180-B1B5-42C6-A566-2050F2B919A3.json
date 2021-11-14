@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0C68CE53-6883-44D4-B2E0-FBF5B1D0AB9A",
+    "do_objectID": "58A8487D-F363-4FED-ADF2-6C3C4397E616",
     "endMarkerType": 0,
     "fills": [
       {
@@ -58,8 +58,8 @@
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.079440769078005041, 0.94315324349551533}",
-          "gradientType": 1,
+          "from": "{0.95450725782738766, 0.93194194411503806}",
+          "gradientType": 0,
           "stops": [
             {
               "_class": "gradientStop",
@@ -84,7 +84,7 @@
               "position": 1
             }
           ],
-          "to": "{0.9432959584469105, 0.056875455365655504}"
+          "to": "{0.068229469697527634, 0.068086754746132849}"
         },
         "isEnabled": true,
         "noiseIndex": 0,

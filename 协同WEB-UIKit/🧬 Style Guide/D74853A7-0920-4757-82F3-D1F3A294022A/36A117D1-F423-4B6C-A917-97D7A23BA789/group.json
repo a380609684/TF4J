@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 370,
+    "height": 133,
     "width": 1296,
     "x": 100,
     "y": 980
@@ -42,71 +42,7 @@
     },
     {
       "class": "text",
-      "id": "56BB7BA1-98F0-4641-8EAC-5B5D3E4FA404"
-    },
-    {
-      "class": "text",
-      "id": "607E8759-46A5-4AF4-A959-815011B941EC"
-    },
-    {
-      "class": "text",
-      "id": "02A4A054-E8C3-43F6-89CB-E002E264E9AC"
-    },
-    {
-      "class": "text",
-      "id": "54B7ABAC-4E44-40B3-860F-7904F84401E8"
-    },
-    {
-      "class": "text",
-      "id": "475303D8-057D-4459-A614-B778F8789E9E"
-    },
-    {
-      "class": "text",
-      "id": "32AB8963-D05B-427B-BBA7-A46BC6B9CBD2"
-    },
-    {
-      "class": "text",
-      "id": "800830C1-DC71-43A9-9095-E901621A360C"
-    },
-    {
-      "class": "text",
-      "id": "5EEA5291-E88B-4BAE-8727-F33CF733A1E2"
-    },
-    {
-      "class": "text",
       "id": "B5118191-ED82-4615-BA9C-EBCF054CAC26"
-    },
-    {
-      "class": "text",
-      "id": "8FB1A4F2-F84A-4829-854D-C496410564C4"
-    },
-    {
-      "class": "text",
-      "id": "7FDE6071-D8CE-4C0F-8CF0-860A2F29887F"
-    },
-    {
-      "class": "text",
-      "id": "A62DD7CA-B2C3-492C-B594-FCE68AEBA9E4"
-    },
-    {
-      "class": "text",
-      "id": "0D68174E-BFD9-4D55-A821-6B37284EFDB4"
-    },
-    {
-      "class": "text",
-      "id": "BAD8C73E-A1BE-4848-86B4-E10EC7A32412"
-    },
-    {
-      "class": "text",
-      "id": "E816C9A6-D892-4CC8-9C50-32E8328D5844"
-    },
-    {
-      "class": "text",
-      "id": "972736C4-FD14-48C1-AF48-25368CDDFDB7"
-    },
-    {
-      "class": "text",
-      "id": "6C8316BA-F14B-4BB0-A90E-E2B464B3BC2E"
     },
     {
       "class": "text",

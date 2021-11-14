@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": -3705,
-    "y": 2422
+    "x": -3257,
+    "y": 2573
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -52,7 +52,7 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "4429ADF3-E641-4D30-AF45-AB2C3B41C2F0"
+      "id": "717EB267-91F3-4D38-A272-7A7013BE2FE5"
     }
   ],
   "name": "01. General 通用/Icon图标/24/001.信息提示",
@@ -61,7 +61,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "4429ADF3-E641-4D30-AF45-AB2C3B41C2F0_layerStyle"
+      "overrideName": "717EB267-91F3-4D38-A272-7A7013BE2FE5_layerStyle"
     }
   ],
   "presetDictionary": {

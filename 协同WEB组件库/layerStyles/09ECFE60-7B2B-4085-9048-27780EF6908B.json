@@ -36,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E819950D-1202-4760-9391-F294FB102150",
+    "do_objectID": "B673B9D4-C975-48C8-A0FA-2FEAB9CB0E1D",
     "endMarkerType": 0,
     "fills": [
       {
@@ -45,8 +45,8 @@
           "_class": "color",
           "alpha": 1,
           "blue": 0,
-          "green": 0.6549019607843137,
-          "red": 0.9803921568627451,
+          "green": 0.6,
+          "red": 1,
           "swatchID": "43E4FA22-3EEC-47E1-BBEE-8F6C160B9753"
         },
         "contextSettings": {
@@ -58,8 +58,8 @@
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.052266379741876499, 0.94981043452303771}",
-          "gradientType": 1,
+          "from": "{0.94460859309037448, 0.95281325497559988}",
+          "gradientType": 0,
           "stops": [
             {
               "_class": "gradientStop",
@@ -84,7 +84,7 @@
               "position": 1
             }
           ],
-          "to": "{0.94761141354293665, 0.060471041627102283}"
+          "to": "{0.055269200194438817, 0.05746822117453998}"
         },
         "isEnabled": true,
         "noiseIndex": 0,

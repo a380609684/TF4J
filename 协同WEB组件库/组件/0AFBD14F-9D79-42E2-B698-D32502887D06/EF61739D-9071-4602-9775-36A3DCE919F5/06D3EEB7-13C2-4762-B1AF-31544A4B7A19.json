@@ -90,7 +90,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "BF565C7A-EB4A-4D6E-9792-BE41B2975A10",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -144,7 +143,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "fillType": 1,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
@@ -190,5 +189,13 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "BF565C7A-EB4A-4D6E-9792-BE41B2975A10",
+        "sharedStyleName": "10.渐变色/天蓝"
+      }
+    }
   }
 }

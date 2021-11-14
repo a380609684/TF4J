@@ -42,7 +42,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "BF565C7A-EB4A-4D6E-9792-BE41B2975A10",
+  "sharedStyleID": "A28CCFA3-5E43-4D36-AA94-B86D682ECF5C",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -96,12 +96,12 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "fillType": 1,
+        "fillType": 0,
         "gradient": {
           "_class": "gradient",
           "elipseLength": 0,
-          "from": "{0.051201714322489683, 0.94154031041731157}",
-          "gradientType": 1,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
           "stops": [
             {
               "_class": "gradientStop",
@@ -109,8 +109,8 @@
                 "_class": "color",
                 "alpha": 1,
                 "blue": 1,
-                "green": 0.8079999999999998,
-                "red": 0.36
+                "green": 1,
+                "red": 1
               },
               "position": 0
             },
@@ -119,14 +119,14 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.96,
-                "green": 0.6701176470588237,
+                "blue": 0,
+                "green": 0,
                 "red": 0
               },
               "position": 1
             }
           ],
-          "to": "{0.94283404716438501, 0.053591811743837099}"
+          "to": "{0.5, 1}"
         },
         "isEnabled": true,
         "noiseIndex": 0,
@@ -142,6 +142,14 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "BF565C7A-EB4A-4D6E-9792-BE41B2975A10",
+        "sharedStyleName": "10.渐变色/天蓝"
+      }
+    }
   },
   "windingRule": 1
 }

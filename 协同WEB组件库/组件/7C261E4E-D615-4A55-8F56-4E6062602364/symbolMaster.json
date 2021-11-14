@@ -51,8 +51,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "oval",
+      "id": "0874D548-F739-4E43-A03D-A7AC108E739F"
+    },
+    {
       "class": "shapeGroup",
-      "id": "CD2B2392-4437-448F-A416-5F024C9DBC2D"
+      "id": "B2C340EA-AE56-4472-A236-0E305B97194C"
     }
   ],
   "name": "01. General 通用/Icon图标/24/进行中备份 2",

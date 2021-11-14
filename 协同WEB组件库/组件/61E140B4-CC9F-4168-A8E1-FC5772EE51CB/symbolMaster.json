@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": -3573,
-    "y": 2422
+    "x": -3224,
+    "y": 2610
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -51,12 +51,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "830CA0DB-7257-45BF-ACDE-38A48DEBB831"
+      "class": "shapePath",
+      "id": "E7849609-F8C3-4BD4-8233-43AC50C08A5C"
     },
     {
       "class": "shapeGroup",
-      "id": "1D0C715C-EFB6-40AC-8790-506721778C8C"
+      "id": "918E3977-0D74-493C-9EAD-4F1F99599AEA"
     }
   ],
   "name": "01. General 通用/Icon图标/24/002.警告-S",

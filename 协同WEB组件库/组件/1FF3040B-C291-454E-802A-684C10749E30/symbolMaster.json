@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": -3617,
-    "y": 2422
+    "x": -3257,
+    "y": 2610
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -52,17 +52,12 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "C75FD318-0929-4EC3-B34C-3D5255D1E305"
+      "id": "FCB07250-808B-4585-B529-17E4F8FB7905"
     }
   ],
   "name": "01. General 通用/Icon图标/24/002.警告",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C75FD318-0929-4EC3-B34C-3D5255D1E305_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

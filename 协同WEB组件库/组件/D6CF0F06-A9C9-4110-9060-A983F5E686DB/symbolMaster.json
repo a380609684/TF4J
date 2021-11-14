@@ -51,8 +51,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "shapePath",
+      "id": "6FDA3E22-3355-4814-8978-5CE5528D89E5"
+    },
+    {
       "class": "shapeGroup",
-      "id": "A09D4AEE-88EC-4C0B-8B9E-EC574F96B845"
+      "id": "C22C26C8-BF14-4FE1-AFA1-01627DFC9062"
     }
   ],
   "name": "01. General 通用/Icon图标/24/同意备份 25",

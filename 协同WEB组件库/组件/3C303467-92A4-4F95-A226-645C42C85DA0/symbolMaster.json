@@ -59,12 +59,12 @@
       "id": "6C23A70D-351E-4BF3-BCC4-3FB4B6E312A5"
     },
     {
-      "class": "shapeGroup",
-      "id": "5BBF2022-8832-4153-9CF9-42B29D214469"
+      "class": "shapePath",
+      "id": "E4568688-A9D2-445B-87C7-8991CB907683"
     },
     {
-      "class": "group",
-      "id": "88D977C1-E385-4564-827D-280711143D42"
+      "class": "shapeGroup",
+      "id": "5BBF2022-8832-4153-9CF9-42B29D214469"
     }
   ],
   "name": "01. General 通用/Icon图标/24/加号备份 2",
