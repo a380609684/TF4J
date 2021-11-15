@@ -9,38 +9,34 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1647058823529412,
-            "green": 0.1529411764705882,
-            "red": 0.1294117647058823,
-            "swatchID": "8A9369E0-2BC2-40D9-932D-69F01BAA12D0"
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Regular",
-              "size": 14
+              "name": "PingFangSC-Medium",
+              "size": 32
             }
           },
+          "kerning": -0.2666667,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22,
-            "tighteningFactorForTruncation": 0.05
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "allowsDefaultTighteningForTruncation": 0
+          }
         },
-        "length": 30,
+        "length": 11,
         "location": 0
       }
     ],
-    "string": "将已有输入框、下拉选择、复选框、单选框等组件重新组合、封装。"
+    "string": "Slider滑动输入条"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "06D70DD2-BFB9-4E40-9A8C-8A19A2DB2E99",
+  "do_objectID": "BFC33955-B9CF-4498-BB08-DCF8452058A3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 420,
-    "x": 122,
-    "y": 261
+    "height": 45,
+    "width": 244,
+    "x": 101,
+    "y": 161
   },
-  "glyphBounds": "{{0, 4}, {412, 14}}",
+  "glyphBounds": "{{0, 7}, {243, 31}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "将已有输入框、下拉选择、复选框、单选框等",
+  "name": "Slider滑动输入条",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -108,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0E554505-1BC6-4780-8296-ABB176475EFC",
+    "do_objectID": "3B8F3CB0-54B3-4CBE-AA26-37D9B53F0A63",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -124,27 +120,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1647058823529412,
-          "green": 0.1529411764705882,
-          "red": 0.1294117647058823,
-          "swatchID": "8A9369E0-2BC2-40D9-932D-69F01BAA12D0"
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Regular",
-            "size": 14
+            "name": "PingFangSC-Medium",
+            "size": 32
           }
         },
+        "kerning": -0.2666667,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22,
-          "tighteningFactorForTruncation": 0.05
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "allowsDefaultTighteningForTruncation": 0
+        }
       },
       "verticalAlignment": 0
     },

@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7B3C7836-F772-4693-AF2C-959609EBC81D",
+  "do_objectID": "A94A38C7-B66C-4FF7-BF67-B45D1956CC2C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +15,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 271,
-    "x": 726,
-    "y": 2332
+    "height": 24,
+    "width": 24,
+    "x": 226,
+    "y": 4
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -27,14 +31,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "03. Data Entry 数据录入/Input输入框/搜索框/大-正在输入-选择标签后输入",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "44C4DE6C-FAAD-4B85-BA6D-70EB2F6317FA"
+    },
+    {
+      "class": "oval",
+      "id": "CC5259B5-E66D-4C82-BA12-C311FD23D2F6"
+    }
   ],
-  "resizingConstraint": 63,
+  "name": "编组 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -70,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F0209766-59A2-4664-B343-0BA8E755F55E",
+    "do_objectID": "D089916C-D77D-4D0C-8EA6-13F6A4067B8F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -81,6 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "262BF25E-2E46-4348-A889-C1049A2B2698"
+  }
 }

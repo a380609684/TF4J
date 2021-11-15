@@ -9,34 +9,38 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.5882352941176471,
+            "green": 0.5529411764705883,
+            "red": 0.5294117647058824,
+            "swatchID": "44AD8BC3-0503-49E7-8776-B136B4CEF33D"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Semibold",
-              "size": 24
+              "name": "PingFangSC-Regular",
+              "size": 14
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          }
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22,
+            "tighteningFactorForTruncation": 0.05
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "如何使用"
+    "string": "右对齐标签"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "3B4F9893-C7AD-4B96-B58B-88FA58A856AB",
+  "do_objectID": "09479C1B-C9A0-4A66-8978-C91519FB90B9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 96,
+    "height": 22,
+    "width": 70,
     "x": 122,
-    "y": 212
+    "y": 724
   },
-  "glyphBounds": "{{1, 5}, {93, 23}}",
+  "glyphBounds": "{{0, 4}, {70, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "如何使用",
+  "name": "右对齐标签",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -104,7 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "ED0B1E30-F3BF-457F-838E-DDA004FB02A7",
+    "do_objectID": "EEA55C07-38FA-430F-9CE4-75A00B9AA122",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -120,27 +124,39 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.5882352941176471,
+          "green": 0.5529411764705883,
+          "red": 0.5294117647058824,
+          "swatchID": "44AD8BC3-0503-49E7-8776-B136B4CEF33D"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Semibold",
-            "size": 24
+            "name": "PingFangSC-Regular",
+            "size": 14
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
-        }
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22,
+          "tighteningFactorForTruncation": 0.05
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "4CA190F7-A5FD-4021-AF3D-223A0EE27195",
+        "sharedStyleName": "Left/14/14-Grey50-Regular"
+      }
+    }
+  }
 }

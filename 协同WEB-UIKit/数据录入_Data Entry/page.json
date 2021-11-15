@@ -41,6 +41,18 @@
     {
       "class": "artboard",
       "id": "58DA126D-9CE0-4C86-B8C1-97C9016C0C8C"
+    },
+    {
+      "class": "rectangle",
+      "id": "39272B8A-E486-47BA-980A-E763E3F4304E"
+    },
+    {
+      "class": "text",
+      "id": "3B4F9893-C7AD-4B96-B58B-88FA58A856AB"
+    },
+    {
+      "class": "text",
+      "id": "06D70DD2-BFB9-4E40-9A8C-8A19A2DB2E99"
     }
   ],
   "name": "数据录入_Data Entry",

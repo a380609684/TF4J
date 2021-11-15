@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,6 +59,10 @@
     {
       "class": "group",
       "id": "27EE2315-EDAD-4E7A-B676-831D0FB6A628"
+    },
+    {
+      "class": "group",
+      "id": "01A968E9-A9AB-40F2-B2BC-4864F4B0DC2D"
     },
     {
       "class": "group",
@@ -222,23 +226,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "7B3C7836-F772-4693-AF2C-959609EBC81D"
-    },
-    {
-      "class": "symbolInstance",
       "id": "F9FA28DC-6E9F-4DA5-904F-E16C4A2CF830"
-    },
-    {
-      "class": "text",
-      "id": "3B4F9893-C7AD-4B96-B58B-88FA58A856AB"
-    },
-    {
-      "class": "text",
-      "id": "3273009F-4999-4D79-AD5F-02747821F41E"
-    },
-    {
-      "class": "text",
-      "id": "06D70DD2-BFB9-4E40-9A8C-8A19A2DB2E99"
     },
     {
       "class": "text",
@@ -262,6 +250,10 @@
     },
     {
       "class": "text",
+      "id": "09479C1B-C9A0-4A66-8978-C91519FB90B9"
+    },
+    {
+      "class": "text",
       "id": "EFAED339-CD5A-4CB4-810C-B5690E2862B4"
     },
     {
@@ -274,7 +266,15 @@
     },
     {
       "class": "text",
+      "id": "A706E90B-1350-4CB6-9C3A-DC216D5A58B9"
+    },
+    {
+      "class": "text",
       "id": "A65DD266-893C-4CB9-AEA0-ADE72AF11F3B"
+    },
+    {
+      "class": "text",
+      "id": "5774A2FF-9A9D-4655-B181-B1C9216B7778"
     },
     {
       "class": "symbolInstance",
@@ -307,6 +307,14 @@
     {
       "class": "symbolInstance",
       "id": "5870A989-766F-4C52-81A2-DAA823075203"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36AAB49E-1852-4740-BBE8-6F16F2BCB192"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5FDD765F-CDF5-4166-A25C-112AA978E99A"
     }
   ],
   "name": "表单Form",

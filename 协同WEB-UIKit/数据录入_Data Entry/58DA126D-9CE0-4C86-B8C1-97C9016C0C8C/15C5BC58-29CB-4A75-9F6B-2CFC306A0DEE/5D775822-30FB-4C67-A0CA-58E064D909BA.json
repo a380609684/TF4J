@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 52,
+    "width": 80,
     "x": 0,
     "y": 5
   },
@@ -30,6 +30,11 @@
   "name": "03. Data Entry 数据录入/Form 表单/标题-默认",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "30DFB623-5E61-46E7-808C-599792FAF2EC_stringValue",
+      "value": "项目名称"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

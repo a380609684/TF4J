@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 52,
-    "x": 0,
+    "width": 66,
+    "x": 14,
     "y": 69
   },
   "hasClippingMask": false,
@@ -30,6 +30,11 @@
   "name": "03. Data Entry 数据录入/Form 表单/标题-默认备份",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "30DFB623-5E61-46E7-808C-599792FAF2EC_stringValue",
+      "value": "负责人"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
