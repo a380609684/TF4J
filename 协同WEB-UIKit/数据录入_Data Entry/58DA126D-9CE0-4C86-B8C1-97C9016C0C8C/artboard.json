@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3036,
+    "height": 2715,
     "width": 1496,
     "x": 24438,
     "y": 9747
@@ -95,6 +95,10 @@
     {
       "class": "symbolInstance",
       "id": "C102FE88-1599-472F-B029-3206609C4193"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69C3DE1D-D8BD-489F-8388-F0837299DDB9"
     },
     {
       "class": "symbolInstance",
@@ -315,11 +319,20 @@
     {
       "class": "symbolInstance",
       "id": "5FDD765F-CDF5-4166-A25C-112AA978E99A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBC81B38-A872-4835-98D8-1357B35DCE5C"
     }
   ],
   "name": "表单Form",
   "nameIsFixed": true,
   "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1000,
+    "name": "自定义预设",
+    "offersLandscapeVariant": 0,
+    "width": 1496
   },
   "resizesContent": false,
   "resizingConstraint": 63,

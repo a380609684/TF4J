@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CA9FC313-F909-4F7B-96CA-EB82B14BBCF1",
+  "do_objectID": "EBC81B38-A872-4835-98D8-1357B35DCE5C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 52,
-    "x": 402,
-    "y": 2315
+    "height": 32.00000000000003,
+    "width": 392,
+    "x": 174,
+    "y": 2438
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,14 +27,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "04. Data Display 数据展示/Checkbox多选框/带文字备份 3",
+  "name": "03. Data Entry 数据录入/Slider滑动输入条/区间",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "04BC4C41-27BA-4974-882D-A090A184363A_symbolID",
-      "value": "2E2ED059-D3C9-4BBE-8616-DF6124D5E978"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B39ED74D-AC96-49D6-9824-B6E28C83FB44",
+    "do_objectID": "D459567C-56E9-432F-9E53-388D4FFC8682",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,5 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "37628BA5-E77B-4912-AA8A-7B62D85F7B87"
+  "symbolID": "2B495DF4-C325-4ABD-BD5E-9F211483C938"
 }
