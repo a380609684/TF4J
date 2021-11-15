@@ -27,11 +27,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 3,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "空状态"
+    "string": "基础用法"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 33,
-    "width": 72,
+    "width": 96,
     "x": 24,
     "y": 0
   },
-  "glyphBounds": "{{1, 5}, {71, 23}}",
+  "glyphBounds": "{{1, 5}, {95, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "空状态",
+  "name": "基础用法",
   "nameIsFixed": false,
   "resizingConstraint": 41,
   "resizingType": 0,

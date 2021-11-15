@@ -62,11 +62,6 @@
   "name": "02. Navigation 导航/Scrollbar滚动条/亮色/Hover",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "D77B2139-8D56-4985-BF96-F19729D37A8A_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

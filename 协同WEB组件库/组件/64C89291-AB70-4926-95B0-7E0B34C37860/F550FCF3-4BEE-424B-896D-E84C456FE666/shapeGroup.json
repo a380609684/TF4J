@@ -79,7 +79,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 1
+      "opacity": 0.239164806547619
     },
     "do_objectID": "97BA28FC-1E09-4243-A1A3-B86BE69DBB19",
     "endMarkerType": 0,
@@ -88,10 +88,11 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.24,
-          "blue": 0.9803921568627451,
-          "green": 0.3568627450980392,
-          "red": 0.1725490196078431
+          "alpha": 1,
+          "blue": 0.9607843137254902,
+          "green": 0.5019607843137255,
+          "red": 0.3058823529411765,
+          "swatchID": "E5F946B3-E9A2-4F90-A94C-25A7D681936F"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

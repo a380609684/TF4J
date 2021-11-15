@@ -40,7 +40,23 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "46766E78-FA6D-4ECC-838E-0D2ECAC2CBF1"
+      "id": "58DA126D-9CE0-4C86-B8C1-97C9016C0C8C"
+    },
+    {
+      "class": "artboard",
+      "id": "3DB39A5C-1562-46FF-A1DF-446D83BF6D16"
+    },
+    {
+      "class": "rectangle",
+      "id": "39272B8A-E486-47BA-980A-E763E3F4304E"
+    },
+    {
+      "class": "text",
+      "id": "3B4F9893-C7AD-4B96-B58B-88FA58A856AB"
+    },
+    {
+      "class": "text",
+      "id": "06D70DD2-BFB9-4E40-9A8C-8A19A2DB2E99"
     }
   ],
   "name": "数据录入_Data Entry",

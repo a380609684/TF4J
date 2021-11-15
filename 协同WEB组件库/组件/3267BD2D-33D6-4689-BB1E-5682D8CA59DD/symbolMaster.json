@@ -58,11 +58,6 @@
   "name": "01. General 通用/Icon图标/16/026.成功",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "005DA90B-74CB-44EF-BBEC-5A311390929C_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

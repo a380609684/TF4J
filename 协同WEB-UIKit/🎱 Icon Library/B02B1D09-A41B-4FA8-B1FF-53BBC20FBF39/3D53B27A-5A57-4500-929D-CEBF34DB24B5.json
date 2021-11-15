@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "通知-审批"
+    "string": "Approve-S"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 54,
-    "x": 371,
-    "y": 2537
+    "width": 61,
+    "x": 405.5,
+    "y": 2407
   },
-  "glyphBounds": "{{0, 4}, {54, 13}}",
+  "glyphBounds": "{{0, 5}, {61, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "通知-审批",
+  "name": "Approve-S",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
