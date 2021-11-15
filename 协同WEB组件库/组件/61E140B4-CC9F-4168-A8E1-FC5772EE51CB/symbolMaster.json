@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,6 +62,11 @@
   "name": "01. General 通用/Icon图标/24/002.警告-S",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E7849609-F8C3-4BD4-8233-43AC50C08A5C_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

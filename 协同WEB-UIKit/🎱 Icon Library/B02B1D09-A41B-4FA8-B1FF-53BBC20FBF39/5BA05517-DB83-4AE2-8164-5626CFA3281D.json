@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Travel-S"
+    "string": "Vaction-S"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 46,
-    "x": 1032,
-    "y": 3077
+    "width": 55,
+    "x": 1027.5,
+    "y": 2845
   },
-  "glyphBounds": "{{0, 5}, {45, 11}}",
+  "glyphBounds": "{{0, 5}, {55, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Travel-S",
+  "name": "Vaction-S",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
