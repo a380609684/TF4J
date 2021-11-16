@@ -22,16 +22,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1889,
+    "height": 1488,
     "width": 1143,
-    "x": 913,
-    "y": -409
+    "x": 914,
+    "y": -407
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,6 +62,14 @@
     },
     {
       "class": "group",
+      "id": "40BCA120-29DA-47A2-8895-C4DEA45C24BD"
+    },
+    {
+      "class": "group",
+      "id": "25876DAA-C154-4A80-B9AD-C1F842691AAB"
+    },
+    {
+      "class": "group",
       "id": "5B79513F-AA2C-4841-8269-FFE4468D2800"
     },
     {
@@ -79,6 +87,30 @@
     {
       "class": "rectangle",
       "id": "80C4BD65-6F5C-409E-9AA0-90F6726CF8D6"
+    },
+    {
+      "class": "rectangle",
+      "id": "F3D95426-531A-47AF-9C70-C1C8520DDE6E"
+    },
+    {
+      "class": "rectangle",
+      "id": "4950679F-6239-4ED3-A69F-32EC49FA46EF"
+    },
+    {
+      "class": "rectangle",
+      "id": "F2D58D78-BA11-4C6A-A37E-1FE6482FEAC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2AD65FEC-24FE-4F8C-89F8-1C490F25FA92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3262B86-2CBE-4299-8C64-36842F7D5313"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "082DE2FC-1858-489F-A6A2-E908C792E14F"
     },
     {
       "class": "rectangle",
@@ -123,13 +155,53 @@
     {
       "class": "symbolInstance",
       "id": "4062312B-4568-43E4-90DE-C09B3D39AB4B"
+    },
+    {
+      "class": "oval",
+      "id": "8B001215-0532-4FDE-B5F2-F41DE249F359"
+    },
+    {
+      "class": "oval",
+      "id": "79D57573-B889-459D-AD3B-97AFEDC6F249"
+    },
+    {
+      "class": "oval",
+      "id": "85877400-77CC-4741-94FA-08101338732D"
+    },
+    {
+      "class": "oval",
+      "id": "342EB9F2-E033-442D-8C7A-5474BEEDDBB6"
+    },
+    {
+      "class": "oval",
+      "id": "B419C031-D7CA-43CC-93CF-3067200F2BBE"
+    },
+    {
+      "class": "text",
+      "id": "2431AED5-1B26-44A1-990D-471C29B425CC"
+    },
+    {
+      "class": "text",
+      "id": "CC25B3DC-E666-4F1C-98DA-9818221A9969"
+    },
+    {
+      "class": "text",
+      "id": "DBCF603F-934C-4CDD-994A-A1C2475676A3"
+    },
+    {
+      "class": "text",
+      "id": "5542D936-8B06-4E38-8568-F1C97B34F904"
+    },
+    {
+      "class": "text",
+      "id": "55D12D00-4243-4B7B-BCBE-787A15133DE9"
     }
   ],
   "name": "徽标数Badge",
   "nameIsFixed": true,
   "presetDictionary": {
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

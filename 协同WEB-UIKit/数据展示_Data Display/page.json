@@ -41,6 +41,50 @@
     {
       "class": "artboard",
       "id": "DBDD85C7-658E-4185-BA8A-D7E1B3232BC7"
+    },
+    {
+      "class": "artboard",
+      "id": "A83E0F14-5450-488F-8E64-455929B23C2B"
+    },
+    {
+      "class": "bitmap",
+      "id": "3B79382C-4614-4F86-9ECB-66250C6E9A79"
+    },
+    {
+      "class": "rectangle",
+      "id": "47359DB8-F949-4989-8F5D-AF315DC4BB19"
+    },
+    {
+      "class": "rectangle",
+      "id": "FC9D612E-F66D-4AC6-A86F-F27B5BE2E815"
+    },
+    {
+      "class": "rectangle",
+      "id": "D7904265-5969-41C9-9979-5FBB725DA771"
+    },
+    {
+      "class": "rectangle",
+      "id": "6CDAFBE0-8B72-4E39-BDC2-B1FC3B57F949"
+    },
+    {
+      "class": "rectangle",
+      "id": "7799E1EA-8C7E-44A3-A8E3-0F7C34F12B52"
+    },
+    {
+      "class": "rectangle",
+      "id": "1245A821-826B-4832-A2A2-E7E7CE7F93CB"
+    },
+    {
+      "class": "rectangle",
+      "id": "393AFCF1-0E4F-4253-B26D-80C62FB9428B"
+    },
+    {
+      "class": "rectangle",
+      "id": "6A8F89F3-3247-445A-8748-BEE92124C4C1"
+    },
+    {
+      "class": "rectangle",
+      "id": "09ADC182-DB25-4620-878D-6A4D3FF927FD"
     }
   ],
   "name": "数据展示_Data Display",

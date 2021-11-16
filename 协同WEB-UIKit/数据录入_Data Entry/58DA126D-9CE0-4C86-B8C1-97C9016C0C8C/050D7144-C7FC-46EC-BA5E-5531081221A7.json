@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 52,
-    "x": 122,
+    "width": 90,
+    "x": 84,
     "y": 2124
   },
   "hasClippingMask": false,
@@ -26,15 +26,10 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "name": "03. Data Entry 数据录入/Form 表单/标题-默认备份 14",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "30DFB623-5E61-46E7-808C-599792FAF2EC_stringValue",
-      "value": "人数"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -87,5 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0C4B9A44-88DD-4B10-BFB8-44084EFC9C75"
+  "symbolID": "E6F5A858-BAA3-4F28-A84C-402DBC30A7B0"
 }
