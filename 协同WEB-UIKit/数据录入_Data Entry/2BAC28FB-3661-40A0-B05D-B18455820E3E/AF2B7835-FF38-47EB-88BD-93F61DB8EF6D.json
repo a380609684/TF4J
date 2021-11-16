@@ -9,35 +9,34 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5882352941176471,
-            "green": 0.5529411764705883,
-            "red": 0.5294117647058824,
-            "swatchID": "3F62FDFC-C67B-4F6E-8926-D2B5A36D20D4"
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "MicrosoftYaHei",
-              "size": 12
+              "name": "PingFangSC-Semibold",
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20
-          }
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 1,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "2"
+    "string": "未选择"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FD648C5E-B75B-4A39-82C7-1C9FFABE90B6",
+  "do_objectID": "AF2B7835-FF38-47EB-88BD-93F61DB8EF6D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 8,
-    "x": 456,
-    "y": 286
+    "height": 22,
+    "width": 48,
+    "x": 286,
+    "y": 279
   },
-  "glyphBounds": "{{0, 5}, {7, 10}}",
+  "glyphBounds": "{{0, 3}, {48, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,12 +64,11 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "2",
+  "name": "未选择",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "8A70F373-25A4-4A7F-B842-4D33FD165D2F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -106,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A75CB379-0C6F-453A-9A35-B8314F2503A2",
+    "do_objectID": "06182B16-522E-4E7F-A8F6-51BA9C1DF932",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,24 +120,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5882352941176471,
-          "green": 0.5529411764705883,
-          "red": 0.5294117647058824,
-          "swatchID": "3F62FDFC-C67B-4F6E-8926-D2B5A36D20D4"
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "MicrosoftYaHei",
-            "size": 12
+            "name": "PingFangSC-Semibold",
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "maximumLineHeight": 20,
-          "minimumLineHeight": 20
-        }
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

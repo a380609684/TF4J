@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8D6EE042-6A20-4195-81B0-46B3147BED5B",
+  "do_objectID": "294E322B-49F0-42B1-A2FD-4C6DEDAB7654",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,15 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 20,
-    "x": 138,
-    "y": 286
+    "height": 16,
+    "width": 16,
+    "x": 448,
+    "y": 389
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -31,21 +27,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "oval",
-      "id": "E7BCAAB6-3FDB-4029-A8F6-2B594D11D41F"
-    },
-    {
-      "class": "text",
-      "id": "2BC82F84-CC65-4977-8B03-06F157341311"
-    }
-  ],
-  "name": "编组",
+  "name": "04. Data Display 数据展示/Checkbox多选框/已选择备份",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "25F231A9-035B-41F2-94C0-EE75501685A4",
+    "do_objectID": "686727CB-3120-4D7C-9A1C-C038C38D9405",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +81,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "AD55AB64-9A56-43FB-BE05-6F819C35712C"
 }

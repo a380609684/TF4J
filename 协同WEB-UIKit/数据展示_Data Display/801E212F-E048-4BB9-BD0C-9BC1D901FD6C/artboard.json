@@ -81,28 +81,12 @@
       "id": "3D4E06F8-C891-44FB-83CF-16F26FC477F4"
     },
     {
-      "class": "oval",
-      "id": "7FF783D8-FCB1-456B-9240-0106AC26F1FF"
-    },
-    {
-      "class": "text",
-      "id": "C94E6233-AE7F-471D-ADD1-085A610746F6"
-    },
-    {
       "class": "rectangle",
       "id": "25D2FC10-FB6C-4531-9F3F-8092F5964709"
     },
     {
       "class": "text",
       "id": "95083E6B-CA2D-46E2-95EA-30F2D9BF9BAD"
-    },
-    {
-      "class": "oval",
-      "id": "A360C7E5-9D92-464E-8959-6A2CE0414665"
-    },
-    {
-      "class": "text",
-      "id": "FD648C5E-B75B-4A39-82C7-1C9FFABE90B6"
     },
     {
       "class": "rectangle",
@@ -135,14 +119,6 @@
     {
       "class": "rectangle",
       "id": "2B2126C9-586C-41CB-B076-973CC9A0EC5D"
-    },
-    {
-      "class": "group",
-      "id": "8D6EE042-6A20-4195-81B0-46B3147BED5B"
-    },
-    {
-      "class": "group",
-      "id": "9C72766E-E879-4EC9-90B5-95A59E62DD5B"
     },
     {
       "class": "oval",
@@ -243,6 +219,38 @@
     {
       "class": "symbolInstance",
       "id": "CFAD24CA-D926-47F3-A9DA-69672CBE200A"
+    },
+    {
+      "class": "rectangle",
+      "id": "28C4D46B-E4C4-4FB4-B888-A5BB8A8711D5"
+    },
+    {
+      "class": "rectangle",
+      "id": "ECA95065-A9D7-4D22-8C65-335AFD70CF82"
+    },
+    {
+      "class": "rectangle",
+      "id": "DDD6B082-2E1A-47C2-BE88-3023EA89E030"
+    },
+    {
+      "class": "rectangle",
+      "id": "AA680C0E-9E08-439A-B18A-1ED33B0E81C0"
+    },
+    {
+      "class": "text",
+      "id": "4BFE48A8-C00B-4403-96E6-23A2F92396BE"
+    },
+    {
+      "class": "text",
+      "id": "DD9E0D5C-039D-4F0C-948F-26F4C94D7913"
+    },
+    {
+      "class": "text",
+      "id": "4AE583A6-636C-4E9D-A021-CD1D5D6D2064"
+    },
+    {
+      "class": "text",
+      "id": "C57F9D5C-D05C-467C-9F8C-9DCB8F0D5376"
     }
   ],
   "name": "徽标数Badge",
