@@ -1,0 +1,128 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4BCDE879-021B-4805-B192-33AC748E550C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 8,
+    "x": 52,
+    "y": 4
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "74482AE7-B966-4C4C-BB0F-091920F400DD"
+    }
+  ],
+  "name": "编组 8备份 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "89DDCED9-41D9-461C-BAD1-E4A23708B6AE",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.bohemiancoding.sketchtool.detach": {
+      "symbolInstance": {
+        "do_objectID": "E1787AC5-7230-45F9-9746-6E0515683C5F",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 12,
+          "width": 8,
+          "x": 28,
+          "y": 3
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "FACB00A6-BBC9-4BE5-8517-68F3DF520E51",
+        "symbolID": "261D76D5-7358-43B1-9A86-47C94BF9497F"
+      }
+    },
+    "com.sketch.detach": {
+      "symbolInstance": {
+        "do_objectID": "E1787AC5-7230-45F9-9746-6E0515683C5F",
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "height": 12,
+          "width": 8,
+          "x": 28,
+          "y": 3
+        }
+      },
+      "symbolMaster": {
+        "do_objectID": "FACB00A6-BBC9-4BE5-8517-68F3DF520E51",
+        "symbolID": "261D76D5-7358-43B1-9A86-47C94BF9497F"
+      }
+    }
+  }
+}
