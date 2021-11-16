@@ -35,7 +35,7 @@
         "location": 0
       }
     ],
-    "string": "表单控件宽度含有以下几个不同的标准尺寸：80px, 176px, 280px, 464px, 560px。根据不同的内容类型选择合适的尺寸。"
+    "string": "表单控件宽度含有以下几个不同的标准尺寸：80px, 152px, 280px, 464px, 560px。根据不同的内容类型选择合适的尺寸。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -59,7 +59,7 @@
     "x": 122,
     "y": 271
   },
-  "glyphBounds": "{{0, 4}, {748, 15}}",
+  "glyphBounds": "{{0, 4}, {749, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

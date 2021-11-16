@@ -30,6 +30,11 @@
   "name": "03. Data Entry 数据录入/Stepper 步进器/中-未输入",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0F43C34C-641D-4BC4-848B-EDAACD8E3E29_stringValue",
+      "value": "1"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,5 +87,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "44FFA4AD-81AB-4D3C-9144-A410AEA215D8"
+  "symbolID": "968F4ADF-3702-4AA6-B1F0-CEC506736C44"
 }
