@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A8DF9F0D-986D-47DF-AAD1-14823BA6F8E3",
+  "do_objectID": "4F79D245-86C4-4AE2-88B5-DC5B699273C6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,13 +23,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": -876,
-    "y": 63
+    "height": 20,
+    "width": 44,
+    "x": -654,
+    "y": 226
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -52,35 +56,20 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "1FB8ACF1-2673-442A-8AED-E823290459B8"
+      "id": "80813B4B-D248-44E7-A0FF-C968AE5410A1"
     },
     {
-      "class": "symbolInstance",
-      "id": "11300EF5-7CB3-4D44-9875-781F997545EE"
+      "class": "text",
+      "id": "BE75E434-B7EA-448A-A24E-BBC030E780C1"
     }
   ],
-  "name": "04. Data Display 数据展示/Checkbox多选框/已选择-不可用",
+  "name": "04. Data Display 数据展示/Tag标签/凸显-橙备份 10",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "11300EF5-7CB3-4D44-9875-781F997545EE_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "11300EF5-7CB3-4D44-9875-781F997545EE/1FFB6A85-7ED0-415F-A40E-978182B21BAA_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "11300EF5-7CB3-4D44-9875-781F997545EE_fillColor"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "1FB8ACF1-2673-442A-8AED-E823290459B8_layerStyle"
+      "overrideName": "BE75E434-B7EA-448A-A24E-BBC030E780C1_stringValue"
     }
   ],
   "presetDictionary": {
@@ -124,7 +113,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4125F926-5D2B-4299-9010-2E4F24F5C849",
+    "do_objectID": "0A67515B-558B-4C3B-99E0-2DF179B26BD2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -136,7 +125,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4C664A70-C21F-4192-8E6A-7F372000EF53",
+  "symbolID": "858D696C-0F83-436D-B82A-7ACEF0E917E1",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

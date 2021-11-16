@@ -8,38 +8,37 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 1,
-            "blue": 0.8784313725490196,
-            "green": 0.615686274509804,
-            "red": 0,
-            "swatchID": "976FBBD4-931D-4B40-BA4A-29B99DFEDB55"
+            "alpha": 0.9,
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "MicrosoftYaHei",
-              "size": 12
+              "name": "PingFangSC-Semibold",
+              "size": 24
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
-            "maximumLineHeight": 12,
-            "minimumLineHeight": 12
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "tighteningFactorForTruncation": 0.05
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "待处理"
+    "string": "Badge"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1AAE971D-AD8C-495D-88D6-A0D4A435A8D5",
+  "do_objectID": "20774688-2920-4469-B509-C163F74F3048",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,12 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 36,
-    "x": 4,
-    "y": 4
+    "height": 33,
+    "width": 73,
+    "x": -875,
+    "y": 492
   },
-  "glyphBounds": "{{0, 0}, {36, 13}}",
+  "glyphBounds": "{{1, 7}, {72, 24}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "待处理",
+  "name": "Badge",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -107,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "37EC71E7-6462-4DEC-87AC-74FD814C923D",
+    "do_objectID": "5C4881A1-FF11-4882-B83D-37E9D5281269",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -122,25 +121,24 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.8784313725490196,
-          "green": 0.615686274509804,
-          "red": 0,
-          "swatchID": "976FBBD4-931D-4B40-BA4A-29B99DFEDB55"
+          "alpha": 0.9,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "MicrosoftYaHei",
-            "size": 12
+            "name": "PingFangSC-Semibold",
+            "size": 24
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
-          "maximumLineHeight": 12,
-          "minimumLineHeight": 12
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "tighteningFactorForTruncation": 0.05
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -148,12 +146,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 0
 }

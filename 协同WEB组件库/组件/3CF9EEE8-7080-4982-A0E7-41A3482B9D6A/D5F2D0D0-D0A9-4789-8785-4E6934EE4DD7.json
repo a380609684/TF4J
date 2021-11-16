@@ -9,10 +9,10 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8784313725490196,
-            "green": 0.615686274509804,
-            "red": 0,
-            "swatchID": "976FBBD4-931D-4B40-BA4A-29B99DFEDB55"
+            "blue": 0.8588235294117647,
+            "green": 0.4509803921568628,
+            "red": 0.2745098039215687,
+            "swatchID": "41A6D445-D0E5-4741-A3AF-7FB2BC0A4E99"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -39,7 +39,7 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1AAE971D-AD8C-495D-88D6-A0D4A435A8D5",
+  "do_objectID": "D5F2D0D0-D0A9-4789-8785-4E6934EE4DD7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -107,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "37EC71E7-6462-4DEC-87AC-74FD814C923D",
+    "do_objectID": "1892509C-60CF-4D6C-A758-0F107AB03F5F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,10 +123,10 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8784313725490196,
-          "green": 0.615686274509804,
-          "red": 0,
-          "swatchID": "976FBBD4-931D-4B40-BA4A-29B99DFEDB55"
+          "blue": 0.8588235294117647,
+          "green": 0.4509803921568628,
+          "red": 0.2745098039215687,
+          "swatchID": "41A6D445-D0E5-4741-A3AF-7FB2BC0A4E99"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A8DF9F0D-986D-47DF-AAD1-14823BA6F8E3",
+  "do_objectID": "3CF9EEE8-7080-4982-A0E7-41A3482B9D6A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,16 +23,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": -876,
-    "y": 63
+    "height": 20,
+    "width": 44,
+    "x": -587,
+    "y": 187
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -52,35 +56,20 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "1FB8ACF1-2673-442A-8AED-E823290459B8"
+      "id": "B98E2AAD-C21A-40D9-97BA-4F2E8DBE1FED"
     },
     {
-      "class": "symbolInstance",
-      "id": "11300EF5-7CB3-4D44-9875-781F997545EE"
+      "class": "text",
+      "id": "D5F2D0D0-D0A9-4789-8785-4E6934EE4DD7"
     }
   ],
-  "name": "04. Data Display 数据展示/Checkbox多选框/已选择-不可用",
+  "name": "04. Data Display 数据展示/Tag标签/凸显-橙备份 9",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "11300EF5-7CB3-4D44-9875-781F997545EE_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "11300EF5-7CB3-4D44-9875-781F997545EE/1FFB6A85-7ED0-415F-A40E-978182B21BAA_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "11300EF5-7CB3-4D44-9875-781F997545EE_fillColor"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "1FB8ACF1-2673-442A-8AED-E823290459B8_layerStyle"
+      "overrideName": "D5F2D0D0-D0A9-4789-8785-4E6934EE4DD7_stringValue"
     }
   ],
   "presetDictionary": {
@@ -124,7 +113,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4125F926-5D2B-4299-9010-2E4F24F5C849",
+    "do_objectID": "4BC0517B-5A96-466C-AE78-860D6F997555",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -136,7 +125,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4C664A70-C21F-4192-8E6A-7F372000EF53",
+  "symbolID": "1BB2D788-EE5E-40BD-927D-2249214B396C",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

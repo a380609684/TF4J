@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A8DF9F0D-986D-47DF-AAD1-14823BA6F8E3",
+  "do_objectID": "D72EC845-9FB3-45CF-9EBA-FC7482062E0E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,13 +23,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": -876,
-    "y": 63
+    "height": 10,
+    "width": 10,
+    "x": -828,
+    "y": 533
   },
   "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -51,37 +55,13 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "1FB8ACF1-2673-442A-8AED-E823290459B8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "11300EF5-7CB3-4D44-9875-781F997545EE"
+      "class": "oval",
+      "id": "F1D6ABB0-6483-4D5B-BC17-D30689CD4596"
     }
   ],
-  "name": "04. Data Display 数据展示/Checkbox多选框/已选择-不可用",
+  "name": "04. Data Display 数据展示/Badge徽标数/小红点",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "11300EF5-7CB3-4D44-9875-781F997545EE_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "11300EF5-7CB3-4D44-9875-781F997545EE/1FFB6A85-7ED0-415F-A40E-978182B21BAA_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "11300EF5-7CB3-4D44-9875-781F997545EE_fillColor"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "1FB8ACF1-2673-442A-8AED-E823290459B8_layerStyle"
-    }
   ],
   "presetDictionary": {
   },
@@ -124,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4125F926-5D2B-4299-9010-2E4F24F5C849",
+    "do_objectID": "FAE972E7-FC5A-4783-BC78-34AB1C1B2CE2",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -136,7 +116,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4C664A70-C21F-4192-8E6A-7F372000EF53",
+  "symbolID": "DFD3BE71-4393-4DA7-A5A1-6F734A9688E5",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

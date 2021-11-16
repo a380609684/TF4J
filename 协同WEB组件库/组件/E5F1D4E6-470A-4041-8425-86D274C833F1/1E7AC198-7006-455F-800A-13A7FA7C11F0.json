@@ -9,10 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.8784313725490196,
-            "green": 0.615686274509804,
-            "red": 0,
-            "swatchID": "976FBBD4-931D-4B40-BA4A-29B99DFEDB55"
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -21,25 +20,23 @@
               "size": 12
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "maximumLineHeight": 12,
-            "minimumLineHeight": 12
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20
+          }
         },
-        "length": 3,
+        "length": 1,
         "location": 0
       }
     ],
-    "string": "待处理"
+    "string": "2"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1AAE971D-AD8C-495D-88D6-A0D4A435A8D5",
+  "do_objectID": "1E7AC198-7006-455F-800A-13A7FA7C11F0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 36,
-    "x": 4,
-    "y": 4
+    "height": 20,
+    "width": 8,
+    "x": 8,
+    "y": 0
   },
-  "glyphBounds": "{{0, 0}, {36, 13}}",
+  "glyphBounds": "{{0, 5}, {7, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,11 +64,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "待处理",
+  "name": "2",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "83A8FC3D-3431-4F06-9B26-CA34C0654FC3",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -107,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "37EC71E7-6462-4DEC-87AC-74FD814C923D",
+    "do_objectID": "47460719-CE2D-42D5-9147-D68D0ED1F2C5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -123,10 +121,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8784313725490196,
-          "green": 0.615686274509804,
-          "red": 0,
-          "swatchID": "976FBBD4-931D-4B40-BA4A-29B99DFEDB55"
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -135,25 +132,16 @@
             "size": 12
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "maximumLineHeight": 12,
-          "minimumLineHeight": 12
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 0
 }
