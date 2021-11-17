@@ -36,7 +36,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,7 +63,7 @@
       "id": "BE75E434-B7EA-448A-A24E-BBC030E780C1"
     }
   ],
-  "name": "04. Data Display 数据展示/Tag标签/凸显-橙备份 10",
+  "name": "04. Data Display 数据展示/Tag标签/次标签/黄",
   "nameIsFixed": true,
   "overrideProperties": [
     {
