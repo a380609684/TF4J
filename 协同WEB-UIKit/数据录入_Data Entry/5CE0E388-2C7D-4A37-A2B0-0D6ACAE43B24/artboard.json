@@ -125,40 +125,16 @@
       "id": "ABFFA749-EE62-4E06-95DF-B79FDCCCA6EA"
     },
     {
-      "class": "rectangle",
-      "id": "2E9ADC7B-E89A-4D7A-938D-6568A660FA63"
-    },
-    {
-      "class": "rectangle",
-      "id": "8342AB97-B750-407C-B4B1-634FCB83A423"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "865AF30F-3608-48C9-8818-56ABD49780B2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A5B40F8F-95FC-49F8-A60A-9232A209503C"
-    },
-    {
       "class": "symbolInstance",
       "id": "BFCC7CFA-0A0C-40D0-951F-FF39B21ED055"
     },
     {
-      "class": "symbolInstance",
-      "id": "C4247016-D863-41A0-975B-8C911A7D5192"
+      "class": "group",
+      "id": "00BC1090-E219-4CD2-9010-E2EC5B0356A6"
     },
     {
-      "class": "symbolInstance",
-      "id": "BADCF485-E7FB-4E58-A953-EE63F3E01880"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AB0A127E-AA9E-4AF0-8786-EAD36B2E7DE3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2F8CD1D6-22AE-4AA6-B026-7C18703C425F"
+      "class": "group",
+      "id": "DA8A9CF5-1E7C-492B-8765-B3E82D8CAFFC"
     },
     {
       "class": "symbolInstance",
@@ -169,8 +145,12 @@
       "id": "E99BF45D-D41C-44BA-A74D-19CCC0B22019"
     },
     {
-      "class": "symbolInstance",
-      "id": "6E855E16-9D3F-44C3-85AF-8D098E39DCCA"
+      "class": "group",
+      "id": "C5033ECB-9CF5-47C5-BF1A-57A87F039D1C"
+    },
+    {
+      "class": "group",
+      "id": "6B811062-5439-44AD-9D92-A7B350AB6F6C"
     },
     {
       "class": "symbolInstance",
@@ -223,6 +203,18 @@
     {
       "class": "symbolInstance",
       "id": "78103FD9-BF26-4F8B-9D49-7D2AAC12656B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83A72340-8589-451D-8102-4AB3967126C3"
+    },
+    {
+      "class": "group",
+      "id": "1677797D-4A2C-41E7-A624-07D05590E80B"
+    },
+    {
+      "class": "group",
+      "id": "2B524974-1532-4E21-BD0D-C1661D0D330D"
     }
   ],
   "name": "多选框 Checkbox",
