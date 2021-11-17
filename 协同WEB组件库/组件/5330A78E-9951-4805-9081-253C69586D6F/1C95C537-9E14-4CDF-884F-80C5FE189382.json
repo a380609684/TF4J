@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B11F85AC-E632-4F49-915E-33C47ED5B31F",
+  "do_objectID": "1C95C537-9E14-4CDF-884F-80C5FE189382",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 80,
+    "height": 196,
     "width": 2,
-    "x": 204,
-    "y": 722
+    "x": 382,
+    "y": 325
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -32,12 +32,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "shapePath",
-      "id": "0C6E459A-51BE-49E3-8BD4-A941942E645B"
-    }
   ],
-  "name": "路径 4备份 4",
+  "name": "路径 4备份",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -77,7 +73,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "F00147BE-DE2F-4D7F-9B2E-AD2561A85D78",
+    "do_objectID": "35B9DD19-A131-4AA8-8BA2-FA9650090730",
     "endMarkerType": 0,
     "fills": [
       {

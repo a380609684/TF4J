@@ -51,16 +51,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "2AD28FB8-8E92-47FE-B69C-03CC4C8BB123"
+      "class": "shapePath",
+      "id": "14D49541-298B-4555-9BCE-A2A8C90E7D71"
     },
     {
       "class": "group",
       "id": "11B41C76-83CB-4232-95F8-E5A241C701BC"
     },
     {
-      "class": "symbolInstance",
-      "id": "0147516D-3505-44AE-9065-30E13711161F"
+      "class": "shapeGroup",
+      "id": "1C95C537-9E14-4CDF-884F-80C5FE189382"
     }
   ],
   "name": "02. Navigation 导航/Dropdown下拉菜单/图标文字列表-选中+hover",
