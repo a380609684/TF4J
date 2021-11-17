@@ -1247,20 +1247,20 @@
       "id": "A302FD37-7A11-4943-A8A7-80D8024CC7EF"
     },
     {
-      "class": "text",
-      "id": "D1FA06EF-992B-4609-B638-A88F4CB14506"
-    },
-    {
-      "class": "text",
-      "id": "71E022DF-47F6-485A-8AAF-B0D1BFBF5340"
-    },
-    {
       "class": "symbolMaster",
       "id": "FAC1648D-35E8-473A-A123-5FCABF868FB2"
     },
     {
       "class": "symbolMaster",
+      "id": "F05F2F8C-8459-4B75-B32B-AD01D047C20A"
+    },
+    {
+      "class": "symbolMaster",
       "id": "85A87752-D72F-4D6B-B097-67C31342B73B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3D3F2C65-718C-40D5-9BEE-DD2232296685"
     },
     {
       "class": "symbolMaster",

@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 774,
+    "height": 1111,
     "width": 1143,
     "x": 21707,
     "y": 9747
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,6 +59,10 @@
     {
       "class": "symbolInstance",
       "id": "A10C1222-9216-4D56-8310-CE5E661439EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E60C758-5485-4B8C-A62D-F0BE095F511F"
     },
     {
       "class": "text",
@@ -135,9 +139,29 @@
     {
       "class": "symbolInstance",
       "id": "144F8FC3-6652-4770-AFB0-3AE51F597121"
+    },
+    {
+      "class": "text",
+      "id": "DEABEDD5-87F9-4601-B6D1-C066673D2F54"
+    },
+    {
+      "class": "group",
+      "id": "241F4134-58AA-420F-9101-4F53F867AB1C"
+    },
+    {
+      "class": "rectangle",
+      "id": "2C95491B-7DA5-499F-AED5-3B0EAFD47571"
+    },
+    {
+      "class": "oval",
+      "id": "C1BA06F9-655A-4D52-B0A5-472AFC4E3964"
+    },
+    {
+      "class": "text",
+      "id": "080C500E-9F77-4878-8951-65948D0670C8"
     }
   ],
-  "name": "单选框 Radio备份",
+  "name": "开关Switch",
   "nameIsFixed": true,
   "presetDictionary": {
   },
