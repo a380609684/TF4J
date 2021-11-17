@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B737439E-9D51-41C3-BA93-C934BCD463F6",
+  "do_objectID": "2822C484-49DF-4DE8-8CCC-9E670A223F80",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +15,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 12,
-    "x": 2,
-    "y": 2
+    "height": 8,
+    "width": 8,
+    "x": 4,
+    "y": 4
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -27,19 +31,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "蒙版",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "6519AAD5-F45D-4AFD-945B-39229437B75E_layerStyle",
-      "value": "C67BAB24-4EB3-43F5-9F86-DAF5D4FBD822"
+      "class": "shapeGroup",
+      "id": "D64B47BD-713E-418B-ACA7-A44956A2B61A"
     }
   ],
+  "name": "蒙版",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -75,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FD3C83A3-A7D3-4F60-95FC-FBDAA93646CC",
+    "do_objectID": "C321A41A-F64B-41B1-8AD0-BE98CC9205D4",
     "endMarkerType": 0,
     "fills": [
       {
@@ -83,9 +85,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.9803921568627451,
+          "green": 0.3568627450980393,
+          "red": 0.1725490196078431,
+          "swatchID": "91B3EB1F-4917-488F-AFB7-5410EC1E8166"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -138,6 +141,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "3513EBDF-8E97-45B0-A103-A56A6FBD4673"
+  }
 }
