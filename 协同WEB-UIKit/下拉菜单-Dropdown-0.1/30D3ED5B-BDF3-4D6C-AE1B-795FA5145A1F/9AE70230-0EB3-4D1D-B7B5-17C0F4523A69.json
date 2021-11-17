@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 20,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "（关联Select-03.纯文字选择器）"
+    "string": "（关联Select-01.基本选择器）"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 205,
+    "width": 191,
     "x": 222,
     "y": 865
   },
-  "glyphBounds": "{{9, 5}, {187, 15}}",
+  "glyphBounds": "{{9, 5}, {173, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "（关联Select-03.纯文字选择器）",
+  "name": "（关联Select-01.基本选择器）",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

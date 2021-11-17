@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "基本"
+    "string": "01. 基本"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 36,
+    "width": 69,
     "x": 96,
     "y": 829
   },
-  "glyphBounds": "{{0, 2}, {36, 19}}",
+  "glyphBounds": "{{0, 2}, {69, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "基本",
+  "name": "01. 基本",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
