@@ -1,0 +1,81 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "1FE7FB15-3BC9-44F9-AA9B-4E23EAC99146",
+  "name": "Left/14/14-Grey50-Regular",
+  "value": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "BFC4AD05-7FFD-4FF3-892D-6307FFEF8F90",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5882352941176471,
+          "green": 0.5529411764705883,
+          "red": 0.5294117647058824,
+          "swatchID": "1AB7839A-5F46-4758-9AB0-61ECB3C17E33"
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "MicrosoftYaHei",
+            "size": 14
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22,
+          "tighteningFactorForTruncation": 0.05
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  }
+}

@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1111,
+    "height": 1032,
     "width": 1143,
     "x": 21707,
     "y": 9747
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -145,20 +145,12 @@
       "id": "DEABEDD5-87F9-4601-B6D1-C066673D2F54"
     },
     {
-      "class": "group",
-      "id": "241F4134-58AA-420F-9101-4F53F867AB1C"
+      "class": "symbolInstance",
+      "id": "1DA6D605-5ED7-414C-943E-8F5984A36130"
     },
     {
-      "class": "rectangle",
-      "id": "2C95491B-7DA5-499F-AED5-3B0EAFD47571"
-    },
-    {
-      "class": "oval",
-      "id": "C1BA06F9-655A-4D52-B0A5-472AFC4E3964"
-    },
-    {
-      "class": "text",
-      "id": "080C500E-9F77-4878-8951-65948D0670C8"
+      "class": "symbolInstance",
+      "id": "5594929F-582A-408D-8EFE-3781A14616DD"
     }
   ],
   "name": "开关Switch",

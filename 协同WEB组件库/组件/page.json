@@ -400,6 +400,26 @@
     },
     {
       "class": "symbolMaster",
+      "id": "7272EDFB-1457-464F-8343-A997A7196F09"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4FCD8FC0-839C-419C-A1B8-065544E4D843"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3CCF5C65-26F6-4C0C-B7FF-ECE1A4DEC36B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "88C5304B-1E20-4CC9-87CF-26DCBC0FB679"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "97B874BC-7BC5-4FF3-9272-8023A55C8204"
+    },
+    {
+      "class": "symbolMaster",
       "id": "29BF636C-C5A3-419C-8141-B2C9C1E4067F"
     },
     {
@@ -3289,18 +3309,6 @@
     {
       "class": "symbolMaster",
       "id": "B78A9915-1996-47C7-BC72-115C14D985AE"
-    },
-    {
-      "class": "rectangle",
-      "id": "81C1A744-32F4-441D-85B4-A3CB60D9AC45"
-    },
-    {
-      "class": "rectangle",
-      "id": "EEC94ED8-426B-4B72-A9C1-F54B6A0F1443"
-    },
-    {
-      "class": "bitmap",
-      "id": "1E4AEE92-6AB0-4557-8F98-AB8BCA59B62F"
     }
   ],
   "name": "组件",
