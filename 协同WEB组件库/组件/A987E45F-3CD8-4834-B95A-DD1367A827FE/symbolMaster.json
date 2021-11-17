@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -58,11 +58,6 @@
   "name": "01. General 通用/Icon图标/24/042.帮助",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "BA97525A-A98E-4453-AC5C-058386BAABB1_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

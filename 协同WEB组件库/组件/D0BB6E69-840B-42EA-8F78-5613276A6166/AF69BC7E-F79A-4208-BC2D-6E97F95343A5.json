@@ -78,10 +78,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9803921568627451,
-          "green": 0.3568627450980393,
-          "red": 0.1725490196078431,
-          "swatchID": "91B3EB1F-4917-488F-AFB7-5410EC1E8166"
+          "blue": 0.3450980392156863,
+          "green": 0.3254901960784314,
+          "red": 0.3019607843137255,
+          "swatchID": "244DE014-B067-4D47-82E4-2323A71FBAC1"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

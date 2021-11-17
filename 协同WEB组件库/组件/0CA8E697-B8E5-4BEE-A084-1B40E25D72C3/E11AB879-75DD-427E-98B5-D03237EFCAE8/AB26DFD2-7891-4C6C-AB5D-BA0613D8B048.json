@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.9803921568627451,
-            "green": 0.3568627450980393,
-            "red": 0.1725490196078431,
-            "swatchID": "91B3EB1F-4917-488F-AFB7-5410EC1E8166"
+            "blue": 0.1647058823529412,
+            "green": 0.1529411764705882,
+            "red": 0.1294117647058823,
+            "swatchID": "F7E9285E-1081-4BA2-B82F-6509397B6801"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "MicrosoftYaHei",
+              "name": "MicrosoftYaHei-Bold",
               "size": 14
             }
           },
@@ -124,15 +124,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9803921568627451,
-          "green": 0.3568627450980393,
-          "red": 0.1725490196078431,
-          "swatchID": "91B3EB1F-4917-488F-AFB7-5410EC1E8166"
+          "blue": 0.1647058823529412,
+          "green": 0.1529411764705882,
+          "red": 0.1294117647058823,
+          "swatchID": "F7E9285E-1081-4BA2-B82F-6509397B6801"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "MicrosoftYaHei",
+            "name": "MicrosoftYaHei-Bold",
             "size": 14
           }
         },

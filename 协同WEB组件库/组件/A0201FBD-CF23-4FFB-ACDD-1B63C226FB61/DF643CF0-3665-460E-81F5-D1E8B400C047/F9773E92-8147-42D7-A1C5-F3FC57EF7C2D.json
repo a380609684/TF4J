@@ -17,7 +17,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "MicrosoftYaHei",
+              "name": "MicrosoftYaHei-Bold",
               "size": 14
             }
           },
@@ -132,7 +132,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "MicrosoftYaHei",
+            "name": "MicrosoftYaHei-Bold",
             "size": 14
           }
         },
