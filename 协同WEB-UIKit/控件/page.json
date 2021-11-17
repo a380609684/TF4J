@@ -57,6 +57,26 @@
     {
       "class": "symbolMaster",
       "id": "B191702B-69DA-46F7-9CF3-4312AEDE3A55"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7C41B3B7-433A-4DD1-AD0A-10932B4FB27F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B8A25798-CBD5-46B5-97C4-D426A9686E76"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "992B12E7-46B5-4E14-8C6D-00A01B029B61"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "60482D07-42F2-40B5-A280-4CC048C919CD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5909C39B-9EEE-49BD-8C2E-CB964B387BF2"
     }
   ],
   "name": "控件",

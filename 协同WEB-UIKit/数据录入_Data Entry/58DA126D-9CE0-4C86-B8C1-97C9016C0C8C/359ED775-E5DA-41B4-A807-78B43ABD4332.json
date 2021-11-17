@@ -30,6 +30,11 @@
   "name": "03. Data Entry 数据录入/Radio 单选框/Icon/未选中备份 3",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "185715C0-2C3D-4415-B66C-7917145310B6_layerStyle",
+      "value": "47D90E3F-88F0-46B1-8773-54B8C96767BB"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
