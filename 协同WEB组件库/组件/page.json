@@ -392,6 +392,26 @@
     },
     {
       "class": "symbolMaster",
+      "id": "7272EDFB-1457-464F-8343-A997A7196F09"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4FCD8FC0-839C-419C-A1B8-065544E4D843"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3CCF5C65-26F6-4C0C-B7FF-ECE1A4DEC36B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "88C5304B-1E20-4CC9-87CF-26DCBC0FB679"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "97B874BC-7BC5-4FF3-9272-8023A55C8204"
+    },
+    {
+      "class": "symbolMaster",
       "id": "29BF636C-C5A3-419C-8141-B2C9C1E4067F"
     },
     {
@@ -2172,14 +2192,6 @@
     },
     {
       "class": "symbolMaster",
-      "id": "A0201FBD-CF23-4FFB-ACDD-1B63C226FB61"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "5330A78E-9951-4805-9081-253C69586D6F"
-    },
-    {
-      "class": "symbolMaster",
       "id": "80B51AC2-B597-4390-ABF1-6C13C191D168"
     },
     {
@@ -3285,6 +3297,7 @@
     {
       "class": "symbolMaster",
       "id": "B78A9915-1996-47C7-BC72-115C14D985AE"
+<<<<<<< HEAD
     },
     {
       "class": "rectangle",
@@ -3325,6 +3338,8 @@
     {
       "class": "text",
       "id": "496EA9F4-5E36-46FA-B12B-076D9F5FC387"
+=======
+>>>>>>> ba85ea1c24b709b07b47bb655f391754c2670e30
     }
   ],
   "name": "组件",

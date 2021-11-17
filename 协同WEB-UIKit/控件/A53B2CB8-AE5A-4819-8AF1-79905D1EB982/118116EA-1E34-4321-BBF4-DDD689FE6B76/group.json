@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DBE902E2-79E0-41BC-A44D-AAB51B070141",
+  "do_objectID": "118116EA-1E34-4321-BBF4-DDD689FE6B76",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +15,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": 0,
+    "height": 22,
+    "width": 52,
+    "x": 16,
     "y": 4
   },
+  "groupLayout": {
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -27,14 +35,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "01. General 通用/Icon图标/16/014.设置",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "text",
+      "id": "84CC4967-8AA1-41B3-B482-23FF63D507A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "923164B6-BDA3-402C-95D6-BD2B4F99DF95"
+    }
   ],
+  "name": "编组",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -70,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "43506321-41AA-46F9-A5E5-61C561F77951",
+    "do_objectID": "BD65F46D-E817-4CF6-AE43-DEE7EF2515CC",
     "endMarkerType": 0,
     "fills": [
       {
@@ -78,9 +93,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3450980392156863,
-          "green": 0.3254901960784314,
-          "red": 0.3019607843137255
+          "blue": 0.9803921568627451,
+          "green": 0.3568627450980393,
+          "red": 0.1725490196078431,
+          "swatchID": "E43642FF-D9E2-45E4-99A5-B9CAF2A427B2"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -133,6 +149,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "97E9E9D9-4317-4507-BBEC-4210B158F283"
+  }
 }
