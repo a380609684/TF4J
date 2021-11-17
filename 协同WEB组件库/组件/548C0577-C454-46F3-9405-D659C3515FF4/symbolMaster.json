@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 32,
     "width": 128,
-    "x": -1150,
-    "y": 3284
+    "x": -873,
+    "y": 6330
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,12 +65,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "AFF38407-45AE-4737-A4FF-96CA12D2F340_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B336B364-0AF3-496E-B802-5E1B23F28AC4_symbolID"
+      "overrideName": "D0561896-B0A1-4A4F-AEC1-805CD7D24C2C_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -80,7 +75,22 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D0561896-B0A1-4A4F-AEC1-805CD7D24C2C_stringValue"
+      "overrideName": "B336B364-0AF3-496E-B802-5E1B23F28AC4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B336B364-0AF3-496E-B802-5E1B23F28AC4/51038CCD-39E1-4627-A721-20A8FC2F5CFC_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B336B364-0AF3-496E-B802-5E1B23F28AC4_fillColor"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AFF38407-45AE-4737-A4FF-96CA12D2F340_layerStyle"
     }
   ],
   "presetDictionary": {

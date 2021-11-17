@@ -24,15 +24,15 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 152,
-    "x": -142,
-    "y": 3159
+    "width": 128,
+    "x": -690,
+    "y": 5995
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,14 +63,9 @@
       "id": "A8F8678B-ADB2-459A-8368-AA280768CD3A"
     }
   ],
-  "name": "03. Data Entry 数据录入/Selection 选项/文字类/仅文字-当前选择",
+  "name": "02. Navigation 导航/Dropdown下拉菜单/文字列表-选中",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "A8F8678B-ADB2-459A-8368-AA280768CD3A_textStyle"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
@@ -79,12 +74,27 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "9F9167A8-8602-4BB4-AE4B-D29D5A4D6F9E_layerStyle"
+      "overrideName": "A8F8678B-ADB2-459A-8368-AA280768CD3A_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "B4CF8030-942C-4CD4-841B-4E54395A8BBB_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B4CF8030-942C-4CD4-841B-4E54395A8BBB/1FFB6A85-7ED0-415F-A40E-978182B21BAA_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B4CF8030-942C-4CD4-841B-4E54395A8BBB_fillColor"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9F9167A8-8602-4BB4-AE4B-D29D5A4D6F9E_layerStyle"
     }
   ],
   "presetDictionary": {
