@@ -58,11 +58,6 @@
   "name": "01. General 通用/Icon图标/16/012.下载备份",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "0F6E4212-5749-4C72-AAF7-CA06ACB4D27C_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

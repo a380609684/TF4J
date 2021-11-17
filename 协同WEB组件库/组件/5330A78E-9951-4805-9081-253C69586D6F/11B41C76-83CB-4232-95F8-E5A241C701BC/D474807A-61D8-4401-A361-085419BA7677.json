@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DBE902E2-79E0-41BC-A44D-AAB51B070141",
+  "do_objectID": "D474807A-61D8-4401-A361-085419BA7677",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +15,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": 0,
-    "y": 4
+    "height": 196,
+    "width": 2,
+    "x": 236,
+    "y": 325
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -27,20 +31,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-<<<<<<< HEAD:协同WEB组件库/组件/5330A78E-9951-4805-9081-253C69586D6F/11B41C76-83CB-4232-95F8-E5A241C701BC/DBE902E2-79E0-41BC-A44D-AAB51B070141.json
-  "name": "01. General 通用/Icon图标/16/014.设置",
-=======
   "layers": [
   ],
   "name": "路径 4",
->>>>>>> ba85ea1c24b709b07b47bb655f391754c2670e30:协同WEB组件库/组件/5330A78E-9951-4805-9081-253C69586D6F/11B41C76-83CB-4232-95F8-E5A241C701BC/D474807A-61D8-4401-A361-085419BA7677.json
   "nameIsFixed": false,
-  "overrideValues": [
-  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -76,7 +73,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "43506321-41AA-46F9-A5E5-61C561F77951",
+    "do_objectID": "7ED8C419-D8D4-4E30-B4C5-28432CD55184",
     "endMarkerType": 0,
     "fills": [
       {
@@ -84,9 +81,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3450980392156863,
-          "green": 0.3254901960784314,
-          "red": 0.3019607843137255
+          "blue": 0.9725490196078431,
+          "green": 0.9607843137254902,
+          "red": 0.9529411764705882,
+          "swatchID": "07DD4F3E-95E7-4861-8EF8-ED8DECEDBB49"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -138,7 +136,7 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
-  "symbolID": "97E9E9D9-4317-4507-BBEC-4210B158F283"
+  "windingRule": 0
 }
