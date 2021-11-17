@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "最简单的下拉菜单。"
+    "string": "可设置 icon 属性来修改右边的图标。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 126,
+    "width": 233,
     "x": 96,
-    "y": 1326
+    "y": 1293
   },
-  "glyphBounds": "{{0, 5}, {117, 14}}",
+  "glyphBounds": "{{0, 5}, {223, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "最简单的下拉菜单。备份",
+  "name": "可设置 icon 属性来修改右边的图标。",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
