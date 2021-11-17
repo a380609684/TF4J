@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3D4E06F8-C891-44FB-83CF-16F26FC477F4",
+  "do_objectID": "0595B2FD-3CEC-4502-8C7E-1EB6E219C9E7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 51,
-    "width": 210,
-    "x": 390,
-    "y": 211
+    "width": 980,
+    "x": 100,
+    "y": 601
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -33,7 +33,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "B3C2E71A-2609-42BE-A4E6-B1D9213A43FD_stringValue",
-      "value": "独立使用"
+      "value": "鼠标状态"
     }
   ],
   "resizingConstraint": 63,
@@ -75,7 +75,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "BF0E39B9-551C-4709-B7B3-CEBD75422936",
+    "do_objectID": "C89F6015-4B65-4AF6-B452-B220C10879C6",
     "endMarkerType": 0,
     "fills": [
     ],

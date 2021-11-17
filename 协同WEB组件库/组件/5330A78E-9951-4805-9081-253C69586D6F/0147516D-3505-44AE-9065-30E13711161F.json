@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0147516D-3505-44AE-9065-30E13711161F",
+  "do_objectID": "1C95C537-9E14-4CDF-884F-80C5FE189382",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +15,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 12,
-    "x": 104,
-    "y": 10
+    "height": 196,
+    "width": 2,
+    "x": 382,
+    "y": 325
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -27,14 +31,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "01. General 通用/Icon图标/12/007.右",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "14D49541-298B-4555-9BCE-A2A8C90E7D71"
+    }
   ],
-  "resizingConstraint": 44,
+  "name": "路径 4备份",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -70,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A9A834A8-85CC-466C-A9D3-2367F47D8C52",
+    "do_objectID": "35B9DD19-A131-4AA8-8BA2-FA9650090730",
     "endMarkerType": 0,
     "fills": [
       {
@@ -78,10 +85,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9803921568627451,
-          "green": 0.3568627450980393,
-          "red": 0.1725490196078431,
-          "swatchID": "91B3EB1F-4917-488F-AFB7-5410EC1E8166"
+          "blue": 0.9725490196078431,
+          "green": 0.9607843137254902,
+          "red": 0.9529411764705882,
+          "swatchID": "07DD4F3E-95E7-4861-8EF8-ED8DECEDBB49"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -133,7 +140,7 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 1
+    "windingRule": 0
   },
-  "symbolID": "3513EBDF-8E97-45B0-A103-A56A6FBD4673"
+  "windingRule": 0
 }

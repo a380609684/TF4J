@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2E2ED8F9-F828-4CDE-BFE0-9586AFEB55EB",
+  "do_objectID": "8ED0E852-05C0-4C4E-A7BC-5A6F42AF50F3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 152,
-    "x": 96,
-    "y": 910
+    "width": 32,
+    "x": 275,
+    "y": 754
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,7 +27,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "03. Data Entry 数据录入/Select 选择器/默认/未选择备份 7",
+  "name": "07. Others 其他/鼠标/单击备份",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -70,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "42502568-94D2-4B0F-9806-4F3DA4543507",
+    "do_objectID": "65B7F719-67DE-4A2B-9A3D-605A16F19F54",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,5 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "3F065D5D-57DA-45C9-BD5D-72875398268D"
+  "symbolID": "68D4C9CD-CDAC-4E8F-A704-629A1579A711"
 }
