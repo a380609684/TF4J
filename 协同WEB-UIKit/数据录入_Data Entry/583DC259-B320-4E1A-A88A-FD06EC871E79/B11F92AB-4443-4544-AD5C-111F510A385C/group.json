@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7C0648D9-5CFC-43A6-98CA-4CC9E9EF6F3A",
+  "do_objectID": "B11F92AB-4443-4544-AD5C-111F510A385C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +15,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 20,
-    "x": 446,
-    "y": 491
+    "height": 18,
+    "width": 18,
+    "x": 447,
+    "y": 388
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -27,19 +31,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "03. Data Entry 数据录入/Radio 单选框/Icon/未选中备份 2",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "E773468F-6466-4686-85CB-F90B00F845D1_layerStyle",
-      "value": "7AB6EAC6-6A0C-4C7B-A868-FA34A1117C87"
+      "class": "oval",
+      "id": "C07C1B5C-0620-419C-BC0E-0068458F58B2"
+    },
+    {
+      "class": "oval",
+      "id": "488BBF80-F7F5-41C5-9AD3-9B7F0B6587AA"
     }
   ],
+  "name": "03. Data Entry 数据录入/Radio 单选框/Icon/已选中备份",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -75,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C9D9136B-68EC-4EBF-8C27-817B61AA0B17",
+    "do_objectID": "E9D03BC3-1333-43DF-B8AB-1BBF7B19F08D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -86,6 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "0E35CA8E-A0BA-4F46-896E-1D6C594BA6A1"
+  }
 }

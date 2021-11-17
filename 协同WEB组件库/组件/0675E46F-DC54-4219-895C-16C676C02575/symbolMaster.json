@@ -66,11 +66,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "185715C0-2C3D-4415-B66C-7917145310B6_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "05E6313B-9471-4DF4-8C9B-251ABBD4FB20_layerStyle"
     }
   ],
   "presetDictionary": {
