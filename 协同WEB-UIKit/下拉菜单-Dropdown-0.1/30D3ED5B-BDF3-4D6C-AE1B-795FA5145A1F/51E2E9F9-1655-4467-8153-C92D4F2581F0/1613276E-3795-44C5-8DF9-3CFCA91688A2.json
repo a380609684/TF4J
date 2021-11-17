@@ -30,11 +30,6 @@
   "name": "02. Navigation 导航/Dropdown下拉菜单/文字列表-默认备份",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "7426F743-2E7F-445C-A181-627E001E81B9_stringValue",
-      "value": "Disable"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -87,5 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4E50355B-65D4-48B0-86A3-F96F6A1C995A"
+  "symbolID": "CF44AB78-3467-457B-A438-6D00C58EB1D4"
 }
