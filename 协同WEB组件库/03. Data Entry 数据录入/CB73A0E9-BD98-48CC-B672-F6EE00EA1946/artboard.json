@@ -106,8 +106,8 @@
       "id": "88BE35A6-DCE1-4A98-A79E-EB948B9E4D45"
     },
     {
-      "class": "symbolInstance",
-      "id": "F42AEAF3-BB83-4A97-A04B-53274DEFE09F"
+      "class": "group",
+      "id": "0C561274-0B55-4EB5-B314-798F5037D70F"
     },
     {
       "class": "group",
@@ -466,12 +466,12 @@
       "id": "F9131EF5-9913-4800-9373-0B0714EFF723"
     },
     {
-      "class": "symbolInstance",
-      "id": "41B286F7-23C2-4E64-88E7-94222E1220A5"
+      "class": "group",
+      "id": "87A84C3E-4B61-415A-8F52-09AE8196D1C7"
     },
     {
-      "class": "symbolInstance",
-      "id": "0F256FD5-D91A-4EF3-89A2-1AD57FF50DC5"
+      "class": "group",
+      "id": "A09AF99D-39DF-4165-A5C6-79173038CC4A"
     },
     {
       "class": "group",
@@ -526,12 +526,12 @@
       "id": "F4BD454D-8E5B-4E25-A776-29F6D57BBBBE"
     },
     {
-      "class": "symbolInstance",
-      "id": "2640BF39-8B7C-4EBF-8245-40B7E34585B2"
+      "class": "group",
+      "id": "352BA065-055E-4B4E-B520-9F8D8D40FF35"
     },
     {
-      "class": "symbolInstance",
-      "id": "33573FD1-FB1E-496E-BB77-5922A14C941E"
+      "class": "group",
+      "id": "DF7656AD-5A1E-4C64-87BE-FC338F70D590"
     },
     {
       "class": "symbolInstance",
