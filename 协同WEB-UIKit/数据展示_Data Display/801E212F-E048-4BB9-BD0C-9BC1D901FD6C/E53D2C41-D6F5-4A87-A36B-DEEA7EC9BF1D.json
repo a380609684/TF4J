@@ -9,34 +9,34 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "MicrosoftYaHei",
-              "size": 12
+              "name": "PingFangSC-Semibold",
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20
-          }
+            "allowsDefaultTighteningForTruncation": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 4,
         "location": 0
       }
     ],
-    "string": "999+"
+    "string": "不可操作"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BD297896-7F5B-412A-95E4-6EAED0B9D628",
+  "do_objectID": "E53D2C41-D6F5-4A87-A36B-DEEA7EC9BF1D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 31,
-    "x": 268,
-    "y": 716
+    "height": 22,
+    "width": 64,
+    "x": 246,
+    "y": 676
   },
-  "glyphBounds": "{{0, 5}, {29, 11}}",
+  "glyphBounds": "{{0, 3}, {64, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,12 +64,11 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "999+",
+  "name": "不可操作",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "8A70F373-25A4-4A7F-B842-4D33FD165D2F",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -105,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A7770B50-715B-4F7C-93A0-67FFBDBC4AC8",
+    "do_objectID": "9653234D-0192-4B29-828A-E293B31E280A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -121,23 +120,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "MicrosoftYaHei",
-            "size": 12
+            "name": "PingFangSC-Semibold",
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2,
-          "maximumLineHeight": 20,
-          "minimumLineHeight": 20
-        }
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
