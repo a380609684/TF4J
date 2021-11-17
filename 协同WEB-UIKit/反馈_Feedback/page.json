@@ -38,6 +38,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "B222796A-D6D9-486C-B213-6861857A0925"
+    }
   ],
   "name": "反馈_Feedback",
   "nameIsFixed": true,
