@@ -69,6 +69,18 @@
     {
       "class": "artboard",
       "id": "986F86AD-591B-4E45-98F1-EB2735C59089"
+    },
+    {
+      "class": "artboard",
+      "id": "083EB1E5-F885-4095-88BC-20A8C2F79F45"
+    },
+    {
+      "class": "bitmap",
+      "id": "BD964AB4-2987-41AE-BB73-6890FB20110B"
+    },
+    {
+      "class": "bitmap",
+      "id": "A51E1C94-7F2B-4EF9-8A8F-30AA66CC3FCA"
     }
   ],
   "name": "数据录入_Data Entry",
