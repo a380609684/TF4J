@@ -17,8 +17,13 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
+<<<<<<< HEAD
     "x": 523,
     "y": 2752
+=======
+    "x": 258,
+    "y": 1997
+>>>>>>> 7c9f5ad1cc1334dceb970678724368da75c2df9a
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,

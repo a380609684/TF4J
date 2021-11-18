@@ -17,8 +17,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 177,
-    "x": 148,
-    "y": 2737
+    "x": 186,
+    "y": 1985
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -32,6 +32,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "30A45F68-9BE3-4AB2-986B-C9FAF3E47CAC"
+    },
     {
       "class": "text",
       "id": "5E88BF52-6C83-4010-A36C-5F0E47EF9CA9"
