@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1488,
+    "height": 632,
     "width": 1143,
     "x": 2445,
     "y": -4089
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -103,6 +103,10 @@
     {
       "class": "text",
       "id": "72003B7F-69BF-4268-9AD3-5C046EFAD15F"
+    },
+    {
+      "class": "text",
+      "id": "12D38C21-B0B3-4F46-9AF0-C6E04168EB45"
     },
     {
       "class": "text",
