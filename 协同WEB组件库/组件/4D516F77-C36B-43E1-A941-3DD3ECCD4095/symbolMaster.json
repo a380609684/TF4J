@@ -58,11 +58,6 @@
   "name": "04. Data Display 数据展示/Checkbox多选框/未选择",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "BE5B60D9-C8BA-4EDA-A491-747C561AA4C5_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

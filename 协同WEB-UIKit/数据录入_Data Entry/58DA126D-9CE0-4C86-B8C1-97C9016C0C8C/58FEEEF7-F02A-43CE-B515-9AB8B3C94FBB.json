@@ -30,11 +30,6 @@
   "name": "04. Data Display 数据展示/Checkbox多选框/带文字备份 2",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "04BC4C41-27BA-4974-882D-A090A184363A/BE5B60D9-C8BA-4EDA-A491-747C561AA4C5_layerStyle",
-      "value": "47D90E3F-88F0-46B1-8773-54B8C96767BB"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

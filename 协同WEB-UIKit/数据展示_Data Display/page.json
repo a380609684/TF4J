@@ -40,51 +40,51 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "DBDD85C7-658E-4185-BA8A-D7E1B3232BC7"
-    },
-    {
-      "class": "bitmap",
-      "id": "3B79382C-4614-4F86-9ECB-66250C6E9A79"
+      "id": "974636FB-529B-4FE4-918E-AD16B89E1DDE"
     },
     {
       "class": "artboard",
-      "id": "801E212F-E048-4BB9-BD0C-9BC1D901FD6C"
+      "id": "63676097-B857-490D-AF4C-0D54F9EB2848"
+    },
+    {
+      "class": "bitmap",
+      "id": "4F5583DE-9986-4604-81B4-601EEAC1A9CB"
     },
     {
       "class": "rectangle",
-      "id": "47359DB8-F949-4989-8F5D-AF315DC4BB19"
+      "id": "E5A58AD0-86C9-4B9E-B919-FDB1CA4D52D5"
     },
     {
       "class": "rectangle",
-      "id": "FC9D612E-F66D-4AC6-A86F-F27B5BE2E815"
+      "id": "F8A42733-161A-4645-840F-5EF5F8A851DC"
     },
     {
       "class": "rectangle",
-      "id": "D7904265-5969-41C9-9979-5FBB725DA771"
+      "id": "E3B16EF5-E89D-4E89-B2A9-807B09CD07BC"
     },
     {
       "class": "rectangle",
-      "id": "6CDAFBE0-8B72-4E39-BDC2-B1FC3B57F949"
+      "id": "D6E15C77-9CC5-4D44-86D1-BBE4BEEDB84F"
     },
     {
       "class": "rectangle",
-      "id": "7799E1EA-8C7E-44A3-A8E3-0F7C34F12B52"
+      "id": "54A47200-D6B5-444D-A002-3C2B629D47B3"
     },
     {
       "class": "rectangle",
-      "id": "1245A821-826B-4832-A2A2-E7E7CE7F93CB"
+      "id": "D955A935-5D42-488F-BAA0-4FA105CDF8DF"
     },
     {
       "class": "rectangle",
-      "id": "393AFCF1-0E4F-4253-B26D-80C62FB9428B"
+      "id": "9C160967-DB32-4C52-B15A-83BD552C4F92"
     },
     {
       "class": "rectangle",
-      "id": "6A8F89F3-3247-445A-8748-BEE92124C4C1"
+      "id": "DF4862BE-EF05-4D9B-B976-1616FE07572E"
     },
     {
       "class": "rectangle",
-      "id": "09ADC182-DB25-4620-878D-6A4D3FF927FD"
+      "id": "A0DCD16D-B37A-4F2D-ACBE-A01588315102"
     }
   ],
   "name": "数据展示_Data Display",
