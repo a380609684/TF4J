@@ -24,14 +24,14 @@
     "constrainProportions": false,
     "height": 1889,
     "width": 1532,
-    "x": 6080,
+    "x": 6038,
     "y": -1097
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,14 +48,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "rectangle",
-      "id": "601DA07B-8E7E-4DDD-8EBE-FDAB6C796FB6"
-    },
-    {
-      "class": "rectangle",
-      "id": "BC65FDD0-384E-4CA3-9647-D4A49E5EB5C9"
-    },
     {
       "class": "symbolInstance",
       "id": "3AEC9931-3551-4760-9822-AA2C90D2EA71"
@@ -153,16 +145,8 @@
       "id": "E20FF722-CC78-4712-ADC3-72F809257C59"
     },
     {
-      "class": "text",
-      "id": "85CB3F37-C870-4A08-823B-07E1A280CB67"
-    },
-    {
-      "class": "text",
-      "id": "2024342C-50E4-4695-A177-1E55210FD833"
-    },
-    {
-      "class": "text",
-      "id": "88E08346-B698-4B23-9FE0-AA94F727BBBC"
+      "class": "group",
+      "id": "34ECF699-3217-4FB1-911D-AA931C105D81"
     }
   ],
   "name": "面包屑Breadcrumb",
