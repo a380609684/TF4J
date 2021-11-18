@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapePath",
@@ -42,7 +42,7 @@
     },
     {
       "class": "shapePath",
-      "id": "FC741F42-CCF5-4454-8343-1F37F41CD2FC"
+      "id": "0914B131-6F0A-4911-8ECA-0D9B5A987EB4"
     }
   ],
   "name": "形状",

@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 12,
-    "x": 104,
-    "y": 10
+    "height": 16,
+    "width": 16,
+    "x": 8,
+    "y": 8
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -31,7 +31,7 @@
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 44,
+  "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -78,10 +78,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9803921568627451,
-          "green": 0.3568627450980393,
-          "red": 0.1725490196078431,
-          "swatchID": "91B3EB1F-4917-488F-AFB7-5410EC1E8166"
+          "blue": 1,
+          "green": 0.5176470588235293,
+          "red": 0.3411764705882353,
+          "swatchID": "A7FF3497-8D0D-4F2D-86B8-4E8F33A8B51F"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -135,5 +135,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "3513EBDF-8E97-45B0-A103-A56A6FBD4673"
+  "symbolID": "CDC611AE-D7AA-46A2-8FDD-AE0D88DD6F0A"
 }

@@ -51,8 +51,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "1FFB6A85-7ED0-415F-A40E-978182B21BAA"
+      "class": "shapePath",
+      "id": "E9F03272-47E3-4BBC-ACB3-3AFCE68BB800"
     }
   ],
   "name": "01. General 通用/Icon图标/12/011.对勾",
@@ -61,7 +61,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "6519AAD5-F45D-4AFD-945B-39229437B75E_layerStyle"
+      "overrideName": "1FFB6A85-7ED0-415F-A40E-978182B21BAA_layerStyle"
     }
   ],
   "presetDictionary": {

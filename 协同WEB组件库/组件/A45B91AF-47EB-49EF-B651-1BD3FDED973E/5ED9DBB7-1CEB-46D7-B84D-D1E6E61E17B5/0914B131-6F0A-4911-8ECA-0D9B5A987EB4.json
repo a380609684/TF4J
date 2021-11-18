@@ -1,8 +1,9 @@
 {
-  "_class": "shapeGroup",
+  "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D474807A-61D8-4401-A361-085419BA7677",
+  "do_objectID": "0914B131-6F0A-4911-8ECA-0D9B5A987EB4",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,29 +16,88 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 196,
-    "width": 2,
-    "x": 236,
-    "y": 325
+    "height": 6.639722140177959,
+    "width": 11.05591368080904,
+    "x": 5.133092422166496,
+    "y": 6.480138929910975
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-  ],
-  "name": "路径 4",
+  "name": "路径",
   "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0.6,
+      "curveFrom": "{1.143247751124824e-18, 1}",
+      "curveMode": 1,
+      "curveTo": "{1.143247751124824e-18, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1.143247751124824e-18, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0.5,
+      "curveFrom": "{0.139567460847597, -1.0908606550288378e-18}",
+      "curveMode": 1,
+      "curveTo": "{0.12441719784484159, -1.0908606550288378e-18}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.13199232934622615, -1.0908606550288378e-18}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0.5,
+      "curveFrom": "{0.27591984602314207, 3.8683609861483821e-08}",
+      "curveMode": 1,
+      "curveTo": "{0.26076958302037678, 3.8683609861483821e-08}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.26834471452176134, 3.8683609861416389e-08}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.25628752466691385, 0.63130058894900853}",
+      "curveMode": 1,
+      "curveTo": "{0.25628752466691385, 0.63130058894900853}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.25628752466691385, 0.63130058894900853}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0.5,
+      "curveFrom": "{0.99999998481918451, 0.71316109302563857}",
+      "curveMode": 1,
+      "curveTo": "{0.99999998481918451, 0.68805964101484729}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99999998481918451, 0.70061036702024293}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0.5,
+      "curveFrom": "{1.0000000000000007, 0.9390741413737056}",
+      "curveMode": 1,
+      "curveTo": "{1.0000000000000007, 0.91397268936291454}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1.0000000000000007, 0.92652341536831007}"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": 50,
+  "sharedStyleID": "B8588065-7E99-43C5-82F6-A4119F96DDAC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -73,7 +133,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7ED8C419-D8D4-4E30-B4C5-28432CD55184",
+    "do_objectID": "DE866EED-5787-4430-A526-D95DD6C28E96",
     "endMarkerType": 0,
     "fills": [
       {
@@ -81,10 +141,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9725490196078431,
-          "green": 0.9607843137254902,
-          "red": 0.9529411764705882,
-          "swatchID": "07DD4F3E-95E7-4861-8EF8-ED8DECEDBB49"
+          "blue": 0.2470588235294118,
+          "green": 0.2274509803921569,
+          "red": 0.203921568627451,
+          "swatchID": "19C16166-31AC-43F7-A371-7C1BFCB45CF6"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -136,7 +196,6 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "windingRule": 0
-  },
-  "windingRule": 0
+    "windingRule": 1
+  }
 }

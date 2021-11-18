@@ -1,8 +1,9 @@
 {
-  "_class": "shapeGroup",
-  "booleanOperation": 0,
+  "_class": "shapePath",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D5236EA3-E506-4E16-AFB8-E12022B6E69A",
+  "do_objectID": "52FB97BC-3D2B-41B8-BAA8-2923FFCB3B81",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,33 +16,88 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3,
-    "width": 3,
-    "x": 10.5,
-    "y": 10.5
+    "height": 6.639722140177959,
+    "width": 11.05591368080904,
+    "x": 6.133092422164437,
+    "y": 7.48013892991073
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "路径",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
     {
-      "class": "rectangle",
-      "id": "A7D78831-CBA4-4F7E-9C2E-EB7FA4BA98F6"
+      "_class": "curvePoint",
+      "cornerRadius": 0.6,
+      "curveFrom": "{1.143247751124824e-18, 1}",
+      "curveMode": 1,
+      "curveTo": "{1.143247751124824e-18, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1.143247751124824e-18, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0.5,
+      "curveFrom": "{0.139567460847597, -1.0908606550288378e-18}",
+      "curveMode": 1,
+      "curveTo": "{0.12441719784484159, -1.0908606550288378e-18}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.13199232934622615, -1.0908606550288378e-18}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0.5,
+      "curveFrom": "{0.27591984602314207, 3.8683609861483821e-08}",
+      "curveMode": 1,
+      "curveTo": "{0.26076958302037678, 3.8683609861483821e-08}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.26834471452176134, 3.8683609861416389e-08}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.25628752466691385, 0.63130058894900853}",
+      "curveMode": 1,
+      "curveTo": "{0.25628752466691385, 0.63130058894900853}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.25628752466691385, 0.63130058894900853}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0.5,
+      "curveFrom": "{0.99999998481918451, 0.71316109302563857}",
+      "curveMode": 1,
+      "curveTo": "{0.99999998481918451, 0.68805964101484729}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99999998481918451, 0.70061036702024293}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0.5,
+      "curveFrom": "{1.0000000000000007, 0.9390741413737056}",
+      "curveMode": 1,
+      "curveTo": "{1.0000000000000007, 0.91397268936291454}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1.0000000000000007, 0.92652341536831007}"
     }
   ],
-  "name": "形状结合备份",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": 50,
+  "sharedStyleID": "B8588065-7E99-43C5-82F6-A4119F96DDAC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -77,7 +133,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C78A5EB0-E2CB-4E61-921E-5DC01D46470B",
+    "do_objectID": "D3303213-509B-4755-ABA5-7557FB200C58",
     "endMarkerType": 0,
     "fills": [
       {
@@ -140,14 +196,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.sketch.detach": {
-      "sharedStyle": {
-        "sharedStyleId": "A28CCFA3-5E43-4D36-AA94-B86D682ECF5C",
-        "sharedStyleName": "05.状态色/Process"
-      }
-    }
-  },
-  "windingRule": 1
+  }
 }
