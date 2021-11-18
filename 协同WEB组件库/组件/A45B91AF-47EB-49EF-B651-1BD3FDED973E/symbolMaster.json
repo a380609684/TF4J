@@ -58,11 +58,6 @@
   "name": "01. General 通用/Icon图标/24/同意备份 22",
   "nameIsFixed": false,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B51A33C6-FB71-4FE4-BEAA-634E06CD0915_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

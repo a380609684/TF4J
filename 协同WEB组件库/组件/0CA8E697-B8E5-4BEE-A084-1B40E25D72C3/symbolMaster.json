@@ -26,13 +26,13 @@
     "height": 32,
     "width": 128,
     "x": -597,
-    "y": 6610
+    "y": 6741
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,6 +53,10 @@
     {
       "class": "rectangle",
       "id": "06291D4D-604F-4673-A546-A47FCAC662B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "09244C42-92EE-4792-955D-CD6525C91FB2"
     },
     {
       "class": "group",

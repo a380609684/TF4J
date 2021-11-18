@@ -30,15 +30,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "B24D26ED-947A-49A5-B403-48603F19B6F4"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "2A588E42-9F1D-49F9-8FD9-63541BB40ACB"
     }
   ],
   "name": "形状结合",

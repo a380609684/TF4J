@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 128,
+    "width": 136,
     "x": 8,
     "y": 104
   },
@@ -32,7 +32,7 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "C52C369B-AC5D-4253-8B82-7639965BC56C_stringValue",
+      "overrideName": "7426F743-2E7F-445C-A181-627E001E81B9_stringValue",
       "value": "选项二"
     }
   ],
@@ -87,5 +87,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F71F7965-F18A-4B51-B7AB-07B8FC01C500"
+  "symbolID": "A1DF06D9-4B4C-4D0E-87CE-D5E373FAC67C"
 }

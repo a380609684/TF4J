@@ -17,7 +17,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "MicrosoftYaHei",
+              "name": "MicrosoftYaHei-Bold",
               "size": 14
             }
           },
@@ -26,7 +26,8 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "minimumLineHeight": 22,
+            "tighteningFactorForTruncation": 0.05
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -72,7 +73,7 @@
   "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "8ED750A7-FB62-4F6D-9FAC-E11C668119BC",
+  "sharedStyleID": "CDC0F58E-624B-4CB9-BB28-EFD92870E94B",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -132,7 +133,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "MicrosoftYaHei",
+            "name": "MicrosoftYaHei-Bold",
             "size": 14
           }
         },
@@ -141,7 +142,8 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "minimumLineHeight": 22,
+          "tighteningFactorForTruncation": 0.05
         },
         "textStyleVerticalAlignmentKey": 0
       },

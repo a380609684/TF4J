@@ -51,8 +51,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "9A6BC012-67D8-46A4-A22B-B38FA0505563"
+      "class": "shapeGroup",
+      "id": "039BDBAD-7A37-4FAD-BA01-88465782E8D8"
     }
   ],
   "name": "01. General 通用/Icon图标/16/148.企业联盟备份",
@@ -61,7 +61,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "5F578A85-11E5-45A3-9799-C5D26B4D2255_layerStyle"
+      "overrideName": "00542A0E-AE9B-4398-87D0-DFB9EF1E9ACD_layerStyle"
     }
   ],
   "presetDictionary": {
