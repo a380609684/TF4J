@@ -56,10 +56,6 @@
     },
     {
       "class": "artboard",
-      "id": "0509C24D-8A02-4440-9A92-8C658DECA748"
-    },
-    {
-      "class": "artboard",
       "id": "5CE0E388-2C7D-4A37-A2B0-0D6ACAE43B24"
     },
     {
@@ -69,6 +65,22 @@
     {
       "class": "artboard",
       "id": "986F86AD-591B-4E45-98F1-EB2735C59089"
+    },
+    {
+      "class": "artboard",
+      "id": "5E999BCF-4BC9-487D-BF9D-B36566F27689"
+    },
+    {
+      "class": "artboard",
+      "id": "281045CB-A6B2-46DF-ACD4-D0E463549140"
+    },
+    {
+      "class": "bitmap",
+      "id": "1C807441-3B47-4C28-99D4-ADD4FA8DF340"
+    },
+    {
+      "class": "bitmap",
+      "id": "6B0E8402-3422-44B4-8184-B9F440AF673D"
     }
   ],
   "name": "数据录入_Data Entry",
