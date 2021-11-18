@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 136,
+    "width": 128,
     "x": 8,
     "y": 72
   },
@@ -32,13 +32,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "9F9167A8-8602-4BB4-AE4B-D29D5A4D6F9E_layerStyle",
-      "value": "3C5EB4E7-B094-45B2-ACE3-88D56789B822"
+      "overrideName": "689CD81A-0FD5-48E1-B1E6-EC7938BA31C1_stringValue",
+      "value": "选项二"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "A8F8678B-ADB2-459A-8368-AA280768CD3A_stringValue",
-      "value": "选项二"
+      "overrideName": "517F2C82-992D-4ACC-81BE-6D6C5D5C8AA6_layerStyle",
+      "value": "3C5EB4E7-B094-45B2-ACE3-88D56789B822"
     }
   ],
   "resizingConstraint": 63,
@@ -92,5 +92,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "93A2E085-63F2-4FD4-8DA1-4B0442A068A0"
+  "symbolID": "D8E5F0E3-3839-465C-8044-8262EC7439D6"
 }

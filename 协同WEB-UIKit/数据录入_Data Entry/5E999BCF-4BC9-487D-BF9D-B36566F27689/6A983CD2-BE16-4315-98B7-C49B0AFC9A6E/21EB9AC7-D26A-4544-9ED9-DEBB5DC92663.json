@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "53E2212D-1A4B-409A-9BB7-26AD4708BCF9",
+  "do_objectID": "21EB9AC7-D26A-4544-9ED9-DEBB5DC92663",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -18,7 +18,7 @@
     "height": 32,
     "width": 128,
     "x": 8,
-    "y": 104
+    "y": 72
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,13 +27,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "02. Navigation 导航/Dropdown下拉菜单/文字列表-默认备份 8",
+  "name": "02. Navigation 导航/Dropdown下拉菜单/文字列表-默认备份 3",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "C52C369B-AC5D-4253-8B82-7639965BC56C_stringValue",
-      "value": "选项二"
+      "overrideName": "E50C270F-55F8-41FD-AD52-B87FB29D7763_stringValue",
+      "value": "选项三"
     }
   ],
   "resizingConstraint": 63,
@@ -75,7 +75,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "326914B8-09BE-4BC6-B09A-68D8B0E09639",
+    "do_objectID": "F45ECE0B-36D8-446E-B8C2-73B1BA01A6C4",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,5 +87,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F71F7965-F18A-4B51-B7AB-07B8FC01C500"
+  "symbolID": "CF44AB78-3467-457B-A438-6D00C58EB1D4"
 }
