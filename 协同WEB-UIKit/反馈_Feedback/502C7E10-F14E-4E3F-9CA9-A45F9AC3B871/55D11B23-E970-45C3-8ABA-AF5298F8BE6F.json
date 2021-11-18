@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 8,
         "location": 0
       }
     ],
-    "string": "和文字组独立成选项"
+    "string": "和自定义文字组合"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 144,
+    "width": 128,
     "x": 108,
     "y": 450
   },
-  "glyphBounds": "{{0, 3}, {144, 16}}",
+  "glyphBounds": "{{0, 3}, {128, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "和文字组独立成选项",
+  "name": "和自定义文字组合",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

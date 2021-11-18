@@ -9,38 +9,40 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6901960784313725,
-            "green": 0.6627450980392157,
-            "red": 0.6352941176470588,
-            "swatchID": "7D329CCE-1AB8-4368-9829-190350F2806C"
+            "blue": 0.9803921568627451,
+            "green": 0.3568627450980393,
+            "red": 0.1725490196078431,
+            "swatchID": "B2A8A685-E18B-4499-A3EB-29A3D2F44450"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "MicrosoftYaHei",
-              "size": 13
+              "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
             "tighteningFactorForTruncation": 0.05
           },
-          "textStyleVerticalAlignmentKey": 0
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 0
         },
         "length": 3,
         "location": 0
       }
     ],
-    "string": "标签一"
+    "string": "加载中"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "056FF89D-673B-4829-BDA4-CDFAD254B093",
+  "do_objectID": "12D38C21-B0B3-4F46-9AF0-C6E04168EB45",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,12 +56,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 39,
-    "x": 8,
-    "y": 1
+    "height": 20,
+    "width": 36,
+    "x": 214,
+    "y": 526
   },
-  "glyphBounds": "{{0, 5}, {39, 13}}",
+  "glyphBounds": "{{0, 4}, {36, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,12 +69,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "标签一",
+  "lineSpacingBehaviour": 3,
+  "name": "加载中",
   "nameIsFixed": false,
-  "resizingConstraint": 41,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "C969F89B-70B1-4B1C-9EA4-028FF2155CE2",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -108,7 +111,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "9F797E35-4448-47A9-B638-4000ABF74F19",
+    "do_objectID": "34BB0110-1C17-4D5A-B029-85EA8F9270BE",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -124,39 +127,33 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6901960784313725,
-          "green": 0.6627450980392157,
-          "red": 0.6352941176470588,
-          "swatchID": "7D329CCE-1AB8-4368-9829-190350F2806C"
+          "blue": 0.9803921568627451,
+          "green": 0.3568627450980393,
+          "red": 0.1725490196078431,
+          "swatchID": "B2A8A685-E18B-4499-A3EB-29A3D2F44450"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "MicrosoftYaHei",
-            "size": 13
+            "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20,
           "tighteningFactorForTruncation": 0.05
         },
-        "textStyleVerticalAlignmentKey": 0
+        "strikethroughStyle": 0,
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.sketch.detach": {
-      "sharedStyle": {
-        "sharedStyleId": "6CE2904F-4905-425A-B3B3-EA7BBA75FDFB",
-        "sharedStyleName": "Left/14/14-Grey30-Regular"
-      }
-    }
-  }
+  "textBehaviour": 0
 }

@@ -18,7 +18,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "MicrosoftYaHei",
-              "size": 14
+              "size": 13
             }
           },
           "paragraphStyle": {
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 42,
+    "width": 39,
     "x": 8,
-    "y": 0
+    "y": 1
   },
-  "glyphBounds": "{{0, 5}, {42, 14}}",
+  "glyphBounds": "{{0, 5}, {39, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,7 +72,6 @@
   "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "8ED750A7-FB62-4F6D-9FAC-E11C668119BC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -133,7 +132,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "MicrosoftYaHei",
-            "size": 14
+            "size": 13
           }
         },
         "paragraphStyle": {
@@ -149,5 +148,13 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "8ED750A7-FB62-4F6D-9FAC-E11C668119BC",
+        "sharedStyleName": "Left/14/14-Grey90-Regular"
+      }
+    }
+  }
 }
