@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BA69AF1A-066D-49C7-A3DD-2A3EAECB3C0E",
+  "do_objectID": "8F9AABD5-88FC-4458-8C51-D045BA80616A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,15 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 88,
-    "width": 348,
-    "x": 678,
-    "y": 1032
+    "height": 12,
+    "width": 12,
+    "x": 873,
+    "y": 1327
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -31,21 +27,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "01. General 通用/Icon图标/12/005.下",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "group",
-      "id": "6A0C0F7F-4ECF-47E4-8CD0-C9B415D94DF6"
-    },
-    {
-      "class": "rectangle",
-      "id": "5E080A97-8356-4E82-9011-82A8C8C9E8E9"
+      "_class": "overrideValue",
+      "overrideName": "DB52C299-ED65-4889-B1DE-1404378539AA_layerStyle",
+      "value": "42618CD4-672A-440A-8573-ADB7B8168981"
     }
   ],
-  "name": "编组 5",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +75,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "235A0E49-DB3C-492A-BFAA-E3906D06C997",
+    "do_objectID": "E561C3F0-E376-49EE-ACF0-1BC595356EA4",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +86,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "1ED0700E-21A7-403A-A5FD-C6B43CB26CBB"
 }

@@ -27,16 +27,16 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 2,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "图标"
+    "string": "文本标签截断"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "9C6861BC-3150-4775-BBA3-B6D243ACC900",
+  "do_objectID": "43FF83D8-1CAA-4D1A-B12D-E63ED2D1886B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 25,
-    "width": 36,
-    "x": 678,
-    "y": 983
+    "width": 108,
+    "x": 100,
+    "y": 1497
   },
-  "glyphBounds": "{{1, 4}, {35, 17}}",
+  "glyphBounds": "{{0, 4}, {108, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "图标",
+  "name": "文本标签截断",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -104,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5C9F241F-D418-45E8-98C3-998A3B00CB92",
+    "do_objectID": "3E01AD02-2579-4C35-BB24-1C48DFD66ED4",
     "endMarkerType": 0,
     "fills": [
     ],

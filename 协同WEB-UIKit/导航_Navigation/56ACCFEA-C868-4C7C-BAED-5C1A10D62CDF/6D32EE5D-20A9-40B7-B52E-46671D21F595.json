@@ -27,16 +27,16 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 2,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "图标"
+    "string": "长面包屑"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "9C6861BC-3150-4775-BBA3-B6D243ACC900",
+  "do_objectID": "6D32EE5D-20A9-40B7-B52E-46671D21F595",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 25,
-    "width": 36,
-    "x": 678,
-    "y": 983
+    "width": 72,
+    "x": 103,
+    "y": 1792
   },
-  "glyphBounds": "{{1, 4}, {35, 17}}",
+  "glyphBounds": "{{1, 4}, {70, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "图标",
+  "name": "长面包屑",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -104,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5C9F241F-D418-45E8-98C3-998A3B00CB92",
+    "do_objectID": "9A249DA5-9FBB-436A-9831-67F11D75340A",
     "endMarkerType": 0,
     "fills": [
     ],

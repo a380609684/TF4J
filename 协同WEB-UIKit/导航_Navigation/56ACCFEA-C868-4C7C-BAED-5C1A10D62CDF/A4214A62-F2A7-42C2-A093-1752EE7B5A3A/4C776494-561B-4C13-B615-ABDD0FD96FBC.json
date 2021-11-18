@@ -31,12 +31,12 @@
         "location": 0
       }
     ],
-    "string": "图标"
+    "string": "构成"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "9C6861BC-3150-4775-BBA3-B6D243ACC900",
+  "do_objectID": "4C776494-561B-4C13-B615-ABDD0FD96FBC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,10 +52,10 @@
     "constrainProportions": false,
     "height": 25,
     "width": 36,
-    "x": 678,
-    "y": 983
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{1, 4}, {35, 17}}",
+  "glyphBounds": "{{0, 4}, {36, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "图标",
+  "name": "构成",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -104,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5C9F241F-D418-45E8-98C3-998A3B00CB92",
+    "do_objectID": "42965856-269E-4646-88EE-847DEA15499D",
     "endMarkerType": 0,
     "fills": [
     ],
