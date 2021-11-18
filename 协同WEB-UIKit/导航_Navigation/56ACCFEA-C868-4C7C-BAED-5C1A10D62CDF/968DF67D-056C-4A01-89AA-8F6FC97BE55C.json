@@ -31,16 +31,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 33,
         "location": 0
       }
     ],
-    "string": "展开"
+    "string": "使用省略号截断内容，鼠标hover后使用tooltip展示全部内容"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C5D2C4CE-0537-4564-BDB7-553EEA680C9A",
+  "do_objectID": "968DF67D-056C-4A01-89AA-8F6FC97BE55C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 348,
-    "x": 570,
-    "y": 1927
+    "width": 374,
+    "x": 100,
+    "y": 1538
   },
-  "glyphBounds": "{{0, 5}, {28, 13}}",
+  "glyphBounds": "{{0, 4}, {371, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "展开",
+  "name": "使用省略号截断内容，鼠标hover后使用",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -108,7 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "37BD0650-8291-49FF-836C-4C1B51433B78",
+    "do_objectID": "6E689F95-E05C-47AF-9A57-7C8E68BD5227",
     "endMarkerType": 0,
     "fills": [
     ],

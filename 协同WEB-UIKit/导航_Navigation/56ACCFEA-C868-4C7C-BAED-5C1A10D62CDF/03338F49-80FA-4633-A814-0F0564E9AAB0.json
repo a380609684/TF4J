@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "79D28017-4F69-4077-BDFC-E49CDD94ED5E",
+  "do_objectID": "03338F49-80FA-4633-A814-0F0564E9AAB0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,53 +15,26 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 177,
-    "x": 186,
-    "y": 1985
+    "height": 32,
+    "width": 32,
+    "x": 261,
+    "y": 1080
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "30A45F68-9BE3-4AB2-986B-C9FAF3E47CAC"
-    },
-    {
-      "class": "text",
-      "id": "5E88BF52-6C83-4010-A36C-5F0E47EF9CA9"
-    },
-    {
-      "class": "text",
-      "id": "909ADB60-BB79-41FE-9F62-E92D70EB0ABA"
-    },
-    {
-      "class": "text",
-      "id": "E1A71133-7F5A-4E01-BCCE-CBFFA0D06D19"
-    },
-    {
-      "class": "text",
-      "id": "9277F4FF-33CD-4889-BF62-7E0597AA91E6"
-    },
-    {
-      "class": "text",
-      "id": "DF542E15-3F44-40AE-BC30-D6C25EA96B79"
-    }
-  ],
-  "name": "编组 7",
+  "layerListExpandedType": 0,
+  "name": "07. Others 其他/鼠标/单击",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -97,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DF3AA98E-4291-4A6A-8B05-821953127705",
+    "do_objectID": "A5EAD117-6B18-4891-BCBB-096EA50921FC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -108,5 +81,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "D037B22C-B2A4-41BD-983D-4B46CC7E6368"
 }

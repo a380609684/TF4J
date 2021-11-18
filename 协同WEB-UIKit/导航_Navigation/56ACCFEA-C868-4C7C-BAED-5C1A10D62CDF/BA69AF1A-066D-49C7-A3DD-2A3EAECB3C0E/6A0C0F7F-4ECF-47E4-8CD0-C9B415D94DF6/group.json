@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "79D28017-4F69-4077-BDFC-E49CDD94ED5E",
+  "do_objectID": "6A0C0F7F-4ECF-47E4-8CD0-C9B415D94DF6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 177,
-    "x": 186,
-    "y": 1985
+    "height": 20,
+    "width": 108,
+    "x": 120,
+    "y": 34
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,34 +30,30 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "30A45F68-9BE3-4AB2-986B-C9FAF3E47CAC"
+      "class": "text",
+      "id": "9C8D2D50-58C3-413B-8C39-E77D0EBBE109"
     },
     {
       "class": "text",
-      "id": "5E88BF52-6C83-4010-A36C-5F0E47EF9CA9"
+      "id": "DA6123B7-77EF-413E-B843-04E5E96CEF60"
     },
     {
-      "class": "text",
-      "id": "909ADB60-BB79-41FE-9F62-E92D70EB0ABA"
+      "class": "symbolInstance",
+      "id": "3D8FFD68-B394-4066-9982-8268E84A7BBA"
     },
     {
-      "class": "text",
-      "id": "E1A71133-7F5A-4E01-BCCE-CBFFA0D06D19"
+      "class": "symbolInstance",
+      "id": "AC76960F-F9CD-4EC4-80FC-A0FF0330A958"
     },
     {
-      "class": "text",
-      "id": "9277F4FF-33CD-4889-BF62-7E0597AA91E6"
-    },
-    {
-      "class": "text",
-      "id": "DF542E15-3F44-40AE-BC30-D6C25EA96B79"
+      "class": "symbolInstance",
+      "id": "F7E1C982-82ED-4303-B490-0584ACB0FCBF"
     }
   ],
-  "name": "编组 7",
+  "name": "编组 4",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -97,7 +93,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DF3AA98E-4291-4A6A-8B05-821953127705",
+    "do_objectID": "16BB6155-207D-4462-8254-61038C833321",
     "endMarkerType": 0,
     "fills": [
     ],

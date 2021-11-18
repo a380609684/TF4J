@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "79D28017-4F69-4077-BDFC-E49CDD94ED5E",
+  "do_objectID": "76899492-0517-4E13-B499-A8926FFE86FF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,53 +15,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 177,
-    "x": 186,
-    "y": 1985
+    "height": 32,
+    "width": 128,
+    "x": 8,
+    "y": 40
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "02. Navigation 导航/Dropdown下拉菜单/文字列表-默认备份 2",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "30A45F68-9BE3-4AB2-986B-C9FAF3E47CAC"
+      "_class": "overrideValue",
+      "overrideName": "A8F8678B-ADB2-459A-8368-AA280768CD3A_stringValue",
+      "value": "选项二"
     },
     {
-      "class": "text",
-      "id": "5E88BF52-6C83-4010-A36C-5F0E47EF9CA9"
-    },
-    {
-      "class": "text",
-      "id": "909ADB60-BB79-41FE-9F62-E92D70EB0ABA"
-    },
-    {
-      "class": "text",
-      "id": "E1A71133-7F5A-4E01-BCCE-CBFFA0D06D19"
-    },
-    {
-      "class": "text",
-      "id": "9277F4FF-33CD-4889-BF62-7E0597AA91E6"
-    },
-    {
-      "class": "text",
-      "id": "DF542E15-3F44-40AE-BC30-D6C25EA96B79"
+      "_class": "overrideValue",
+      "overrideName": "9F9167A8-8602-4BB4-AE4B-D29D5A4D6F9E_layerStyle",
+      "value": "3C5EB4E7-B094-45B2-ACE3-88D56789B822"
     }
   ],
-  "name": "编组 7",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -97,7 +80,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DF3AA98E-4291-4A6A-8B05-821953127705",
+    "do_objectID": "8B733881-7EF7-4F2C-8EDC-7551422F99D5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -108,5 +91,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "93A2E085-63F2-4FD4-8DA1-4B0442A068A0"
 }

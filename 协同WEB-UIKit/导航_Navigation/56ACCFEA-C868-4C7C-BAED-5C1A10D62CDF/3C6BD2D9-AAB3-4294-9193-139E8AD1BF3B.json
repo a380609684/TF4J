@@ -31,16 +31,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "展开"
+    "string": "hover"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C5D2C4CE-0537-4564-BDB7-553EEA680C9A",
+  "do_objectID": "3C6BD2D9-AAB3-4294-9193-139E8AD1BF3B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -56,10 +56,10 @@
     "constrainProportions": false,
     "height": 22,
     "width": 348,
-    "x": 570,
-    "y": 1927
+    "x": 103,
+    "y": 1923
   },
-  "glyphBounds": "{{0, 5}, {28, 13}}",
+  "glyphBounds": "{{0, 5}, {36, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "展开",
+  "name": "hover",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -108,7 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "37BD0650-8291-49FF-836C-4C1B51433B78",
+    "do_objectID": "2C583754-514D-4021-AE6F-1704FCD17B13",
     "endMarkerType": 0,
     "fills": [
     ],

@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "79D28017-4F69-4077-BDFC-E49CDD94ED5E",
+  "do_objectID": "FCD63F64-5A25-494E-B48B-6875EFDC0EA4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 177,
-    "x": 186,
-    "y": 1985
+    "height": 144,
+    "width": 144,
+    "x": 770,
+    "y": 1353
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,34 +30,30 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "30A45F68-9BE3-4AB2-986B-C9FAF3E47CAC"
+      "id": "7BCA5AA1-537D-4D32-96B4-81899AD29DEC"
     },
     {
-      "class": "text",
-      "id": "5E88BF52-6C83-4010-A36C-5F0E47EF9CA9"
+      "class": "symbolInstance",
+      "id": "EE12C249-D130-4846-B9D7-1C0F1BC291F6"
     },
     {
-      "class": "text",
-      "id": "909ADB60-BB79-41FE-9F62-E92D70EB0ABA"
+      "class": "symbolInstance",
+      "id": "76899492-0517-4E13-B499-A8926FFE86FF"
     },
     {
-      "class": "text",
-      "id": "E1A71133-7F5A-4E01-BCCE-CBFFA0D06D19"
+      "class": "symbolInstance",
+      "id": "2F4B5801-D906-49A5-BFD8-30C863D88B9B"
     },
     {
-      "class": "text",
-      "id": "9277F4FF-33CD-4889-BF62-7E0597AA91E6"
-    },
-    {
-      "class": "text",
-      "id": "DF542E15-3F44-40AE-BC30-D6C25EA96B79"
+      "class": "symbolInstance",
+      "id": "1639FB39-6D5B-4FF9-9D5D-E33D7DF00BEB"
     }
   ],
-  "name": "编组 7",
+  "name": "编组备份 18",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -97,7 +93,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DF3AA98E-4291-4A6A-8B05-821953127705",
+    "do_objectID": "EED4B728-8B15-46B4-897A-407DA597BEFC",
     "endMarkerType": 0,
     "fills": [
     ],

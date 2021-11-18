@@ -9,38 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2470588235294118,
-            "green": 0.2274509803921569,
-            "red": 0.203921568627451,
-            "swatchID": "9E045C4B-53F5-4054-8031-FB64888C4E1A"
+            "blue": 0.1647058823529412,
+            "green": 0.1529411764705882,
+            "red": 0.1294117647058823,
+            "swatchID": "8A9369E0-2BC2-40D9-932D-69F01BAA12D0"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Regular",
-              "size": 14
+              "name": "MicrosoftYaHei",
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22,
-            "tighteningFactorForTruncation": 0.05
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "展开"
+    "string": "Level 2"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C5D2C4CE-0537-4564-BDB7-553EEA680C9A",
+  "do_objectID": "FAE1006D-9720-43D6-B1B0-DAD864825D7E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 348,
-    "x": 570,
-    "y": 1927
+    "height": 24,
+    "width": 54,
+    "x": 915,
+    "y": 1321
   },
-  "glyphBounds": "{{0, 5}, {28, 13}}",
+  "glyphBounds": "{{1, 5}, {51, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,11 +67,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "展开",
+  "name": "Level 2备份",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "35347A23-40C4-4A85-935F-0AA05B1CDB82[CBD57DB0-F282-4612-B103-3949F22EF1BB]",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -108,7 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "37BD0650-8291-49FF-836C-4C1B51433B78",
+    "do_objectID": "A015EA67-276C-4BA6-88C3-9E547E22DED3",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -124,25 +124,24 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2470588235294118,
-          "green": 0.2274509803921569,
-          "red": 0.203921568627451,
-          "swatchID": "9E045C4B-53F5-4054-8031-FB64888C4E1A"
+          "blue": 0.1647058823529412,
+          "green": 0.1529411764705882,
+          "red": 0.1294117647058823,
+          "swatchID": "8A9369E0-2BC2-40D9-932D-69F01BAA12D0"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Regular",
-            "size": 14
+            "name": "MicrosoftYaHei",
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22,
-          "tighteningFactorForTruncation": 0.05
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -150,5 +149,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }
