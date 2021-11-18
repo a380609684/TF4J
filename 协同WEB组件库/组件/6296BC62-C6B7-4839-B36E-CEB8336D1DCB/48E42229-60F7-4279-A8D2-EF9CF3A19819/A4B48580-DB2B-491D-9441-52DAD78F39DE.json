@@ -13,7 +13,7 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 12,
+  "fixedRadius": 4,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -38,7 +38,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 12,
+      "cornerRadius": 4,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -48,7 +48,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 12,
+      "cornerRadius": 4,
       "curveFrom": "{1.0000000000000144, 0}",
       "curveMode": 1,
       "curveTo": "{1.0000000000000144, 0}",
@@ -58,7 +58,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 12,
+      "cornerRadius": 4,
       "curveFrom": "{1.0000000000000144, 1}",
       "curveMode": 1,
       "curveTo": "{1.0000000000000144, 1}",
@@ -68,7 +68,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 12,
+      "cornerRadius": 4,
       "curveFrom": "{0, 1.0000000000000002}",
       "curveMode": 1,
       "curveTo": "{0, 1.0000000000000002}",
@@ -106,10 +106,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9019607843137255,
-          "green": 0.8823529411764706,
-          "red": 0.8666666666666667,
-          "swatchID": "4BD7F4D0-97CA-4C80-8EBE-D6FEC53ABF77"
+          "blue": 0.96,
+          "green": 0.94272,
+          "red": 0.9311999999999999
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -148,7 +147,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }
