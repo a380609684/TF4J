@@ -9,9 +9,10 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.9803921568627451,
+            "green": 0.3568627450980393,
+            "red": 0.1725490196078431,
+            "swatchID": "91B3EB1F-4917-488F-AFB7-5410EC1E8166"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -28,7 +29,9 @@
             "minimumLineHeight": 20,
             "tighteningFactorForTruncation": 0.05
           },
-          "textStyleVerticalAlignmentKey": 0
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 0
         },
         "length": 8,
         "location": 0
@@ -72,7 +75,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "381AD826-5510-4615-848C-AB54FE35BCC5",
+  "sharedStyleID": "7A2C1281-D62A-418D-81DC-D7FC06B51C7E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -124,9 +127,10 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.9803921568627451,
+          "green": 0.3568627450980393,
+          "red": 0.1725490196078431,
+          "swatchID": "91B3EB1F-4917-488F-AFB7-5410EC1E8166"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -143,7 +147,9 @@
           "minimumLineHeight": 20,
           "tighteningFactorForTruncation": 0.05
         },
-        "textStyleVerticalAlignmentKey": 0
+        "strikethroughStyle": 0,
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },
