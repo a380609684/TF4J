@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F02F6386-A3A7-4CE4-9F94-ADF69032875B",
+  "do_objectID": "7F2F6E35-7009-4306-AD02-C372AB64C24F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +15,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 117,
-    "x": 485.5,
-    "y": 117
+    "height": 136,
+    "width": 800,
+    "x": 100,
+    "y": 2965
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -27,19 +31,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "04. Data Display 数据展示/Tooltip文字提示/上-单行",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "98B47D7B-1CA8-43F1-984E-7B01F1D90B05_stringValue",
-      "value": "Long Title Design"
+      "class": "group",
+      "id": "498821B5-0BB8-4DE2-8111-0844B668A393"
     }
   ],
+  "name": "编组 6",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -75,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "472D556D-A453-4C58-8777-6007B3840940",
+    "do_objectID": "E7DEB344-DC25-4735-AF32-549D95D73DD0",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -86,6 +88,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "DD6A5FF0-2ABC-465A-8256-8A0C9A82FA48"
+  }
 }

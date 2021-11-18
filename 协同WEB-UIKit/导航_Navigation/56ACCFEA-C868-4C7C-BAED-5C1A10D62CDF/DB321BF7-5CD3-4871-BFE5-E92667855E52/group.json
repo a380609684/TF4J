@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B94338D6-3014-4B08-8161-41B20BA03829",
+  "do_objectID": "DB321BF7-5CD3-4871-BFE5-E92667855E52",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +15,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": 101,
-    "y": 4
+    "height": 218,
+    "width": 800,
+    "x": 100,
+    "y": 1803
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -27,19 +31,49 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "01. General 通用/Icon图标/16/062.列表备份",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "9DA0D657-9B8C-4183-8E8B-115BA74C4FEE_layerStyle",
-      "value": "42618CD4-672A-440A-8573-ADB7B8168981"
+      "class": "rectangle",
+      "id": "8905F610-972D-4B57-B87E-647D96D12A20"
+    },
+    {
+      "class": "text",
+      "id": "968DF67D-056C-4A01-89AA-8F6FC97BE55C"
+    },
+    {
+      "class": "text",
+      "id": "43FF83D8-1CAA-4D1A-B12D-E63ED2D1886B"
+    },
+    {
+      "class": "group",
+      "id": "1C00C44D-8A67-40E8-A95B-8496BA2200FC"
+    },
+    {
+      "class": "group",
+      "id": "EE401755-D2E8-4459-8A71-57560AAAF8BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "217D90A9-71ED-4245-B8B8-93C43B28584B"
+    },
+    {
+      "class": "text",
+      "id": "1D2108C9-AA13-4231-A805-047A9C657B78"
+    },
+    {
+      "class": "text",
+      "id": "2E28BB72-E73C-400B-A5CB-6177C83CF029"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "812795A8-3661-4EAB-9E9E-E7632663ED83"
     }
   ],
+  "name": "编组 13",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -75,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DE937EB0-E7F7-41F3-A0B3-7922F142B55C",
+    "do_objectID": "4C1508E2-5B96-40FC-B37E-B8C2E30DEFA5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -86,6 +120,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "DEF720A4-B797-4937-9A93-3D6AFD0DE6ED"
+  }
 }

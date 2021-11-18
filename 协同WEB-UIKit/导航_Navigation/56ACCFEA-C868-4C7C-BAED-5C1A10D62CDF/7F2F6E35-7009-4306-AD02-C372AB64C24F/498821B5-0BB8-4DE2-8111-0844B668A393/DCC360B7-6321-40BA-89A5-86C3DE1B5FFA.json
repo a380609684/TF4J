@@ -40,7 +40,7 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B1942BD4-934B-47DD-BC05-CF212A236F5B",
+  "do_objectID": "DCC360B7-6321-40BA-89A5-86C3DE1B5FFA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -56,8 +56,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 47,
-    "x": 24,
-    "y": 0
+    "x": 128,
+    "y": 70
   },
   "glyphBounds": "{{1, 5}, {45, 14}}",
   "hasClippingMask": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Home",
+  "name": "Home备份 6",
   "nameIsFixed": false,
   "resizingConstraint": 9,
   "resizingType": 0,
@@ -109,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4718E8F4-9CB2-413A-BA01-6AE9A157E06A",
+    "do_objectID": "57F61920-E785-4FC9-BEE4-AE61912E6ADA",
     "endMarkerType": 0,
     "fills": [
     ],
