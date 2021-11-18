@@ -259,14 +259,6 @@
     {
       "class": "text",
       "id": "42D87C7B-FE97-49B3-9CA9-9333CBEE5E05"
-    },
-    {
-      "class": "bitmap",
-      "id": "D2687C05-29F0-4411-A47A-F1FC580A7400"
-    },
-    {
-      "class": "bitmap",
-      "id": "62A9D7D0-3D0E-4BB7-9100-71A76BDB37A1"
     }
   ],
   "name": "Select选择器 -0.1",
