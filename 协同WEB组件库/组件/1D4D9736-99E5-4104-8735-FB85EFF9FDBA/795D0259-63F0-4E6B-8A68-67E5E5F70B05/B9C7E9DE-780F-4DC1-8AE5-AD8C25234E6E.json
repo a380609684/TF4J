@@ -13,12 +13,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 2,
+  "fixedRadius": 12,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 74,
+    "width": 71,
     "x": 0,
     "y": 0
   },
@@ -38,7 +38,7 @@
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
+      "cornerRadius": 12,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -48,38 +48,39 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
-      "curveFrom": "{1.00000000000002, 0}",
+      "cornerRadius": 12,
+      "curveFrom": "{1.0000000000000209, 5.0931481254679048e-15}",
       "curveMode": 1,
-      "curveTo": "{1.00000000000002, 0}",
+      "curveTo": "{1.0000000000000209, 5.0931481254679048e-15}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.00000000000002, 0}"
+      "point": "{1.0000000000000209, 5.0931481254679048e-15}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
-      "curveFrom": "{1.00000000000002, 1}",
+      "cornerRadius": 12,
+      "curveFrom": "{1.0000000000000209, 1.0000000000000049}",
       "curveMode": 1,
-      "curveTo": "{1.00000000000002, 1}",
+      "curveTo": "{1.0000000000000209, 1.0000000000000049}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.00000000000002, 1}"
+      "point": "{1.0000000000000209, 1.0000000000000049}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 2,
-      "curveFrom": "{0, 1.0000000000000004}",
+      "cornerRadius": 12,
+      "curveFrom": "{0, 1}",
       "curveMode": 1,
-      "curveTo": "{0, 1.0000000000000004}",
+      "curveTo": "{0, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{0, 1.0000000000000004}"
+      "point": "{0, 1}"
     }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "908C741E-7E43-4B0C-866A-8E308074C0A1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -101,57 +102,6 @@
       "lineJoinStyle": 0
     },
     "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.9019607843137255,
-          "green": 0.8823529411764706,
-          "red": 0.8666666666666667,
-          "swatchID": "4BD7F4D0-97CA-4C80-8EBE-D6FEC53ABF77"
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "fillType": 0,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0,
-                "green": 0,
-                "red": 0
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
-        "isEnabled": true,
-        "position": 1,
-        "thickness": 1
-      }
     ],
     "colorControls": {
       "_class": "colorControls",
@@ -173,11 +123,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.9725490196078431,
-          "green": 0.9607843137254902,
-          "red": 0.9529411764705882,
-          "swatchID": "166CFD46-D9EF-4154-9E49-5DC378A0EF7B"
+          "alpha": 0.04,
+          "blue": 0.4,
+          "green": 0.069752513111888,
+          "red": 0
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

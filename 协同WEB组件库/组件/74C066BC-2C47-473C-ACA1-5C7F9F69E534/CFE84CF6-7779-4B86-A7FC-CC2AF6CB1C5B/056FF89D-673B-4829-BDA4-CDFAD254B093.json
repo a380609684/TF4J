@@ -9,16 +9,16 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5882352941176471,
-            "green": 0.5529411764705883,
-            "red": 0.5294117647058824,
-            "swatchID": "FC555EDF-9B66-4420-B214-98F18EF66051"
+            "blue": 0.6901960784313725,
+            "green": 0.6627450980392157,
+            "red": 0.6352941176470588,
+            "swatchID": "7D329CCE-1AB8-4368-9829-190350F2806C"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "MicrosoftYaHei",
-              "size": 14
+              "size": 13
             }
           },
           "paragraphStyle": {
@@ -26,7 +26,8 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "minimumLineHeight": 22,
+            "tighteningFactorForTruncation": 0.05
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -54,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 42,
+    "width": 39,
     "x": 8,
-    "y": 0
+    "y": 1
   },
-  "glyphBounds": "{{0, 5}, {42, 14}}",
+  "glyphBounds": "{{0, 5}, {39, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,7 +73,6 @@
   "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "8ED750A7-FB62-4F6D-9FAC-E11C668119BC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -124,16 +124,16 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5882352941176471,
-          "green": 0.5529411764705883,
-          "red": 0.5294117647058824,
-          "swatchID": "FC555EDF-9B66-4420-B214-98F18EF66051"
+          "blue": 0.6901960784313725,
+          "green": 0.6627450980392157,
+          "red": 0.6352941176470588,
+          "swatchID": "7D329CCE-1AB8-4368-9829-190350F2806C"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "MicrosoftYaHei",
-            "size": 14
+            "size": 13
           }
         },
         "paragraphStyle": {
@@ -141,7 +141,8 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "minimumLineHeight": 22,
+          "tighteningFactorForTruncation": 0.05
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -149,5 +150,13 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "6CE2904F-4905-425A-B3B3-EA7BBA75FDFB",
+        "sharedStyleName": "Left/14/14-Grey30-Regular"
+      }
+    }
+  }
 }
