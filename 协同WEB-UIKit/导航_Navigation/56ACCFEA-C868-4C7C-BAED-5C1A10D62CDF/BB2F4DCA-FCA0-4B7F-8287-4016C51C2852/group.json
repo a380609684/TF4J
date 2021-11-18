@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BA69AF1A-066D-49C7-A3DD-2A3EAECB3C0E",
+  "do_objectID": "BB2F4DCA-FCA0-4B7F-8287-4016C51C2852",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 88,
-    "width": 348,
-    "x": 678,
-    "y": 1032
+    "height": 24,
+    "width": 383,
+    "x": 632,
+    "y": 1984
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,15 +33,43 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "6A0C0F7F-4ECF-47E4-8CD0-C9B415D94DF6"
+      "class": "text",
+      "id": "52D6B172-9FDD-4C32-8112-9AA44809318C"
     },
     {
-      "class": "rectangle",
-      "id": "5E080A97-8356-4E82-9011-82A8C8C9E8E9"
+      "class": "text",
+      "id": "D03E6389-E68D-4C4A-AEAC-85C89179B0E7"
+    },
+    {
+      "class": "text",
+      "id": "8FA98B52-5BED-46EB-8F41-BE133DB76493"
+    },
+    {
+      "class": "text",
+      "id": "E301E6A9-5C2D-436E-9533-FB859D285924"
+    },
+    {
+      "class": "text",
+      "id": "25F77BC1-5561-47AE-8753-DD8047430202"
+    },
+    {
+      "class": "text",
+      "id": "4EE04A34-F8CA-4956-96BF-2A67EE8C4AAE"
+    },
+    {
+      "class": "text",
+      "id": "79BFF1AA-9FEA-4C33-AE16-AF586ADC8069"
+    },
+    {
+      "class": "text",
+      "id": "22F2706E-3CA5-45E6-979B-EA7F19033179"
+    },
+    {
+      "class": "text",
+      "id": "6AB97C5F-DA3D-4664-9275-D7A0A7C2A723"
     }
   ],
-  "name": "编组 5",
+  "name": "编组 8",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -81,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "235A0E49-DB3C-492A-BFAA-E3906D06C997",
+    "do_objectID": "324151A9-6E07-4EF9-9718-52B677AE1250",
     "endMarkerType": 0,
     "fills": [
     ],

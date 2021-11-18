@@ -9,34 +9,38 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.5882352941176471,
+            "green": 0.5529411764705883,
+            "red": 0.5294117647058824,
+            "swatchID": "44AD8BC3-0503-49E7-8776-B136B4CEF33D"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Semibold",
-              "size": 18
+              "name": "MicrosoftYaHei",
+              "size": 16
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          }
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
+            "tighteningFactorForTruncation": 0.05
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "图标"
+    "string": "Level 3"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9C6861BC-3150-4775-BBA3-B6D243ACC900",
+  "do_objectID": "96569277-48A3-46CC-91FD-6066C1D52D91",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
-    "width": 36,
-    "x": 678,
-    "y": 983
+    "height": 24,
+    "width": 54,
+    "x": 168,
+    "y": 0
   },
-  "glyphBounds": "{{1, 4}, {35, 17}}",
+  "glyphBounds": "{{1, 5}, {51, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,11 +68,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "图标",
+  "name": "Level 3",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "D5F9039D-DA2E-4011-B050-AB494C03CE70",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -104,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5C9F241F-D418-45E8-98C3-998A3B00CB92",
+    "do_objectID": "8D79B056-B994-4E30-8CD8-56A547931EFA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -120,27 +125,38 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.5882352941176471,
+          "green": 0.5529411764705883,
+          "red": 0.5294117647058824,
+          "swatchID": "44AD8BC3-0503-49E7-8776-B136B4CEF33D"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Semibold",
-            "size": 18
+            "name": "MicrosoftYaHei",
+            "size": 16
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
-        }
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
+          "tighteningFactorForTruncation": 0.05
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BA69AF1A-066D-49C7-A3DD-2A3EAECB3C0E",
+  "do_objectID": "FCD75599-3363-4B7B-89A6-BF3F33533D90",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 88,
-    "width": 348,
-    "x": 678,
-    "y": 1032
+    "height": 24,
+    "width": 222,
+    "x": 12,
+    "y": 6
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,15 +33,27 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "group",
-      "id": "6A0C0F7F-4ECF-47E4-8CD0-C9B415D94DF6"
+      "class": "text",
+      "id": "D6A190DC-EB9C-4F0A-8267-529B51596327"
     },
     {
-      "class": "rectangle",
-      "id": "5E080A97-8356-4E82-9011-82A8C8C9E8E9"
+      "class": "text",
+      "id": "165183EF-D5A5-43AD-BD87-9C47EA80F811"
+    },
+    {
+      "class": "text",
+      "id": "96569277-48A3-46CC-91FD-6066C1D52D91"
+    },
+    {
+      "class": "text",
+      "id": "75AB67D8-CB2E-427B-B3FB-F97B25E54379"
+    },
+    {
+      "class": "text",
+      "id": "F8C05785-9C93-4476-ABB3-74B2DB3C0B53"
     }
   ],
-  "name": "编组 5",
+  "name": "编组 3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -81,7 +93,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "235A0E49-DB3C-492A-BFAA-E3906D06C997",
+    "do_objectID": "594274FD-A308-4A25-97EC-615F1E1D6CC1",
     "endMarkerType": 0,
     "fills": [
     ],
