@@ -31,16 +31,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 39,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "带有下拉菜单的面包屑，在用户了解自己位置的同时，可以更快更灵活的访问到整个站点"
+    "string": "迷你"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E77940B6-6CE4-4C24-B8DC-862392AD88DE",
+  "do_objectID": "0D9A0C3F-3962-4569-A260-1CE65C3B6FB4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 546,
-    "x": 0,
-    "y": 110
+    "width": 28,
+    "x": 100,
+    "y": 785
   },
-  "glyphBounds": "{{0, 4}, {546, 15}}",
+  "glyphBounds": "{{0, 4}, {28, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "带有下拉菜单的面包屑，在用户了解自己位置",
+  "name": "迷你",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -108,7 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6765FE18-2661-4CDF-A3C6-7E777B0FA8F7",
+    "do_objectID": "752E6CBE-7272-46A8-B271-5BF93469FD21",
     "endMarkerType": 0,
     "fills": [
     ],

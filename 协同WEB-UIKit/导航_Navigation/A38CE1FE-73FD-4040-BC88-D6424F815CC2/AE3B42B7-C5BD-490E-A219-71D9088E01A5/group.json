@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 59,
-    "width": 868,
+    "height": 22,
+    "width": 812,
     "x": 100,
-    "y": 287
+    "y": 516
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,15 +30,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "82310660-15B2-4439-A342-60AD52D8F7E2"
-    },
-    {
-      "class": "text",
-      "id": "AE871B3A-2772-498C-9116-288702CE3348"
     }
   ],
   "name": "编组 10",

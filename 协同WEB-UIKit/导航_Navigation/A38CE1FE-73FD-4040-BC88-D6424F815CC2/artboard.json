@@ -57,8 +57,8 @@
       "id": "83F3D955-15CE-4BF8-8F29-14458D1B5622"
     },
     {
-      "class": "group",
-      "id": "230B4C5D-B5C2-4ED7-A432-53E6F00BCADC"
+      "class": "symbolInstance",
+      "id": "72E35C97-9C4B-48EB-BB9C-14001E80EE70"
     },
     {
       "class": "symbolInstance",
@@ -69,15 +69,27 @@
       "id": "AE3B42B7-C5BD-490E-A219-71D9088E01A5"
     },
     {
-      "class": "group",
-      "id": "23C34587-DB3D-4AFF-A659-72CD17F7A679"
+      "class": "text",
+      "id": "609EBDF5-B7D6-4178-A0C3-50DB3EEAC10E"
+    },
+    {
+      "class": "text",
+      "id": "2DB071D2-1AF7-4DED-9D34-BC9CEAEE4ECF"
+    },
+    {
+      "class": "text",
+      "id": "AC3B2BB4-B1F4-4D9F-A804-F0D99DD2D594"
+    },
+    {
+      "class": "text",
+      "id": "0D9A0C3F-3962-4569-A260-1CE65C3B6FB4"
     },
     {
       "class": "group",
-      "id": "AD965452-D37B-490E-975B-7E0940ABF491"
+      "id": "B5E89AC0-B235-47E0-BFCA-0173E75FE112"
     }
   ],
-  "name": "页头PageHeader",
+  "name": "分页Pagination",
   "nameIsFixed": true,
   "presetDictionary": {
   },

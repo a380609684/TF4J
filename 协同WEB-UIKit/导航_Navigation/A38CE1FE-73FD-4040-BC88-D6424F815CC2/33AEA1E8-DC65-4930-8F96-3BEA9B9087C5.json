@@ -33,12 +33,12 @@
     {
       "_class": "overrideValue",
       "overrideName": "E00D6735-6219-42CF-9480-C3C06B392E93_stringValue",
-      "value": "PageHeader"
+      "value": "Pagination"
     },
     {
       "_class": "overrideValue",
       "overrideName": "E01C723B-FD34-4C71-8A40-9C86DC7E40B9_stringValue",
-      "value": "页头"
+      "value": "分页"
     }
   ],
   "resizingConstraint": 63,

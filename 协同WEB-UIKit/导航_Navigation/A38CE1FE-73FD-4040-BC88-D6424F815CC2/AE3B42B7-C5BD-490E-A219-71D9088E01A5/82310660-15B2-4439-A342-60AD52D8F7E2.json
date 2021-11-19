@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 62,
+        "length": 58,
         "location": 0
       }
     ],
-    "string": "面包屑是一种辅助的导航方式，通过表达内容归属关系，来告知用户当前所处的位置，并提供给用户返回至上一层级或最开始的起点的路径。"
+    "string": "当应用需要展示大量内容或数据条目时，为了使用户看到的内容尽可能聚焦，避免信息过载，我们应使用分页器将内容分成多页展示"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 868,
+    "width": 812,
     "x": 0,
-    "y": 37
+    "y": 0
   },
-  "glyphBounds": "{{0, 4}, {860, 15}}",
+  "glyphBounds": "{{1, 4}, {811, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "面包屑是一种辅助的导航方式，通过表达内容",
+  "name": "当应用需要展示大量内容或数据条目时，为了",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
