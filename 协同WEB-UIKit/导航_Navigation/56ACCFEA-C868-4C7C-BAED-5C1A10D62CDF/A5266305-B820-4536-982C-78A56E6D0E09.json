@@ -31,16 +31,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "Level 1"
+    "string": "Home"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B42A5D81-1D58-461E-AE2A-169724244E40",
+  "do_objectID": "A5266305-B820-4536-982C-78A56E6D0E09",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 54,
-    "x": 77,
-    "y": 0
+    "width": 47,
+    "x": 535,
+    "y": 1095
   },
-  "glyphBounds": "{{1, 5}, {52, 14}}",
+  "glyphBounds": "{{1, 5}, {45, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Level 1",
+  "name": "Home",
   "nameIsFixed": false,
   "resizingConstraint": 9,
   "resizingType": 0,
@@ -109,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "87D761C2-F9CD-4B21-820D-85C752BE56DC",
+    "do_objectID": "AF6A463D-2EFA-4368-B7C1-F3C4E13BC92B",
     "endMarkerType": 0,
     "fills": [
     ],

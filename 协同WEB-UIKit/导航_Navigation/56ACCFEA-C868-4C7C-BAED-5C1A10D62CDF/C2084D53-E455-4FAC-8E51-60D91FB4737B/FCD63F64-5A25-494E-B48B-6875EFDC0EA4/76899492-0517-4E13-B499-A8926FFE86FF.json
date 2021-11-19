@@ -32,12 +32,12 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "5CCB56DA-8966-4F2E-BEB1-94A235653B6A_layerStyle",
+      "overrideName": "9F9167A8-8602-4BB4-AE4B-D29D5A4D6F9E_layerStyle",
       "value": "772836B1-3EE8-4B07-8CF7-4658D96CA3EE[2CDD8E2D-4DB7-4726-83C2-BAD9C01DFF07]"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "CAEE446F-01A4-4714-AD59-8D165B8F6294_stringValue",
+      "overrideName": "A8F8678B-ADB2-459A-8368-AA280768CD3A_stringValue",
       "value": "选项二"
     }
   ],
@@ -92,5 +92,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "1AE998EF-AEFB-4551-AA0B-4079DA776A54"
+  "symbolID": "93A2E085-63F2-4FD4-8DA1-4B0442A068A0"
 }

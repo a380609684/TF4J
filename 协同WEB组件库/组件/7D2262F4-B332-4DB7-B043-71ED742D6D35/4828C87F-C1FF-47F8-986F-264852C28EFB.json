@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BDF22C8C-482B-4957-BF23-3C5E10011518",
+  "do_objectID": "4828C87F-C1FF-47F8-986F-264852C28EFB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,15 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 205,
-    "width": 215,
-    "x": 535,
-    "y": 1095
+    "height": 24,
+    "width": 24,
+    "x": 178,
+    "y": 4
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -31,45 +27,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "group",
-      "id": "4403B90E-03B0-42EC-B8EB-A4E17DCF5091"
-    },
-    {
-      "class": "text",
-      "id": "0B67BBE0-44C0-4D9C-84FC-B99C0B37ADB1"
-    },
-    {
-      "class": "text",
-      "id": "F872C6E0-3B30-4013-96F3-3CECEB724D89"
-    },
-    {
-      "class": "text",
-      "id": "3F61D822-5B45-4AFA-85AA-C99F1FAAA1BF"
-    },
-    {
-      "class": "text",
-      "id": "1790D125-DC82-43FC-9EAC-166EFB3CB961"
-    },
-    {
-      "class": "text",
-      "id": "80C78204-F72B-47AF-B236-E6B728A70F38"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "92BD38D6-2C90-4D59-951C-A7EED933CF7C"
-    },
-    {
-      "class": "group",
-      "id": "E55ADDBB-236C-4A48-A6D7-A1BA1B9EAA46"
-    }
-  ],
-  "name": "编组 16",
+  "name": "02. Navigation 导航/Pagination分页/Elements/数字",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -105,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "89465511-D1C3-4FF5-B7CF-A192098B7DA7",
+    "do_objectID": "029DA239-20ED-4F4E-9B02-777480ECD36E",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -116,5 +81,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "7374D9AD-DECE-4558-9ECB-2031DE462BC7"
 }

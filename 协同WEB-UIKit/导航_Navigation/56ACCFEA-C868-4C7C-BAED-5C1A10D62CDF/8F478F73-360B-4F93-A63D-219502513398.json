@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "03338F49-80FA-4633-A814-0F0564E9AAB0",
+  "do_objectID": "8F478F73-360B-4F93-A63D-219502513398",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 32,
-    "x": 88,
-    "y": 15
+    "height": 16,
+    "width": 16,
+    "x": 584,
+    "y": 1027.5
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,7 +27,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "07. Others 其他/鼠标/单击",
+  "name": "01. General 通用/Icon图标/16/008.右",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -70,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A5EAD117-6B18-4891-BCBB-096EA50921FC",
+    "do_objectID": "A615C9A2-D687-43E3-8722-E75FEBFEE781",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,5 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "D037B22C-B2A4-41BD-983D-4B46CC7E6368"
+  "symbolID": "D0472433-5463-414E-8D6B-342E59A90B2D"
 }

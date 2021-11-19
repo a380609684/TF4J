@@ -9,38 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5882352941176471,
-            "green": 0.5529411764705883,
-            "red": 0.5294117647058824,
-            "swatchID": "44AD8BC3-0503-49E7-8776-B136B4CEF33D"
+            "blue": 0.9803921568627451,
+            "green": 0.3568627450980393,
+            "red": 0.1725490196078431,
+            "swatchID": "B2A8A685-E18B-4499-A3EB-29A3D2F44450"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "MicrosoftYaHei",
-              "size": 12
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 20,
-            "minimumLineHeight": 20,
-            "tighteningFactorForTruncation": 0.05
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 1,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "/"
+    "string": "Level 1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "113622D0-0A9C-480B-A82E-2F148260683C",
+  "do_objectID": "F872C6E0-3B30-4013-96F3-3CECEB724D89",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 6,
-    "x": 143,
-    "y": 2
+    "height": 24,
+    "width": 54,
+    "x": 612,
+    "y": 1174
   },
-  "glyphBounds": "{{-1, 5}, {7, 12}}",
+  "glyphBounds": "{{1, 5}, {52, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,12 +67,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "/备份",
+  "name": "Level 1备份 3",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "B36D3B9B-AD21-4E08-9A1A-98C7441DCEB8",
+  "sharedStyleID": "2B341486-4D5A-4E68-9526-EE131D2A1DD3[A0F3914A-259D-4627-A77E-A0120F78C402]",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -109,7 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "6A4B211B-0078-4C0F-8A49-28CCE2D6DCB5",
+    "do_objectID": "60D814EB-0F0D-4856-8ED8-BD89D8CA7EE0",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -125,25 +124,24 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5882352941176471,
-          "green": 0.5529411764705883,
-          "red": 0.5294117647058824,
-          "swatchID": "44AD8BC3-0503-49E7-8776-B136B4CEF33D"
+          "blue": 0.9803921568627451,
+          "green": 0.3568627450980393,
+          "red": 0.1725490196078431,
+          "swatchID": "B2A8A685-E18B-4499-A3EB-29A3D2F44450"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "MicrosoftYaHei",
-            "size": 12
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 20,
-          "minimumLineHeight": 20,
-          "tighteningFactorForTruncation": 0.05
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -151,5 +149,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }
