@@ -15,17 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-<<<<<<< HEAD:协同WEB-UIKit/导航_Navigation/56ACCFEA-C868-4C7C-BAED-5C1A10D62CDF/7F2F6E35-7009-4306-AD02-C372AB64C24F/group.json
     "height": 136,
     "width": 800,
     "x": 100,
     "y": 2965
-=======
-    "height": 36,
-    "width": 246,
-    "x": 208,
-    "y": 1937
->>>>>>> 7c9f5ad1cc1334dceb970678724368da75c2df9a:协同WEB-UIKit/导航_Navigation/56ACCFEA-C868-4C7C-BAED-5C1A10D62CDF/61D81333-9761-45E0-A965-9D0716637F57/group.json
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
