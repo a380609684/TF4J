@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0FBAE0B6-9306-4324-ABDF-AA404C99D504",
+  "do_objectID": "EB37AFE8-A9ED-44BB-BB9D-37E79DED5B77",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 51,
-    "width": 210,
-    "x": 100,
-    "y": 658
+    "height": 32,
+    "width": 32,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,13 +27,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "标题备份 2",
+  "name": "Page/Elements/Number备份 7",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "B3C2E71A-2609-42BE-A4E6-B1D9213A43FD_stringValue",
-      "value": "类型及样式"
+      "overrideName": "BACA75B7-4B81-4F24-A8AE-24301B1A40FD_symbolID",
+      "value": "1A3EFABE-CB11-4105-AAFE-A3623029FF67"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7DFE535A-4FEF-462A-8650-151A9AA9CDF8_layerStyle",
+      "value": "BC13B8CD-E0EC-4A62-B220-055A8EC178F4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "BACA75B7-4B81-4F24-A8AE-24301B1A40FD/E093C2BB-2FFB-4658-AB64-FD8FB49E188F_layerStyle",
+      "value": "066CF8E1-0636-42D6-81BA-884A6A0ED573"
     }
   ],
   "resizingConstraint": 63,
@@ -75,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DCC3894C-481D-4B08-9C1D-5ADA0F664881",
+    "do_objectID": "BB3E1E5D-0E10-4FB8-894B-434111253F2A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,5 +97,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C9F72146-308C-4157-9D05-BA9430327FA9"
+  "symbolID": "70011FB7-F28F-4EFA-B064-DD7A77DBFA9F"
 }

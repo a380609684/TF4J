@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0FBAE0B6-9306-4324-ABDF-AA404C99D504",
+  "do_objectID": "35C1C4CF-D2F6-4D5E-8C84-330037337B48",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 51,
-    "width": 210,
-    "x": 100,
-    "y": 658
+    "height": 32,
+    "width": 32,
+    "x": 39.99999999999909,
+    "y": 0
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,13 +27,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "标题备份 2",
+  "name": "Page/Elements/Number",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "B3C2E71A-2609-42BE-A4E6-B1D9213A43FD_stringValue",
-      "value": "类型及样式"
+      "overrideName": "616754D8-9BDD-40B7-AD9F-37755FBEF05A_textStyle",
+      "value": "CEB50DB9-1493-41A6-917B-C3FFB3BD0B3E"
     }
   ],
   "resizingConstraint": 63,
@@ -75,7 +75,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DCC3894C-481D-4B08-9C1D-5ADA0F664881",
+    "do_objectID": "41EF279F-F6C8-4363-9C86-6F0194A4C06A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,5 +87,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C9F72146-308C-4157-9D05-BA9430327FA9"
+  "symbolID": "B2F352C4-11A8-4DB5-BBF1-0D0EF552BBDD"
 }

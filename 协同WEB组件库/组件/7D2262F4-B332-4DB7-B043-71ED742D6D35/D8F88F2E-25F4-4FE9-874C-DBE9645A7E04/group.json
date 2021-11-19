@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0FBAE0B6-9306-4324-ABDF-AA404C99D504",
+  "do_objectID": "D8F88F2E-25F4-4FE9-874C-DBE9645A7E04",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +15,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 51,
-    "width": 210,
-    "x": 100,
-    "y": 658
+    "height": 32,
+    "width": 111.9999999999991,
+    "x": 354.0000000000009,
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -27,19 +31,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "标题备份 2",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "B3C2E71A-2609-42BE-A4E6-B1D9213A43FD_stringValue",
-      "value": "类型及样式"
+      "class": "group",
+      "id": "5681BA6F-309E-47B0-AEF6-6EED65A34881"
     }
   ],
-  "resizingConstraint": 63,
+  "name": "编组 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 60,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -75,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DCC3894C-481D-4B08-9C1D-5ADA0F664881",
+    "do_objectID": "CAAD4CBE-9C00-4B96-8975-E0FA7543627D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -86,6 +88,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "C9F72146-308C-4157-9D05-BA9430327FA9"
+  }
 }
