@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 900,
-    "width": 374,
-    "x": 1141,
-    "y": -199
+    "height": 40,
+    "width": 266,
+    "x": 715,
+    "y": 258
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -56,187 +56,39 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "F1ED4984-C38F-4089-A0A1-22422F1F0EF4"
-    },
-    {
-      "class": "rectangle",
-      "id": "1B70B927-FDDE-45B0-9A82-840B4F859617"
+      "id": "0E978476-97F2-4DAC-847F-2183729628DF"
     },
     {
       "class": "text",
-      "id": "0180D718-277A-45EB-822E-7D5798252378"
-    },
-    {
-      "class": "rectangle",
-      "id": "AE9C61D0-8AEA-4A6D-A526-E7E17C5E70A5"
-    },
-    {
-      "class": "rectangle",
-      "id": "0CE70D2B-16A9-4112-9BF4-39C2B8FDC22E"
-    },
-    {
-      "class": "text",
-      "id": "9B9177B6-EC38-439A-91CD-C1F30B67C569"
+      "id": "5FB532CD-F5F0-4E34-9999-B8F6ED029F92"
     },
     {
       "class": "symbolInstance",
-      "id": "9729E7D3-DCCC-4420-8C34-FBC9EBF6D02A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AD61461F-055A-4511-A137-99B1890BE81F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "32701DA1-6879-464A-B8CC-860E6B0F7632"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B6E71C6C-0D87-4D90-A06B-2E2D44CD2F92"
+      "id": "2F08CFAB-6182-4DAA-A521-FEF94B1275CD"
     }
   ],
-  "name": "05. Feedback 反馈/Drawer 抽屉/默认",
+  "name": "05. Feedback 反馈/Message 全局提示/成功",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B6E71C6C-0D87-4D90-A06B-2E2D44CD2F92_symbolID"
+      "overrideName": "2F08CFAB-6182-4DAA-A521-FEF94B1275CD_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B6E71C6C-0D87-4D90-A06B-2E2D44CD2F92/30E12318-E593-4FE3-BAEB-AE9073FBDE9D_symbolID"
+      "overrideName": "5FB532CD-F5F0-4E34-9999-B8F6ED029F92_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B6E71C6C-0D87-4D90-A06B-2E2D44CD2F92/30E12318-E593-4FE3-BAEB-AE9073FBDE9D/7AA70426-9895-402A-AFFC-36EFFAF628C8_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B6E71C6C-0D87-4D90-A06B-2E2D44CD2F92/30E12318-E593-4FE3-BAEB-AE9073FBDE9D_fillColor"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B6E71C6C-0D87-4D90-A06B-2E2D44CD2F92/F90A3D17-EF44-4867-ACC0-AB02A362EBA7_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B6E71C6C-0D87-4D90-A06B-2E2D44CD2F92/F90A3D17-EF44-4867-ACC0-AB02A362EBA7_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B6E71C6C-0D87-4D90-A06B-2E2D44CD2F92/D47A574B-5917-4401-ABCF-5694D31E25B3_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "32701DA1-6879-464A-B8CC-860E6B0F7632_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "32701DA1-6879-464A-B8CC-860E6B0F7632/30E12318-E593-4FE3-BAEB-AE9073FBDE9D_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "32701DA1-6879-464A-B8CC-860E6B0F7632/30E12318-E593-4FE3-BAEB-AE9073FBDE9D/E8E0E351-138B-43DF-88E0-C356C906F9A5_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "32701DA1-6879-464A-B8CC-860E6B0F7632/30E12318-E593-4FE3-BAEB-AE9073FBDE9D_fillColor"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "32701DA1-6879-464A-B8CC-860E6B0F7632/F90A3D17-EF44-4867-ACC0-AB02A362EBA7_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "32701DA1-6879-464A-B8CC-860E6B0F7632/F90A3D17-EF44-4867-ACC0-AB02A362EBA7_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "32701DA1-6879-464A-B8CC-860E6B0F7632/D47A574B-5917-4401-ABCF-5694D31E25B3_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "AD61461F-055A-4511-A137-99B1890BE81F_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "AD61461F-055A-4511-A137-99B1890BE81F/FEC29A25-9389-445F-B092-B8E8016C7A45_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "AD61461F-055A-4511-A137-99B1890BE81F/FEC29A25-9389-445F-B092-B8E8016C7A45/DB48780E-326D-4E81-AFC7-DCEEDD64E384_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "AD61461F-055A-4511-A137-99B1890BE81F/E41CED57-690C-46DE-9433-D17B341AB70F_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "AD61461F-055A-4511-A137-99B1890BE81F/E41CED57-690C-46DE-9433-D17B341AB70F_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "AD61461F-055A-4511-A137-99B1890BE81F/6CCFB437-C361-4CF8-99DE-7A3AE54DC343_fillColor"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "AD61461F-055A-4511-A137-99B1890BE81F/26E8C2B0-869A-4D9D-90E7-7EE57402E991_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "9729E7D3-DCCC-4420-8C34-FBC9EBF6D02A_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "9729E7D3-DCCC-4420-8C34-FBC9EBF6D02A/44E47D12-BB9F-45F4-AAE1-07EE4EB07531_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "9B9177B6-EC38-439A-91CD-C1F30B67C569_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "9B9177B6-EC38-439A-91CD-C1F30B67C569_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "0180D718-277A-45EB-822E-7D5798252378_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "0180D718-277A-45EB-822E-7D5798252378_textStyle"
+      "overrideName": "5FB532CD-F5F0-4E34-9999-B8F6ED029F92_textStyle"
     }
   ],
   "presetDictionary": {
   },
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

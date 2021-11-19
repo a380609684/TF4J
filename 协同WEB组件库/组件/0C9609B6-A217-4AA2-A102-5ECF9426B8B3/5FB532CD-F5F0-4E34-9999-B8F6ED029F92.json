@@ -17,29 +17,29 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "MicrosoftYaHei-Bold",
-              "size": 16
+              "name": "MicrosoftYaHei",
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "标题"
+    "string": "这是一条询问消息，会主动消失。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9B9177B6-EC38-439A-91CD-C1F30B67C569",
+  "do_objectID": "5FB532CD-F5F0-4E34-9999-B8F6ED029F92",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 32,
-    "x": 32,
-    "y": 20
+    "height": 22,
+    "width": 210,
+    "x": 40,
+    "y": 8
   },
-  "glyphBounds": "{{0, 4}, {32, 17}}",
+  "glyphBounds": "{{0, 5}, {201, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,13 +66,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 3,
-  "name": "标题",
+  "lineSpacingBehaviour": 2,
+  "name": "这是一条询问消息，会主动消失。",
   "nameIsFixed": false,
-  "resizingConstraint": 9,
+  "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "82242252-C04B-4EE2-9152-926AEC9DF9CA",
+  "sharedStyleID": "8ED750A7-FB62-4F6D-9FAC-E11C668119BC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -108,7 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "363BE1B8-5A15-4254-86C3-668850BCCE25",
+    "do_objectID": "F1DCDC22-DFBE-4C97-8A8D-1DC6DFDC7BB8",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -132,16 +132,16 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "MicrosoftYaHei-Bold",
-            "size": 16
+            "name": "MicrosoftYaHei",
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -149,5 +149,21 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "name",
+        "options": {
+          "gender": "female"
+        },
+        "title": "Female"
+      }
+    }
+  }
 }
