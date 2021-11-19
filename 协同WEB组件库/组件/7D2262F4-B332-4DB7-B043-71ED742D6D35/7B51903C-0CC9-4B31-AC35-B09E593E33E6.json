@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 3,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "跳转至"
+    "string": "跳至"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 42,
-    "x": 132,
+    "width": 28,
+    "x": 138,
     "y": 5
   },
-  "glyphBounds": "{{0, 5}, {42, 14}}",
+  "glyphBounds": "{{0, 5}, {28, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "跳转至",
+  "name": "跳至",
   "nameIsFixed": false,
   "resizingConstraint": 44,
   "resizingType": 0,
