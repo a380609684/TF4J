@@ -16,15 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-<<<<<<< HEAD:协同WEB-UIKit/导航_Navigation/56ACCFEA-C868-4C7C-BAED-5C1A10D62CDF/F02F6386-A3A7-4CE4-9F94-ADF69032875B.json
     "width": 174,
-    "x": 452,
-    "y": 2708
-=======
-    "width": 117,
-    "x": 208.5,
-    "y": 1580
->>>>>>> 7c9f5ad1cc1334dceb970678724368da75c2df9a:协同WEB-UIKit/导航_Navigation/56ACCFEA-C868-4C7C-BAED-5C1A10D62CDF/ABE1B3E4-7BFA-4F87-991B-0C4EBE25F32C/F02F6386-A3A7-4CE4-9F94-ADF69032875B.json
+    "x": 458,
+    "y": 2485
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
