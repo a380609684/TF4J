@@ -18,9 +18,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 84,
-    "x": 630,
-    "y": 1663
+    "width": 86,
+    "x": 638,
+    "y": 1543
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -80,7 +80,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "5F423E14-00A4-40FA-B748-9132E4EC2FD3[D6A0110D-F034-4D7A-A25D-C64F4A0B34BA]",
+  "sharedStyleID": "6EC8C5BA-F17D-434F-BF4F-4430E1AAE649",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -108,7 +108,7 @@
       "brightness": 0,
       "contrast": 1,
       "hue": 0,
-      "isEnabled": true,
+      "isEnabled": false,
       "saturation": 1
     },
     "contextSettings": {
@@ -123,11 +123,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
-          "blue": 0.9725490196078431,
-          "green": 0.9607843137254902,
-          "red": 0.9529411764705882,
-          "swatchID": "07DD4F3E-95E7-4861-8EF8-ED8DECEDBB49"
+          "alpha": 0.04,
+          "blue": 0.4,
+          "green": 0.069752513111888,
+          "red": 0
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

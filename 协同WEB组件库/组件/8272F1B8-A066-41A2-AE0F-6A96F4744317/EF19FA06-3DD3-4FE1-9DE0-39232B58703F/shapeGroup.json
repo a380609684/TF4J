@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 6,
-    "width": 5.122270248734046,
-    "x": 3.439999999999988,
+    "width": 5.122270248733843,
+    "x": 3.440000000000055,
     "y": 3
   },
   "groupLayout": {
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
