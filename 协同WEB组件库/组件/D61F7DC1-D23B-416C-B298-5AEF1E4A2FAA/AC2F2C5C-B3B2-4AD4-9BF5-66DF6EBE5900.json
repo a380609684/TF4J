@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9729E7D3-DCCC-4420-8C34-FBC9EBF6D02A",
+  "do_objectID": "AC2F2C5C-B3B2-4AD4-9BF5-66DF6EBE5900",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": 326,
-    "y": 24
+    "height": 32,
+    "width": 84,
+    "x": 32,
+    "y": 852
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,11 +27,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "01. General 通用/Icon图标/16/003.关闭大",
+  "name": "01. General 通用/Buttons按钮/03.幽灵按钮/默认",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FEC29A25-9389-445F-B092-B8E8016C7A45_symbolID",
+      "value": "14EEB82B-0A23-4CD2-B940-29A413F824EE"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E41CED57-690C-46DE-9433-D17B341AB70F_stringValue",
+      "value": "催办"
+    }
   ],
-  "resizingConstraint": 12,
+  "resizingConstraint": 33,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -70,7 +80,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2EA17A99-FD58-4081-B4E6-82773505E39A",
+    "do_objectID": "BF792AEE-EF24-43AE-ACE9-B6C1C536F9DA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,5 +92,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A159A48E-1511-41B8-9B53-6E3E59A9D1EE"
+  "symbolID": "63EE02D2-E9B9-447F-8682-24FE28B56F88"
 }

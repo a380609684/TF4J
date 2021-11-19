@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F1ED4984-C38F-4089-A0A1-22422F1F0EF4",
+  "do_objectID": "B9DB2AAA-51A2-4148-BADC-82CA6CFA3220",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -13,14 +13,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 8,
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 900,
+    "height": 64,
     "width": 374,
     "x": 0,
-    "y": 0
+    "y": 836
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,14 +31,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矩形",
+  "name": "矩形备份",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 0,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -48,7 +48,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 0,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -77,7 +77,7 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 39,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -165,7 +165,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2F190696-21BF-42D9-8551-5418F5A45E85",
+    "do_objectID": "CF9539B4-BB85-41F4-83B0-07D3411EA732",
     "endMarkerType": 0,
     "fills": [
       {
@@ -225,6 +225,26 @@
     ],
     "miterLimit": 10,
     "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 8,
+        "color": {
+          "_class": "color",
+          "alpha": 0.12,
+          "blue": 0.1019607843137255,
+          "green": 0.09019607843137253,
+          "red": 0.07450980392156865
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": -2,
+        "spread": 0
+      }
     ],
     "startMarkerType": 0,
     "windingRule": 1
