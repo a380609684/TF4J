@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -65,12 +65,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "C507832C-DF1A-4237-B71C-6F6726A7542D_layerStyle"
+      "overrideName": "D1A0C406-4F7E-4FF0-AB86-249AEAAFC13C_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D1A0C406-4F7E-4FF0-AB86-249AEAAFC13C_stringValue"
+      "overrideName": "D1A0C406-4F7E-4FF0-AB86-249AEAAFC13C_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -80,7 +80,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D1A0C406-4F7E-4FF0-AB86-249AEAAFC13C_textStyle"
+      "overrideName": "1EBA320B-83D5-4DFA-9847-B7918F4C329D/9942A717-5545-4289-B3B3-2FC9F31788AE_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C507832C-DF1A-4237-B71C-6F6726A7542D_layerStyle"
     }
   ],
   "presetDictionary": {
