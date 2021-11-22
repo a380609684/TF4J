@@ -32,7 +32,7 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "89AD7536-207E-4E59-AAEF-836E7B6613CD_layerStyle",
+      "overrideName": "EF19FA06-3DD3-4FE1-9DE0-39232B58703F_layerStyle",
       "value": "42618CD4-672A-440A-8573-ADB7B8168981"
     }
   ],
@@ -87,5 +87,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "18A131A3-3E9A-4573-BF4B-2758B8313ED2"
+  "symbolID": "619377E0-5F06-4B2A-B50D-9C6FE3960DE1"
 }

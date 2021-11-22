@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "509C187A-720D-4A3B-8016-230BA2B5323C",
+  "do_objectID": "B5C4338D-9283-4967-8A44-77DC1E673EBC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,15 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 227,
-    "x": 148,
-    "y": 1082
+    "height": 12,
+    "width": 12,
+    "x": 119,
+    "y": 735
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -31,33 +27,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "text",
-      "id": "B3004B1B-F3CA-4650-BAD1-8437A380BD93"
-    },
-    {
-      "class": "text",
-      "id": "BC3288E5-FED8-4B16-B07C-9F08896F26D7"
-    },
-    {
-      "class": "text",
-      "id": "6FBCBAA5-F323-4888-8EE0-E40B726BD71B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8851CE7B-D665-4716-B297-BAD4845716C3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D547B489-9860-4812-AE39-B121EC91ED9A"
-    }
-  ],
-  "name": "编组 11备份",
+  "name": "01. General 通用/Icon图标/12/026.Loadding备份 2",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -93,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5380252C-5AE7-4DA8-9393-8FDFDC3C4BCE",
+    "do_objectID": "29971C4B-415A-4BE9-BF1C-EAB95523F3A4",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -104,5 +81,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "AC05FCC5-3A6C-43B2-88C3-7AF43F2CD061"
 }

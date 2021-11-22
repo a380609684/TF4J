@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "46C6AB55-9FF9-402C-B0CA-C9A25DA967D8",
+  "do_objectID": "5C40B2E9-9233-4E33-9B32-8BDF280F5306",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 852,
-    "width": 444,
-    "x": 1080,
-    "y": 349
+    "height": 24,
+    "width": 24,
+    "x": 345,
+    "y": 534
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,7 +27,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "05. Feedback 反馈/Drawer 抽屉/默认",
+  "name": "01. General 通用/Icon图标/24/052.Loadding备份",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -70,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4F26AE70-83B8-4881-9C0D-6AC3C59C7E44",
+    "do_objectID": "5C00591F-888D-458E-B01F-5CA00721654B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,5 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CFC3E6DA-5184-4844-BE35-D96C92F51D40"
+  "symbolID": "D09E5230-42E4-4F23-91A4-50587A84FDE6"
 }

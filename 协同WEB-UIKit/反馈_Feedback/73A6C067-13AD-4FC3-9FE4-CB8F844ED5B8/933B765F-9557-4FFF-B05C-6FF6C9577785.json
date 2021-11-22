@@ -9,38 +9,40 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5882352941176471,
-            "green": 0.5529411764705883,
-            "red": 0.5294117647058824,
-            "swatchID": "44AD8BC3-0503-49E7-8776-B136B4CEF33D"
+            "blue": 0.9803921568627451,
+            "green": 0.3568627450980393,
+            "red": 0.1725490196078431,
+            "swatchID": "B2A8A685-E18B-4499-A3EB-29A3D2F44450"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "MicrosoftYaHei",
-              "size": 16
+              "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
             "tighteningFactorForTruncation": 0.05
           },
-          "textStyleVerticalAlignmentKey": 0
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 0
         },
-        "length": 4,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Home"
+    "string": "Lodaing"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B3004B1B-F3CA-4650-BAD1-8437A380BD93",
+  "do_objectID": "933B765F-9557-4FFF-B05C-6FF6C9577785",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,10 +56,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
+    "height": 20,
     "width": 47,
-    "x": 0,
-    "y": 0
+    "x": 217,
+    "y": 757
   },
   "glyphBounds": "{{1, 5}, {45, 14}}",
   "hasClippingMask": false,
@@ -68,12 +70,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Home备份 7",
+  "name": "Lodaing备份",
   "nameIsFixed": false,
-  "resizingConstraint": 9,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "D5F9039D-DA2E-4011-B050-AB494C03CE70",
+  "sharedStyleID": "C969F89B-70B1-4B1C-9EA4-028FF2155CE2",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -109,7 +111,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "079A6BB7-FF11-4A1B-AC1E-E63CD14D5CC6",
+    "do_objectID": "626A98BA-6A8E-4C01-9264-5FE06184AA7B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -125,38 +127,33 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5882352941176471,
-          "green": 0.5529411764705883,
-          "red": 0.5294117647058824,
-          "swatchID": "44AD8BC3-0503-49E7-8776-B136B4CEF33D"
+          "blue": 0.9803921568627451,
+          "green": 0.3568627450980393,
+          "red": 0.1725490196078431,
+          "swatchID": "B2A8A685-E18B-4499-A3EB-29A3D2F44450"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "MicrosoftYaHei",
-            "size": 16
+            "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20,
           "tighteningFactorForTruncation": 0.05
         },
-        "textStyleVerticalAlignmentKey": 0
+        "strikethroughStyle": 0,
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 0
 }
