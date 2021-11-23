@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 449,
-    "x": 100,
-    "y": 868
+    "width": 330,
+    "x": 509,
+    "y": 1592
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -30,6 +30,16 @@
   "name": "02. Navigation 导航/Pagination分页/默认/1页跳转",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "61AA989A-22FA-487A-BCA9-68D2810F0AD8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D2FDC66E-C834-4EFB-86B9-2B03CFAAA5DA/0DCADA7C-F919-4C36-ACAC-1A80F0A08C07/12C83B54-B45D-47CE-B7AC-E12D0E072C67_stringValue",
+      "value": " "
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
