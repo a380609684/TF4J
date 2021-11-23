@@ -87,6 +87,18 @@
     {
       "class": "text",
       "id": "2ED10E92-7CD9-414C-B160-CA11F40B8A3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E9C0A7F-FDE4-44D2-B301-BED004B41EE3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3285B206-6D9A-4BDF-9143-8DDDDA7A15CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "967CA7E0-0DCF-4E95-B01B-3FA87A325054"
     }
   ],
   "name": "分页Pagination",
