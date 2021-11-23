@@ -1,16 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "08BF54EF-81A5-4770-8E58-E296BA19BE82",
+  "do_objectID": "6E575AFA-B761-4218-904E-C62F2D9F40B7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,54 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 12,
-    "width": 12,
-    "x": -3537,
-    "y": 1782
+    "height": 14,
+    "width": 1,
+    "x": 8,
+    "y": 5
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "89AD7536-207E-4E59-AAEF-836E7B6613CD"
-    }
+  "layerListExpandedType": 0,
+  "name": "03.Data Entry 数据录入/搜索栏/元素/光标",
+  "nameIsFixed": false,
+  "overrideValues": [
   ],
-  "name": "01. General 通用/Icon图标/12/031.面包屑",
-  "nameIsFixed": true,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "89AD7536-207E-4E59-AAEF-836E7B6613CD_layerStyle"
-    }
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -105,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EFEB04B2-AF92-4E3F-B357-AAE3976EF0D5",
+    "do_objectID": "DF59E803-DD19-4442-89EA-B8853FAA672D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -117,11 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "FAA088B1-381A-45B1-B695-092E152EB666",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "744E226E-5B96-43C3-BE38-71C6CC71A29C"
 }

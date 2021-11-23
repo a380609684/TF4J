@@ -1,16 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "26E2841F-13B2-4497-ADDF-42BB6E5E5D9C",
+  "do_objectID": "D2F12608-C61B-4EAF-B23A-6E63E07400C9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,63 +15,38 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 40,
-    "x": -3577,
-    "y": 3628
+    "height": 24,
+    "width": 42,
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "oval",
-      "id": "89176BE3-2407-4661-ACA5-2E4D746145EB"
+      "class": "rectangle",
+      "id": "31A00C3E-56CC-4973-BB77-A74A4AB5ECE7"
     },
     {
       "class": "symbolInstance",
-      "id": "6389B310-99E6-4CCB-9EC7-D991CF5AB0D7"
+      "id": "6E575AFA-B761-4218-904E-C62F2D9F40B7"
     }
   ],
-  "name": "01. General 通用/Icon图标/40/审批节点",
-  "nameIsFixed": true,
-  "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "6389B310-99E6-4CCB-9EC7-D991CF5AB0D7_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "6389B310-99E6-4CCB-9EC7-D991CF5AB0D7/2B8656ED-6AF4-48F6-92F7-C359E165D5EA_layerStyle"
-    }
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "1",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -114,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "59B710C0-DC1B-4571-B128-50FBAA5CE4F5",
+    "do_objectID": "8E254591-BC3A-4655-A618-AE6687AD9CCD",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -125,12 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "3715F31F-F747-45B9-9FBD-03272418CEF0",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
