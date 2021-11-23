@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,23 +55,13 @@
       "id": "CA53189C-FC7B-4081-83F5-FA4EB369827E"
     }
   ],
-  "name": "02. Navigation 导航/Pagination分页/Elements/输入跳转",
+  "name": "02. Navigation 导航/Pagination分页/Elements/快速跳转",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "0DCADA7C-F919-4C36-ACAC-1A80F0A08C07_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "0DCADA7C-F919-4C36-ACAC-1A80F0A08C07/12C83B54-B45D-47CE-B7AC-E12D0E072C67_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "0DCADA7C-F919-4C36-ACAC-1A80F0A08C07/12C83B54-B45D-47CE-B7AC-E12D0E072C67_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
