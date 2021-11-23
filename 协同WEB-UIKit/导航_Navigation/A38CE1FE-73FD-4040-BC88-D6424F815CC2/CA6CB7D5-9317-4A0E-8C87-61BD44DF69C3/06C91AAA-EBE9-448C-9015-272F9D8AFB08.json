@@ -9,34 +9,69 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2470588235294118,
+            "green": 0.2274509803921569,
+            "red": 0.203921568627451,
+            "swatchID": "9E045C4B-53F5-4054-8031-FB64888C4E1A"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Semibold",
-              "size": 18
+              "size": 12
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          }
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22,
+            "tighteningFactorForTruncation": 0.05
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 4,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2470588235294118,
+            "green": 0.2274509803921569,
+            "red": 0.203921568627451,
+            "swatchID": "9E045C4B-53F5-4054-8031-FB64888C4E1A"
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "PingFangSC-Regular",
+              "size": 12
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 22,
+            "minimumLineHeight": 22,
+            "tighteningFactorForTruncation": 0.05
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 60,
+        "location": 4
       }
     ],
-    "string": "常规"
+    "string": "截断符号，当达到页面阈值时，使用省略号截断列表。当页面数≤10时，直接铺开，无需省略；当页面数＞10时，默认展示前4页及最后一页"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D8FF4BFF-E054-44F9-B76C-0908A10FF37A",
+  "do_objectID": "06C91AAA-EBE9-448C-9015-272F9D8AFB08",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +85,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
-    "width": 36,
-    "x": 100,
-    "y": 739
+    "height": 22,
+    "width": 737,
+    "x": 24,
+    "y": 227
   },
-  "glyphBounds": "{{1, 4}, {35, 17}}",
+  "glyphBounds": "{{0, 5}, {736, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +99,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "常规",
+  "name": "截断符号，当达到页面阈值时，使用省略号截",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -104,7 +139,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "AA7F99F5-722B-4664-BFB1-76135123A379",
+    "do_objectID": "3D90FF97-6EE9-43FD-B899-27C96D5B7243",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -120,23 +155,27 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2470588235294118,
+          "green": 0.2274509803921569,
+          "red": 0.203921568627451,
+          "swatchID": "9E045C4B-53F5-4054-8031-FB64888C4E1A"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Semibold",
-            "size": 18
+            "size": 12
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
-        }
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 22,
+          "minimumLineHeight": 22,
+          "tighteningFactorForTruncation": 0.05
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

@@ -36,7 +36,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -243,16 +243,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "2644C959-D851-4CCB-BFFB-3EA6AA8DA53E/0DCADA7C-F919-4C36-ACAC-1A80F0A08C07_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "2644C959-D851-4CCB-BFFB-3EA6AA8DA53E/0DCADA7C-F919-4C36-ACAC-1A80F0A08C07/12C83B54-B45D-47CE-B7AC-E12D0E072C67_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "2644C959-D851-4CCB-BFFB-3EA6AA8DA53E/0DCADA7C-F919-4C36-ACAC-1A80F0A08C07/12C83B54-B45D-47CE-B7AC-E12D0E072C67_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
