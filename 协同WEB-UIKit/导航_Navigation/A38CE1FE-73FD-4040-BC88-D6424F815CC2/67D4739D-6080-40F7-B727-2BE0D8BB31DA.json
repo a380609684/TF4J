@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5E9C0A7F-FDE4-44D2-B301-BED004B41EE3",
+  "do_objectID": "67D4739D-6080-40F7-B727-2BE0D8BB31DA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 466,
+    "width": 449,
     "x": 100,
-    "y": 852
+    "y": 868
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -30,17 +30,12 @@
   "name": "02. Navigation 导航/Pagination分页/默认/1页跳转",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "D2FDC66E-C834-4EFB-86B9-2B03CFAAA5DA/0DCADA7C-F919-4C36-ACAC-1A80F0A08C07/12C83B54-B45D-47CE-B7AC-E12D0E072C67_stringValue",
-      "value": " "
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -75,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "30BDCCDE-E060-4BBC-AE2B-9C06836AD437",
+    "do_objectID": "1E6D3FD8-1890-4227-AFBB-6409E448697C",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,5 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "453EFB9D-83E9-450D-A7B5-8EB92544FC28"
+  "symbolID": "94AF9293-B69F-4BF1-92ED-AA3C887058ED"
 }
