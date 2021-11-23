@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 24,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "数据量小，用户仅有翻页功能时，常用于卡片或表格内"
+    "string": "在空间有限的场景下使用 常于卡片或表格内"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 288,
+    "width": 232,
     "x": 100,
-    "y": 2160
+    "y": 1457
   },
-  "glyphBounds": "{{0, 5}, {287, 12}}",
+  "glyphBounds": "{{0, 5}, {231, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "数据量小，用户仅有翻页功能时，常用于卡片",
+  "name": "在空间有限的场景下使用 常于卡片或表格内",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
