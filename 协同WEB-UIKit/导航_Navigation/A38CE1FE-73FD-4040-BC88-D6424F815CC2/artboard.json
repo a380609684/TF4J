@@ -78,6 +78,18 @@
     },
     {
       "class": "text",
+      "id": "7E4821B3-F7D5-4A0A-B336-FDE7E6D6840E"
+    },
+    {
+      "class": "text",
+      "id": "4FE9ED96-F8A6-4008-8BA4-DA4F5F0F751F"
+    },
+    {
+      "class": "text",
+      "id": "D204B751-FB36-4D25-88C4-3FDEA8C81C57"
+    },
+    {
+      "class": "text",
       "id": "F7D3C824-682C-4FDA-95F2-CEE71F1F7296"
     },
     {
@@ -99,6 +111,22 @@
     {
       "class": "rectangle",
       "id": "E315E901-C331-4A28-A488-F9F97E898D9D"
+    },
+    {
+      "class": "rectangle",
+      "id": "0E196C3B-F524-4E12-8FB2-F6FADEBC1D6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8743F19-7571-404F-95FF-D8A450613A7D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D821E3DE-7030-4A15-9E12-E7794022A20F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3EC1CF4B-2FD6-4945-87C8-014270007A0E"
     }
   ],
   "name": "分页Pagination",
