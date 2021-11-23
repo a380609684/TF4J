@@ -2459,30 +2459,6 @@
     {
       "class": "symbolInstance",
       "id": "819801A4-4A90-40E5-8249-C3478AFC164E"
-    },
-    {
-      "class": "text",
-      "id": "2807CA21-A5D7-4079-B239-4C3D33D27A61"
-    },
-    {
-      "class": "text",
-      "id": "83C4B5CD-AE0C-47E0-89A5-FC3FE7058083"
-    },
-    {
-      "class": "text",
-      "id": "78FDA41D-5A6B-4FCF-9CBA-9EE58E4D7DC0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F52ACEB9-6B09-4A1F-98E3-4EC5879F79C0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4582E74F-52F4-454A-85C7-4DDA3437FD83"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F2061083-A80D-4239-9BB6-308487B944A4"
     }
   ],
   "name": "icon",
