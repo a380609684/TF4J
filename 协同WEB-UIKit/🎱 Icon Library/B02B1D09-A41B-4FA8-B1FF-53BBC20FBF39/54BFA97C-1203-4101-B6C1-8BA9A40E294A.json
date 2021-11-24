@@ -18,29 +18,29 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "MicrosoftYaHei",
-              "size": 16
+              "size": 12
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 24,
-            "minimumLineHeight": 24,
+            "maximumLineHeight": 20,
+            "minimumLineHeight": 20,
             "tighteningFactorForTruncation": 0.05
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 4,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "Home"
+    "string": "PC"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B3004B1B-F3CA-4650-BAD1-8437A380BD93",
+  "do_objectID": "54BFA97C-1203-4101-B6C1-8BA9A40E294A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 47,
-    "x": 0,
-    "y": 0
+    "height": 20,
+    "width": 16,
+    "x": 531,
+    "y": 1683
   },
-  "glyphBounds": "{{1, 5}, {45, 14}}",
+  "glyphBounds": "{{1, 5}, {14, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,12 +68,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Home备份 7",
+  "name": "PC",
   "nameIsFixed": false,
-  "resizingConstraint": 9,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "D5F9039D-DA2E-4011-B050-AB494C03CE70",
+  "sharedStyleID": "E5EE03F6-40DA-464B-9D6A-6D6C0407D967",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -109,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "079A6BB7-FF11-4A1B-AC1E-E63CD14D5CC6",
+    "do_objectID": "E1A46EF0-DBB4-4C5F-A462-6BB475CB7AEF",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -134,15 +134,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "MicrosoftYaHei",
-            "size": 16
+            "size": 12
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 24,
-          "minimumLineHeight": 24,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20,
           "tighteningFactorForTruncation": 0.05
         },
         "textStyleVerticalAlignmentKey": 0
@@ -151,12 +151,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 0
 }

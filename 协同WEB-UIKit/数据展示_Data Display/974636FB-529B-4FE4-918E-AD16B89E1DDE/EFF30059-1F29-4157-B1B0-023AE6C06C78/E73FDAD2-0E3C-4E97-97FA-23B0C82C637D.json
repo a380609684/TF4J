@@ -27,11 +27,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 4,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "底部内容"
+    "string": "组合"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 33,
-    "width": 96,
+    "width": 48,
     "x": 24,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {95, 23}}",
+  "glyphBounds": "{{1, 5}, {47, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "底部内容",
+  "name": "组合",
   "nameIsFixed": false,
   "resizingConstraint": 41,
   "resizingType": 0,
