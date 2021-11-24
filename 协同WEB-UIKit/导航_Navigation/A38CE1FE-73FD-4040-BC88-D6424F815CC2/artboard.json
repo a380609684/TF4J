@@ -113,8 +113,16 @@
       "id": "15489F5B-D7D8-4E2E-B915-487C6F86A589"
     },
     {
+      "class": "text",
+      "id": "745673A2-8CB5-4BD2-836B-92A574BB9546"
+    },
+    {
       "class": "symbolInstance",
       "id": "44E6C8DD-FDAE-495C-B179-3122B40FC012"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86A58FB6-39DD-4D0A-A298-A60E56C30818"
     },
     {
       "class": "symbolInstance",
