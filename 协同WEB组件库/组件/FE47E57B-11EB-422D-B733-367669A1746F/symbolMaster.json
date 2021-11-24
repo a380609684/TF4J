@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 208,
-    "x": -2998,
-    "y": 2375
+    "width": 152,
+    "x": -2472,
+    "y": 2274
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -75,7 +75,7 @@
       "id": "F99B1147-B2C4-4A34-8F66-D6E41A9B3FB5"
     }
   ],
-  "name": "02. Navigation 导航/Pagination分页/小",
+  "name": "02. Navigation 导航/Pagination分页/小/结合跳转",
   "nameIsFixed": true,
   "overrideProperties": [
     {
