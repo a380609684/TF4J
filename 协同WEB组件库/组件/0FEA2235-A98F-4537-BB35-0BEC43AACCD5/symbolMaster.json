@@ -64,23 +64,13 @@
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "64FCD5CD-3A34-493B-8936-156CD4669CF6_symbolID"
+      "canOverride": true,
+      "overrideName": "D64B47BD-713E-418B-ACA7-A44956A2B61A_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "64FCD5CD-3A34-493B-8936-156CD4669CF6/78793334-0F9F-4137-87AA-E82B0C2D733F_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "64FCD5CD-3A34-493B-8936-156CD4669CF6_fillColor"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "321D0DA0-5136-44CB-9212-10C383E379D1_layerStyle"
+      "overrideName": "2822C484-49DF-4DE8-8CCC-9E670A223F80_fillColor"
     }
   ],
   "presetDictionary": {
