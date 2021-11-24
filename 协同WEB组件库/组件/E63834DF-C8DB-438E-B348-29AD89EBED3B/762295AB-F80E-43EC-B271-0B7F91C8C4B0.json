@@ -80,6 +80,7 @@
   "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "5EBB5D54-4633-4ED7-9386-B39EC5248E17",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -174,9 +175,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -215,7 +216,7 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
