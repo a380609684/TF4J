@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "Hover"
+    "string": "激活"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 38,
+    "width": 28,
     "x": 100,
-    "y": 1744
+    "y": 1740
   },
-  "glyphBounds": "{{1, 6}, {37, 11}}",
+  "glyphBounds": "{{0, 4}, {28, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Hover备份",
+  "name": "激活",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,9 +59,19 @@
       "id": "376004CC-E95F-4FF7-807C-AC50DF56F7E5"
     }
   ],
-  "name": "02. Navigation 导航/Pagination分页/Elements/输入栏/页码框",
+  "name": "02. Navigation 导航/Pagination分页/Elements/页码框/默认",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "376004CC-E95F-4FF7-807C-AC50DF56F7E5_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "376004CC-E95F-4FF7-807C-AC50DF56F7E5_textStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
