@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -58,6 +58,11 @@
   "name": "03.Data Entry 数据录入/搜索栏/元素/光标",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "E48E5FC9-78C2-448B-BA87-61879F6B6A24_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

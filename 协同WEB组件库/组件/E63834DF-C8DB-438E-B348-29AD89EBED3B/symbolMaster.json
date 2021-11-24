@@ -51,8 +51,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "923A5042-A3EE-4BB8-9181-81AFA43BBCAB"
+      "class": "rectangle",
+      "id": "762295AB-F80E-43EC-B271-0B7F91C8C4B0"
+    },
+    {
+      "class": "text",
+      "id": "BF876E14-2306-4795-A908-E7CC98B71C32"
     }
   ],
   "name": "02. Navigation 导航/Pagination分页/Elements/输入栏/默认",

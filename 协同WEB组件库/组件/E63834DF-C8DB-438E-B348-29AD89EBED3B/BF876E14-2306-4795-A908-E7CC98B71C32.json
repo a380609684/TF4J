@@ -35,12 +35,12 @@
         "location": 0
       }
     ],
-    "string": "/"
+    "string": "1"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7FD8E166-1E6C-483C-9292-60B467A1B3C9",
+  "do_objectID": "BF876E14-2306-4795-A908-E7CC98B71C32",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 6,
-    "x": 138,
+    "width": 9,
+    "x": 17,
     "y": 1
   },
-  "glyphBounds": "{{-1, 6}, {8, 13}}",
+  "glyphBounds": "{{1, 6}, {7, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,8 +67,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 3,
-  "name": "/",
+  "lineSpacingBehaviour": 2,
+  "name": "1",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -109,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "508D693F-19A6-45A1-99A8-7787DF9A7A34",
+    "do_objectID": "1A14B63C-2501-487F-8FEA-B4F2AED4ED24",
     "endMarkerType": 0,
     "fills": [
     ],

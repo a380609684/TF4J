@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 208,
-    "x": -2740,
-    "y": 2453
+    "x": -2998,
+    "y": 2305
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -36,7 +36,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
