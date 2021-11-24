@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3245,
+    "height": 1927,
     "width": 1436,
     "x": 7848,
     "y": -1097
@@ -69,12 +69,16 @@
       "id": "AE3B42B7-C5BD-490E-A219-71D9088E01A5"
     },
     {
-      "class": "text",
-      "id": "609EBDF5-B7D6-4178-A0C3-50DB3EEAC10E"
+      "class": "group",
+      "id": "CA6CB7D5-9317-4A0E-8C87-61BD44DF69C3"
     },
     {
       "class": "text",
-      "id": "2DB071D2-1AF7-4DED-9D34-BC9CEAEE4ECF"
+      "id": "7E4821B3-F7D5-4A0A-B336-FDE7E6D6840E"
+    },
+    {
+      "class": "text",
+      "id": "F7D3C824-682C-4FDA-95F2-CEE71F1F7296"
     },
     {
       "class": "group",
@@ -87,6 +91,46 @@
     {
       "class": "text",
       "id": "2ED10E92-7CD9-414C-B160-CA11F40B8A3E"
+    },
+    {
+      "class": "group",
+      "id": "E0CC8FB5-EB60-4132-9307-E73ECA8B7CB9"
+    },
+    {
+      "class": "rectangle",
+      "id": "E315E901-C331-4A28-A488-F9F97E898D9D"
+    },
+    {
+      "class": "text",
+      "id": "3B08CC05-6416-49A1-83AD-B1E6FFA501CA"
+    },
+    {
+      "class": "text",
+      "id": "1A80B42B-1114-4AC5-921C-B7DFB9A8D619"
+    },
+    {
+      "class": "text",
+      "id": "15489F5B-D7D8-4E2E-B915-487C6F86A589"
+    },
+    {
+      "class": "text",
+      "id": "745673A2-8CB5-4BD2-836B-92A574BB9546"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44E6C8DD-FDAE-495C-B179-3122B40FC012"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86A58FB6-39DD-4D0A-A298-A60E56C30818"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3EAE837D-AAF8-489A-A13B-7C17AD82BAE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D502B8E8-7D99-4D20-B708-E05100170CDF"
     }
   ],
   "name": "分页Pagination",

@@ -121,6 +121,14 @@
     {
       "class": "group",
       "id": "7FCD8F62-EA4B-421E-9D03-83171123DE50"
+    },
+    {
+      "class": "rectangle",
+      "id": "758B0875-D542-414C-A1E4-A9D91CA3C8D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4616A16D-42ED-45E7-AC3B-0AEB30B98537"
     }
   ],
   "layout": {

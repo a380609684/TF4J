@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 466,
-    "x": -2998,
-    "y": 2264
+    "width": 449,
+    "x": -2472,
+    "y": 2088
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -59,29 +59,51 @@
       "id": "E0B97ED1-E667-4CA5-8641-B9631D7DB4E1"
     },
     {
-      "class": "text",
-      "id": "7B51903C-0CC9-4B31-AC35-B09E593E33E6"
-    },
-    {
-      "class": "text",
-      "id": "3BFDE302-4425-4A45-9C28-AC9922B80200"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4828C87F-C1FF-47F8-986F-264852C28EFB"
-    },
-    {
       "class": "group",
       "id": "D8F88F2E-25F4-4FE9-874C-DBE9645A7E04"
     },
     {
       "class": "symbolInstance",
       "id": "61AA989A-22FA-487A-BCA9-68D2810F0AD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2FDC66E-C834-4EFB-86B9-2B03CFAAA5DA"
     }
   ],
-  "name": "02. Navigation 导航/Pagination分页/默认/1页备份",
+  "name": "02. Navigation 导航/Pagination分页/默认/1页跳转",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D2FDC66E-C834-4EFB-86B9-2B03CFAAA5DA_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D2FDC66E-C834-4EFB-86B9-2B03CFAAA5DA/0DCADA7C-F919-4C36-ACAC-1A80F0A08C07_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D2FDC66E-C834-4EFB-86B9-2B03CFAAA5DA/D60F09DF-5335-474E-8A07-8BB577C496BB_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D2FDC66E-C834-4EFB-86B9-2B03CFAAA5DA/D60F09DF-5335-474E-8A07-8BB577C496BB_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D2FDC66E-C834-4EFB-86B9-2B03CFAAA5DA/C9907D46-1997-48E4-9274-8BAE18D2547A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D2FDC66E-C834-4EFB-86B9-2B03CFAAA5DA/C9907D46-1997-48E4-9274-8BAE18D2547A_textStyle"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
