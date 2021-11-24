@@ -31,16 +31,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 26,
         "location": 0
       }
     ],
-    "string": "激活"
+    "string": "基础页头适用于需要简单描述的场景，默认透明背景无底色"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "15489F5B-D7D8-4E2E-B915-487C6F86A589",
+  "do_objectID": "66ADCC6C-BCF0-467E-979F-338CF7E8EE03",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 28,
-    "x": 100,
-    "y": 1669
+    "width": 364,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{0, 4}, {28, 14}}",
+  "glyphBounds": "{{0, 4}, {364, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "激活",
+  "name": "基础页头适用于需要简单描述的场景，默认透",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -108,7 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D531725C-BF7B-4E4E-BCA1-F40F0E0AF3B8",
+    "do_objectID": "4742CFF9-3526-43BA-B680-695EFC278455",
     "endMarkerType": 0,
     "fills": [
     ],

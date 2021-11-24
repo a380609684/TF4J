@@ -31,16 +31,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 23,
         "location": 0
       }
     ],
-    "string": "激活"
+    "string": "带有面包屑适用于更深的页面，用户可以快速导航。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "15489F5B-D7D8-4E2E-B915-487C6F86A589",
+  "do_objectID": "6F1C2295-3B05-4DA1-B2AD-AFA32E1A77B5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 28,
-    "x": 100,
-    "y": 1669
+    "width": 322,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{0, 4}, {28, 14}}",
+  "glyphBounds": "{{0, 4}, {314, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "激活",
+  "name": "带有面包屑适用于更深的页面，用户可以快速",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -108,7 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D531725C-BF7B-4E4E-BCA1-F40F0E0AF3B8",
+    "do_objectID": "F6FFFCD7-B963-414D-87E7-07ABC23783BF",
     "endMarkerType": 0,
     "fills": [
     ],

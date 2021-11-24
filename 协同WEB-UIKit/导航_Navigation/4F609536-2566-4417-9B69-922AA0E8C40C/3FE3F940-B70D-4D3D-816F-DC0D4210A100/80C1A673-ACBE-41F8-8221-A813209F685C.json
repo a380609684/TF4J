@@ -31,16 +31,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 61,
         "location": 0
       }
     ],
-    "string": "激活"
+    "string": "PageHeader 可用于突出页面主题，显示页面的重要信息，承载与当前页面相关的操作项（包括页面级操作、页面间导航等）。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "15489F5B-D7D8-4E2E-B915-487C6F86A589",
+  "do_objectID": "80C1A673-ACBE-41F8-8221-A813209F685C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 28,
-    "x": 100,
-    "y": 1669
+    "width": 785,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{0, 4}, {28, 14}}",
+  "glyphBounds": "{{1, 4}, {775, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "激活",
+  "name": "PageHeader 可用于突出页面主题",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -108,7 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D531725C-BF7B-4E4E-BCA1-F40F0E0AF3B8",
+    "do_objectID": "DEFCBC4C-6822-4D61-A251-9E9741CFA4B1",
     "endMarkerType": 0,
     "fills": [
     ],

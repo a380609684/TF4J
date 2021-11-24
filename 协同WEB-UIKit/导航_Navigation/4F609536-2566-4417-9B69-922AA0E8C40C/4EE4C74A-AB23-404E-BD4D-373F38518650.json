@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CB7CB712-8DE4-437A-AD22-35A977460D0D",
+  "do_objectID": "4EE4C74A-AB23-404E-BD4D-373F38518650",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,59 +15,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 148,
+    "width": 700,
     "x": 0,
     "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -619,
-    "guides": [
-    ]
-  },
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "Header 2",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "artboard",
-      "id": "FED55104-C750-413C-A597-55C47BB47DFC"
+      "_class": "overrideValue",
+      "overrideName": "E00D6735-6219-42CF-9480-C3C06B392E93_stringValue",
+      "value": "Pageheader"
     },
     {
-      "class": "artboard",
-      "id": "56ACCFEA-C868-4C7C-BAED-5C1A10D62CDF"
-    },
-    {
-      "class": "artboard",
-      "id": "A38CE1FE-73FD-4040-BC88-D6424F815CC2"
-    },
-    {
-      "class": "artboard",
-      "id": "4F609536-2566-4417-9B69-922AA0E8C40C"
-    },
-    {
-      "class": "artboard",
-      "id": "E9907FBF-60BE-4070-86C4-4C4E17A9799F"
-    },
-    {
-      "class": "artboard",
-      "id": "44949002-8A1C-41FF-B6D3-EBED4C8F0645"
+      "_class": "overrideValue",
+      "overrideName": "E01C723B-FD34-4C71-8A40-9C86DC7E40B9_stringValue",
+      "value": "页头"
     }
   ],
-  "name": "导航_Navigation",
-  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -103,7 +80,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5C69893E-2A68-40B3-8002-8E3FE331B2C1",
+    "do_objectID": "23BF1810-7700-4B2E-9D87-0DE84765D900",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -115,10 +92,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -472,
-    "guides": [
-    ]
-  }
+  "symbolID": "8C75CE60-8CAA-4DEF-A375-6744B6E496C6"
 }
