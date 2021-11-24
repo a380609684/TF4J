@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0E641F3A-5ACB-493E-BF7E-1DDE7852E405",
+  "do_objectID": "C06B6988-F5F6-4164-9387-07023C5D2C19",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,14 +25,14 @@
     "constrainProportions": false,
     "height": 40,
     "width": 40,
-    "x": -3577,
-    "y": 3241
+    "x": -3703,
+    "y": 3572
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,22 +51,13 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "BF07B991-8E4D-4DA6-B35F-E91E67517FAF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1DCD4EF6-C729-4E94-A4F9-5F287AD130A5"
+      "class": "group",
+      "id": "579E5EB6-8949-4811-90CA-D6C8BD12A48E"
     }
   ],
-  "name": "01. General 通用/Icon图标/40/文件类备份",
-  "nameIsFixed": false,
+  "name": "01. General 通用/Icon图标/40/上线",
+  "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "1DCD4EF6-C729-4E94-A4F9-5F287AD130A5_layerStyle"
-    }
   ],
   "presetDictionary": {
   },
@@ -109,7 +100,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "95C34B42-EE2E-4F9F-BC60-9EC4870D7BB2",
+    "do_objectID": "F303E938-96D6-4F80-8085-5AC38CD1AEAC",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -121,7 +112,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "B8019BC1-4906-440B-9CBD-473AD2ECD15C",
+  "symbolID": "90838138-CD48-4159-BAE5-62D764BF889B",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
