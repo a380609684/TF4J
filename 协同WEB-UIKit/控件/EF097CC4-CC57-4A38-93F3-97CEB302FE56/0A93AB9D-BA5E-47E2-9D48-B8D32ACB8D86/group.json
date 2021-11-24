@@ -1,16 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E63834DF-C8DB-438E-B348-29AD89EBED3B",
+  "do_objectID": "0A93AB9D-BA5E-47E2-9D48-B8D32ACB8D86",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,47 +17,32 @@
     "constrainProportions": false,
     "height": 24,
     "width": 42,
-    "x": -2876,
-    "y": 1906
+    "x": 0,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "923A5042-A3EE-4BB8-9181-81AFA43BBCAB"
+      "class": "rectangle",
+      "id": "8D5F0222-D1ED-404F-BED2-F43AD4084368"
     }
   ],
-  "name": "02. Navigation 导航/Pagination分页/Elements/输入栏/默认",
-  "nameIsFixed": true,
-  "overrideProperties": [
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": true,
+  "name": "1",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -100,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "483ED832-9C20-4B67-A551-D97F060C2195",
+    "do_objectID": "1A2572E7-5287-4D3E-AF2B-66DCCF9F5078",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -111,12 +88,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "9C791952-C031-49BC-A5B3-3F53EA931C2C",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

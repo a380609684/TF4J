@@ -1,8 +1,9 @@
 {
-  "_class": "symbolInstance",
+  "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F8743F19-7571-404F-95FF-D8A450613A7D",
+  "do_objectID": "1AE5B0AB-FF33-41B6-B8A4-F6C1ECAC9BA0",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,29 +13,74 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 4,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
+    "constrainProportions": true,
     "height": 24,
-    "width": 208,
-    "x": 908,
-    "y": 1750.5
+    "width": 24,
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "02. Navigation 导航/Pagination分页/小/2页",
+  "name": "矩形",
   "nameIsFixed": false,
-  "overrideValues": [
+  "needsConvertionToNewRoundCorners": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 4,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 4,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 4,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 4,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
+  "sharedStyleID": "51EE4026-C8F5-4BBD-9CED-7B1E31BC78C8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -70,7 +116,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "BF8179CB-5126-45C4-8B7B-93C269820CE1",
+    "do_objectID": "BD2198CE-D3E1-4C86-973E-8B752FF6D1B0",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -81,6 +127,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "C560891B-3CF8-4A6C-BB75-8D9A4F7493E9"
+  }
 }

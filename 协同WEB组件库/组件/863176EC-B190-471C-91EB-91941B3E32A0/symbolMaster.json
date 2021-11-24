@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "279C77E7-8133-4919-8990-0ABD1984DA91",
+  "do_objectID": "863176EC-B190-471C-91EB-91941B3E32A0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 28,
-    "width": 116,
-    "x": -2998,
-    "y": 2030
+    "height": 24,
+    "width": 42,
+    "x": -2876,
+    "y": 1946
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -51,37 +51,26 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "7D349772-0BC3-4939-A0DD-2D349904191C"
+    },
+    {
       "class": "group",
-      "id": "CA53189C-FC7B-4081-83F5-FA4EB369827E"
+      "id": "637FABB2-597B-4244-8AC6-59C5DA303828"
     }
   ],
-  "name": "02. Navigation 导航/Pagination分页/Elements/快速跳转",
+  "name": "02. Navigation 导航/Pagination分页/Elements/输入栏/输入中",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "0DCADA7C-F919-4C36-ACAC-1A80F0A08C07_symbolID"
+      "overrideName": "080C9296-B713-46F5-8A4D-0097BC1BEC0A_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "D60F09DF-5335-474E-8A07-8BB577C496BB_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "D60F09DF-5335-474E-8A07-8BB577C496BB_textStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C9907D46-1997-48E4-9274-8BAE18D2547A_stringValue"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C9907D46-1997-48E4-9274-8BAE18D2547A_textStyle"
+      "overrideName": "080C9296-B713-46F5-8A4D-0097BC1BEC0A_textStyle"
     }
   ],
   "presetDictionary": {
@@ -125,7 +114,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A42C9DC8-6E98-4735-9CFE-EBA974D48EFE",
+    "do_objectID": "3181DAF9-B7D3-423D-9AC4-822200A3DA30",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -137,7 +126,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6C96C4B2-86D1-48EB-AA07-815CB552317E",
+  "symbolID": "466C53F7-5A5F-4982-9728-54E401F550F7",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

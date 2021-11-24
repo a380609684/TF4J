@@ -1,16 +1,8 @@
 {
-  "_class": "symbolMaster",
-  "allowsOverrides": true,
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E63834DF-C8DB-438E-B348-29AD89EBED3B",
+  "do_objectID": "788FF85D-F72A-4039-BFF3-A69CC9DC28F9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,48 +16,48 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 42,
-    "x": -2876,
-    "y": 1906
+    "width": 24,
+    "x": 184,
+    "y": 0
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "Page/Elements/Number备份 7",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "group",
-      "id": "923A5042-A3EE-4BB8-9181-81AFA43BBCAB"
+      "_class": "overrideValue",
+      "overrideName": "E0F9C63A-9A80-402E-B37D-2699A6CDAF26_symbolID",
+      "value": "F801A002-35A8-44E6-879E-EEA7E02421DF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A7D03289-2631-4C9C-9DFC-916ED0FBB6C1_layerStyle",
+      "value": "BC13B8CD-E0EC-4A62-B220-055A8EC178F4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E0F9C63A-9A80-402E-B37D-2699A6CDAF26_fillColor",
+      "value": {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.803921568627451,
+        "green": 0.7803921568627451,
+        "red": 0.7568627450980392,
+        "swatchID": "BDA98E26-6206-4E1B-ADAC-EF5CFC540ECE"
+      }
     }
   ],
-  "name": "02. Navigation 导航/Pagination分页/Elements/输入栏/默认",
-  "nameIsFixed": true,
-  "overrideProperties": [
-  ],
-  "presetDictionary": {
-  },
-  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -100,7 +92,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "483ED832-9C20-4B67-A551-D97F060C2195",
+    "do_objectID": "76CF9985-9F41-4E08-8938-C634B1E79071",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -112,11 +104,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9C791952-C031-49BC-A5B3-3F53EA931C2C",
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "EF439435-C040-4616-B95E-69BC7E1D223C"
 }

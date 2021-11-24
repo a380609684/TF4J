@@ -2,7 +2,7 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0E196C3B-F524-4E12-8FB2-F6FADEBC1D6A",
+  "do_objectID": "8D5F0222-D1ED-404F-BED2-F43AD4084368",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -13,16 +13,16 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 8,
+  "fixedRadius": 4,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 131,
-    "width": 800,
-    "x": 100,
-    "y": 1515
+    "height": 24,
+    "width": 42,
+    "x": 0,
+    "y": 0
   },
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
@@ -31,14 +31,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矩形备份 11",
+  "name": "蒙版",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 4,
       "curveFrom": "{0, 0}",
       "curveMode": 1,
       "curveTo": "{0, 0}",
@@ -48,7 +48,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 4,
       "curveFrom": "{1, 0}",
       "curveMode": 1,
       "curveTo": "{1, 0}",
@@ -58,7 +58,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 4,
       "curveFrom": "{1, 1}",
       "curveMode": 1,
       "curveTo": "{1, 1}",
@@ -68,7 +68,7 @@
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
+      "cornerRadius": 4,
       "curveFrom": "{0, 1}",
       "curveMode": 1,
       "curveTo": "{0, 1}",
@@ -77,7 +77,7 @@
       "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -106,9 +106,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9218466938405797,
-          "green": 0.9218466938405797,
-          "red": 0.9218466938405797
+          "blue": 0.9019607843137255,
+          "green": 0.8823529411764706,
+          "red": 0.8666666666666667,
+          "swatchID": "36948A46-32B4-4AFD-9567-E12ABE0BD2A9"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -165,7 +166,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "C248223F-F230-4F81-8383-F8619DE220DD",
+    "do_objectID": "7B72066E-ABD6-412B-A6B6-26DE3B5EBA9B",
     "endMarkerType": 0,
     "fills": [
       {
