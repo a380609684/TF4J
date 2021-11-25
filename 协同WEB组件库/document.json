@@ -507,7 +507,7 @@
       "do_objectID": "76D473A9-1B07-40E8-A39F-8B9E71E36058",
       "fontFamilyName": "DIN",
       "fontFileName": "DIN-Regular.otf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "DIN-Regular"
       ]
@@ -50320,8 +50320,8 @@
     ]
   },
   "meta": {
-    "appVersion": "79",
-    "build": 133334,
+    "appVersion": "78.1",
+    "build": 131922,
     "version": 136
   },
   "pages": [

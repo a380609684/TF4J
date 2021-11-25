@@ -52,15 +52,15 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "71ADC0C6-CABE-48C9-B716-28AD3E0CDF5E"
+      "id": "6CDD8AB7-092F-4F84-A5BC-13FB53E08D50"
     },
     {
-      "class": "group",
-      "id": "3110E3F4-1BBB-42C1-8AE4-871A4A07A8CA"
+      "class": "rectangle",
+      "id": "08B30EBB-828A-45D0-A910-448E7F13414C"
     },
     {
       "class": "shapeGroup",
-      "id": "A3F8FE5C-D66B-4ED1-B169-495537CF6282"
+      "id": "FF18D477-FECB-4E82-B092-7F18BAA0E458"
     }
   ],
   "name": "01. General 通用/Icon图标/40/zip备份",

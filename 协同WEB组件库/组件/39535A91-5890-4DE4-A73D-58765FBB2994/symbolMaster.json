@@ -52,21 +52,16 @@
   "layers": [
     {
       "class": "group",
-      "id": "28A1AB6F-4B6E-4302-8DA7-43AB5753F6DE"
+      "id": "880AC4F5-327B-4ED6-AAD4-F99D13323344"
     },
     {
       "class": "shapeGroup",
-      "id": "C7F00CE1-802D-4ADA-830C-29D57532794D"
+      "id": "A9716F2D-AF74-46FC-BE04-A06AA6A475F8"
     }
   ],
   "name": "01. General 通用/Icon图标/40/xlsx备份",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "8BFF19CF-F6D9-4693-902D-35BDBE715EF9_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

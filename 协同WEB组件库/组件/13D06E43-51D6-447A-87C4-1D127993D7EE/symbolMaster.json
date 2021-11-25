@@ -51,12 +51,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "6F5D1D01-2CDC-410C-B3E8-0C008124FAF2"
+    },
+    {
       "class": "group",
-      "id": "08882D33-0310-4D40-AA88-FDA8F97D7045"
+      "id": "53F4AB38-5A04-4FDA-A83E-43EB221B0331"
     },
     {
       "class": "shapeGroup",
-      "id": "6F5D1D01-2CDC-410C-B3E8-0C008124FAF2"
+      "id": "B96F0293-9976-4690-8A18-2D433D0B7AB6"
     }
   ],
   "name": "01. General 通用/Icon图标/24/ico_doc_small备份 11",

@@ -51,12 +51,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "C4F47168-2A24-42FE-9ED5-2DEE1982F31F"
+      "class": "rectangle",
+      "id": "7D6A7B14-C5C7-4922-8750-B389B4A79766"
+    },
+    {
+      "class": "rectangle",
+      "id": "6163587B-6FEA-4448-87A8-3C22CF7C0930"
     },
     {
       "class": "shapeGroup",
-      "id": "9D6E902B-1A55-4761-89A2-791B4386FCB9"
+      "id": "E1F590DE-5D77-4C67-89CA-9C9CD8EE9FFC"
     }
   ],
   "name": "01. General 通用/Icon图标/40/xlsx备份 2",
