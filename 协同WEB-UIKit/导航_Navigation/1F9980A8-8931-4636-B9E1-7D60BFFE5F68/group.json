@@ -1,0 +1,184 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1F9980A8-8931-4636-B9E1-7D60BFFE5F68",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 859,
+    "width": 820,
+    "x": 11441,
+    "y": -291
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "98DEC095-28C5-4242-9CE1-B12745B86FF5"
+    },
+    {
+      "class": "group",
+      "id": "500AD0D6-600C-4B0E-9064-BF548941C700"
+    },
+    {
+      "class": "group",
+      "id": "2F7C69DE-930A-4EFA-A18E-6E78B844619F"
+    },
+    {
+      "class": "text",
+      "id": "BD1C6862-4D97-414B-9E64-9C1E4FD415AC"
+    },
+    {
+      "class": "text",
+      "id": "31DAA715-CA4F-472D-84AD-B8A86D555B25"
+    },
+    {
+      "class": "text",
+      "id": "4BB96780-1B6A-404B-B8B8-4D1AB07C6CAE"
+    },
+    {
+      "class": "rectangle",
+      "id": "48228D82-9BDC-436C-A11B-A1C8324E2ECF"
+    },
+    {
+      "class": "group",
+      "id": "9F1CA381-7764-40C7-89F5-A16FDC20AA0D"
+    },
+    {
+      "class": "group",
+      "id": "FE3E7C2A-C855-4FE8-ABEA-AB0C411180CE"
+    },
+    {
+      "class": "group",
+      "id": "F381762C-BC6E-48A3-998E-F9E62DFF972D"
+    },
+    {
+      "class": "rectangle",
+      "id": "65BCB5EB-D0BB-4C49-86BC-26D865E29BF6"
+    },
+    {
+      "class": "group",
+      "id": "749D046E-4BA7-4AD9-876F-EE896ADBEEBA"
+    },
+    {
+      "class": "text",
+      "id": "B26900CE-65B3-4D65-B31D-A099E0130D33"
+    },
+    {
+      "class": "text",
+      "id": "12800C28-0F3E-4C45-A109-87AFBC169786"
+    },
+    {
+      "class": "text",
+      "id": "0BEDC25C-2F59-4CC9-93AE-2337A0A35BC2"
+    },
+    {
+      "class": "text",
+      "id": "9257AAF5-FB2B-4B32-A9C6-9F8CD4590986"
+    },
+    {
+      "class": "text",
+      "id": "7996C9A4-4E29-4537-BFA2-E43D9D0866D5"
+    },
+    {
+      "class": "text",
+      "id": "6383366E-4E9C-43D0-A621-4B147EDA5C49"
+    },
+    {
+      "class": "text",
+      "id": "78883580-8119-4A4B-B378-48DBFF34DD64"
+    },
+    {
+      "class": "text",
+      "id": "453A00AC-6082-4B35-8EDA-5E1FD80381A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "346816CF-6601-4405-8483-7071A1027C1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34074E0D-FFAC-4C7A-B431-39127162A538"
+    },
+    {
+      "class": "rectangle",
+      "id": "BD2FF444-65E1-4FDE-B11F-5BC467C80FB7"
+    },
+    {
+      "class": "group",
+      "id": "61BE2023-7B15-49C9-92EE-BA65FD58CF06"
+    }
+  ],
+  "name": "编组 6",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "3061CEF5-054D-4D7B-8AB7-59184DDE8275",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

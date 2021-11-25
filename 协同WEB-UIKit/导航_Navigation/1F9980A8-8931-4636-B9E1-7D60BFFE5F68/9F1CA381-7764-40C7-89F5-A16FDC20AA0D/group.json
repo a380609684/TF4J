@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CB7CB712-8DE4-437A-AD22-35A977460D0D",
+  "do_objectID": "9F1CA381-7764-40C7-89F5-A16FDC20AA0D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,22 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 32,
+    "width": 229,
+    "x": 24,
+    "y": 111
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -619,
-    "guides": [
-    ]
-  },
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -39,35 +33,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "FED55104-C750-413C-A597-55C47BB47DFC"
+      "class": "text",
+      "id": "93533CA4-4A28-4F0D-9DE7-C59569B9D807"
     },
     {
-      "class": "artboard",
-      "id": "56ACCFEA-C868-4C7C-BAED-5C1A10D62CDF"
-    },
-    {
-      "class": "artboard",
-      "id": "A38CE1FE-73FD-4040-BC88-D6424F815CC2"
-    },
-    {
-      "class": "artboard",
-      "id": "4F609536-2566-4417-9B69-922AA0E8C40C"
-    },
-    {
-      "class": "artboard",
-      "id": "E9907FBF-60BE-4070-86C4-4C4E17A9799F"
-    },
-    {
-      "class": "artboard",
-      "id": "44949002-8A1C-41FF-B6D3-EBED4C8F0645"
-    },
-    {
-      "class": "group",
-      "id": "1F9980A8-8931-4636-B9E1-7D60BFFE5F68"
+      "class": "text",
+      "id": "2D804222-04EF-4F14-9026-0ABE7BC26CB7"
     }
   ],
-  "name": "导航_Navigation",
+  "name": "基础页头内容备份",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -107,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "5C69893E-2A68-40B3-8002-8E3FE331B2C1",
+    "do_objectID": "A4B7DA1E-04A0-4549-AECA-0CC92DA122B0",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -118,11 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -472,
-    "guides": [
-    ]
   }
 }
