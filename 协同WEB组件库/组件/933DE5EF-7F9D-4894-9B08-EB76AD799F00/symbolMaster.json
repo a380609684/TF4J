@@ -52,17 +52,12 @@
   "layers": [
     {
       "class": "group",
-      "id": "2DEE887E-B74F-405C-B0E3-52037BF73B79"
+      "id": "67A967EB-3B81-42B4-9D8F-36F43C46420B"
     }
   ],
   "name": "01. General 通用/Icon图标/40/pdf",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "EDD951F7-50EF-4407-89B7-4CDCA0605990_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

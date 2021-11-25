@@ -52,17 +52,16 @@
   "layers": [
     {
       "class": "group",
-      "id": "A37FCC10-2585-44F8-B120-5E9A99673210"
+      "id": "E9768184-7CAC-4FE1-A96B-B76E316695D4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E5FB35F-22BB-404F-8898-0BA4EB1D5858"
     }
   ],
   "name": "01. General 通用/Icon图标/40/others备份",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "5FC05535-6EBD-46AB-82C6-436103E26468_layerStyle"
-    }
   ],
   "presetDictionary": {
   },

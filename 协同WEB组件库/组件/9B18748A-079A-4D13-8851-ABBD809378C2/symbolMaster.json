@@ -52,17 +52,12 @@
   "layers": [
     {
       "class": "group",
-      "id": "4C419B24-DC3C-42B3-ABE9-3852318D8C88"
+      "id": "D0A1C091-A39B-4F2E-B3C6-057E2CD99C5E"
     }
   ],
   "name": "01. General 通用/Icon图标/40/docx",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "318E6104-79BC-482F-9B69-CEECE63CD512_layerStyle"
-    }
   ],
   "presetDictionary": {
   },
