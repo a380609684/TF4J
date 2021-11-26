@@ -3469,6 +3469,10 @@
     {
       "class": "symbolMaster",
       "id": "9A6AE00A-0224-4274-A184-94D12D8528A3"
+    },
+    {
+      "class": "text",
+      "id": "CF177064-AC94-4EFC-82D5-7678757442FA"
     }
   ],
   "name": "组件",
