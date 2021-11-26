@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D502B8E8-7D99-4D20-B708-E05100170CDF",
+  "do_objectID": "CEB82FFC-9FFE-4E8C-8B6B-6E1B05AA7475",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 152,
-    "x": 100,
-    "y": 1770
+    "height": 20,
+    "width": 44,
+    "x": 489,
+    "y": 995
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,13 +27,18 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "02. Navigation 导航/Pagination分页/小/结合跳转备份 2",
+  "name": "04. Data Display 数据展示/Tag标签/主标签备份 8",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "F99B1147-B2C4-4A34-8F66-D6E41A9B3FB5_symbolID",
-      "value": "E92280B6-E8A2-445C-A482-34FEC2AA36AD"
+      "overrideName": "3C7A198E-4E8C-4FD4-841F-E119A526B9BC_stringValue",
+      "value": "标签一"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CEF4D0AD-9B6A-4C1F-9406-534D2DB41CAF_layerStyle",
+      "value": "58D2C66D-AFB3-4D21-B1E7-53870F4EA808[324FC6A6-B6C3-435E-AF47-169E644A67AF]"
     }
   ],
   "resizingConstraint": 63,
@@ -75,7 +80,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2D95EC94-18B2-40C5-8F7C-3F56909D52A8",
+    "do_objectID": "15F23EE1-41C5-4C37-BB43-E88C226874EB",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,5 +92,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "A6BEFEE1-1E59-4C91-838B-C972350BF591"
+  "symbolID": "DCDA6285-8B5C-4BFE-9634-82F81BF385E6"
 }
