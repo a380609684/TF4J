@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "CA6CB7D5-9317-4A0E-8C87-61BD44DF69C3",
+  "do_objectID": "AFB26AF3-E4E3-465E-B4B6-947C9596F48B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,15 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 250,
-    "width": 761,
-    "x": 100,
-    "y": 975
+    "height": 24,
+    "width": 24,
+    "x": 418,
+    "y": 1197
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -31,65 +27,24 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "01. General 通用/Buttons按钮/02.次按钮/小",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "text",
-      "id": "BE4F3E0C-3268-4F42-90F6-3D928F69DFE4"
+      "_class": "overrideValue",
+      "overrideName": "3F3EC356-4F3B-40A3-A0DE-59252DA70E45_symbolID",
+      "value": "653327E8-8F77-4020-BBA0-FC19E573E86D"
     },
     {
-      "class": "text",
-      "id": "F7022D6C-10A1-4AC2-A1DA-BBA5BD9C9276"
-    },
-    {
-      "class": "text",
-      "id": "A3B99A5F-E93C-4263-8890-E5AEBEDB20F9"
-    },
-    {
-      "class": "text",
-      "id": "09174693-464F-4902-ACC2-EF7805468E3F"
-    },
-    {
-      "class": "text",
-      "id": "06C91AAA-EBE9-448C-9015-272F9D8AFB08"
-    },
-    {
-      "class": "text",
-      "id": "CC2BF8AE-0527-48B6-AB2E-1C435FB4AA42"
-    },
-    {
-      "class": "group",
-      "id": "33377BF4-D827-4BBD-919F-D08C8C0376E4"
-    },
-    {
-      "class": "group",
-      "id": "2200A586-97AC-4F5D-B495-5511664BE51C"
-    },
-    {
-      "class": "group",
-      "id": "EA363FC4-74C4-4BE2-847E-17E513728C7D"
-    },
-    {
-      "class": "group",
-      "id": "CEA91642-2620-444E-8545-2EAFBD7F360C"
-    },
-    {
-      "class": "group",
-      "id": "ECE30900-CCB9-4109-AD21-E68E34B7256A"
-    },
-    {
-      "class": "group",
-      "id": "6C435BE3-941F-4A61-818D-4E0A37D6DC14"
-    },
-    {
-      "class": "bitmap",
-      "id": "FE6302E4-517E-4821-B33D-29DE2DE6EB81"
+      "_class": "overrideValue",
+      "overrideName": "9F051109-893A-4903-8A95-EB27686A800A_layerStyle",
+      "value": "8EC8D7D8-4D98-4A48-B504-C9841D0CC0CC[E977197A-656D-48DD-A98E-4E7B58D4FE05]"
     }
   ],
-  "name": "编组",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -125,7 +80,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "D15AA98C-46BE-4343-ADCB-B5536949B561",
+    "do_objectID": "88A145E6-45F7-497E-A0F4-4F13532743DE",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -136,5 +91,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "48F2D599-C33F-420B-936D-C9579BA41A87"
 }

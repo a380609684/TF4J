@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1927,
+    "height": 2706,
     "width": 1436,
     "x": 7848,
     "y": -1097
@@ -65,12 +65,16 @@
       "id": "0FBAE0B6-9306-4324-ABDF-AA404C99D504"
     },
     {
+      "class": "symbolInstance",
+      "id": "84CFA808-C168-4E29-9F37-AB897597A026"
+    },
+    {
       "class": "group",
       "id": "AE3B42B7-C5BD-490E-A219-71D9088E01A5"
     },
     {
       "class": "group",
-      "id": "CA6CB7D5-9317-4A0E-8C87-61BD44DF69C3"
+      "id": "2F2C395C-2088-4A63-80BA-EEF5A414FDFF"
     },
     {
       "class": "text",
@@ -91,14 +95,6 @@
     {
       "class": "text",
       "id": "2ED10E92-7CD9-414C-B160-CA11F40B8A3E"
-    },
-    {
-      "class": "group",
-      "id": "E0CC8FB5-EB60-4132-9307-E73ECA8B7CB9"
-    },
-    {
-      "class": "rectangle",
-      "id": "E315E901-C331-4A28-A488-F9F97E898D9D"
     },
     {
       "class": "text",
@@ -131,6 +127,10 @@
     {
       "class": "symbolInstance",
       "id": "CDE5ADBF-2B64-409B-AAA9-3FB5BEFE42C3"
+    },
+    {
+      "class": "group",
+      "id": "F4CE54BE-D970-400F-A192-E553086E9B33"
     }
   ],
   "name": "分页Pagination",

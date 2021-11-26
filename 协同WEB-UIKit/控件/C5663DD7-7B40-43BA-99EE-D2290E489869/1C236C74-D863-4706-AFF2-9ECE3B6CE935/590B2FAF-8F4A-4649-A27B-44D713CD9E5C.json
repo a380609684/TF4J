@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4616A16D-42ED-45E7-AC3B-0AEB30B98537",
+  "do_objectID": "590B2FAF-8F4A-4649-A27B-44D713CD9E5C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 466,
-    "x": 169,
-    "y": 1040
+    "height": 12,
+    "width": 12,
+    "x": 10,
+    "y": 10
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,11 +27,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "02. Navigation 导航/Pagination分页/默认/1页备份",
+  "name": "ic_down",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -70,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "282FB5B4-90AF-4B76-BC33-ABD9FF7DB4A2",
+    "do_objectID": "F57428A5-6945-45E7-BF12-99507A0E27A8",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,5 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4AD323B7-1631-4040-A8D1-FA6750559A2F"
+  "symbolID": "A23E6FCF-A6FD-47FA-A894-4193F0875D5D"
 }
