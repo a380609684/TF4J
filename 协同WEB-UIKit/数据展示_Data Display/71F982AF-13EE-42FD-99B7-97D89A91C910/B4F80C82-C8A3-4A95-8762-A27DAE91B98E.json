@@ -8,37 +8,35 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.9,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Semibold",
-              "size": 24
+              "size": 18
             }
           },
           "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "tighteningFactorForTruncation": 0.05
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "allowsDefaultTighteningForTruncation": 0
+          }
         },
-        "length": 3,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Tag"
+    "string": "可操作标签"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "E74ABDA9-5EC4-4BA6-BB34-D287793BDD93",
+  "do_objectID": "B4F80C82-C8A3-4A95-8762-A27DAE91B98E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 43,
-    "x": -164,
-    "y": 5913
+    "height": 25,
+    "width": 90,
+    "x": 100,
+    "y": 1151
   },
-  "glyphBounds": "{{0, 7}, {42, 24}}",
+  "glyphBounds": "{{0, 4}, {90, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,8 +63,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "Tag",
+  "lineSpacingBehaviour": 3,
+  "name": "可操作标签",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -106,7 +104,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "CAD4034A-2C70-4045-B5D3-91EA945B3310",
+    "do_objectID": "6FFF8F12-4E41-43E2-845D-3B63397D5ABE",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -121,26 +119,24 @@
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.9,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PingFangSC-Semibold",
-            "size": 24
+            "size": 18
           }
         },
         "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "tighteningFactorForTruncation": 0.05
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "allowsDefaultTighteningForTruncation": 0
+        }
       },
       "verticalAlignment": 0
     },

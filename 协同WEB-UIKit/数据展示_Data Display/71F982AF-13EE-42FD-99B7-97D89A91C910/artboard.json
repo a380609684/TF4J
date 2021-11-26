@@ -102,6 +102,10 @@
     },
     {
       "class": "text",
+      "id": "B4F80C82-C8A3-4A95-8762-A27DAE91B98E"
+    },
+    {
+      "class": "text",
       "id": "0EF136E1-786B-4E54-B142-99CB6627DD93"
     },
     {
@@ -195,6 +199,22 @@
     {
       "class": "group",
       "id": "F5AFBA18-0FCF-4FBA-A0D7-11DE7F30E329"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03B769DA-E7DC-414E-A703-1C910A30BEAE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F61274A2-72E3-4AEA-8647-326CB4BBEE41"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "149B4887-80A1-4423-AFEF-F9E8C3E120A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A082A08-F934-4493-878B-442BD0FB62CB"
     }
   ],
   "name": "标签Tag",

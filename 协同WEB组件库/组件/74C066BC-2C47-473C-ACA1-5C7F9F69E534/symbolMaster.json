@@ -25,8 +25,8 @@
     "constrainProportions": false,
     "height": 24,
     "width": 58,
-    "x": -51,
-    "y": 6038
+    "x": -301,
+    "y": 232
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -36,7 +36,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -70,7 +70,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "056FF89D-673B-4829-BDA4-CDFAD254B093_textStyle"
+      "overrideName": "F5C9D60F-22F2-4FED-A83E-CAF569323E74_layerStyle"
     }
   ],
   "presetDictionary": {
