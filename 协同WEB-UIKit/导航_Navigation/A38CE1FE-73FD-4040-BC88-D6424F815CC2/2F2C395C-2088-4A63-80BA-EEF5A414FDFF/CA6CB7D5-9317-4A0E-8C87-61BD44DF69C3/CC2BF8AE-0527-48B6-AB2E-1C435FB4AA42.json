@@ -62,11 +62,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 34,
+        "length": 31,
         "location": 4
       }
     ],
-    "string": "翻页导航，用于前后页之间的导航，当无上一页/下一页时不可用，呈禁用状态，如："
+    "string": "翻页导航，用于前后页之间的导航，当无上一页/下一页时不可用，呈禁用状态"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -86,11 +86,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 450,
+    "width": 414,
     "x": 24,
     "y": 126
   },
-  "glyphBounds": "{{0, 5}, {442, 12}}",
+  "glyphBounds": "{{0, 5}, {414, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

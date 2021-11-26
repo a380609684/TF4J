@@ -39,6 +39,11 @@
       "_class": "overrideValue",
       "overrideName": "E01C723B-FD34-4C71-8A40-9C86DC7E40B9_stringValue",
       "value": "分页"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4B2B6FFB-0F78-42FF-B6BB-F5762E761161_layerStyle",
+      "value": "7CA1DAFF-EA91-46E3-8A01-EF4DF5077ED8[E1ED6212-2554-427E-B0FA-77FE801BF2E8]"
     }
   ],
   "resizingConstraint": 63,

@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -79,10 +79,6 @@
     {
       "class": "group",
       "id": "6C435BE3-941F-4A61-818D-4E0A37D6DC14"
-    },
-    {
-      "class": "bitmap",
-      "id": "FE6302E4-517E-4821-B33D-29DE2DE6EB81"
     }
   ],
   "name": "编组",
