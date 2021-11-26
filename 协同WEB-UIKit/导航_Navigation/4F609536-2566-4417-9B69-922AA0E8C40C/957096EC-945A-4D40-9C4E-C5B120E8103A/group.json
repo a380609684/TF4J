@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3EAE837D-AAF8-489A-A13B-7C17AD82BAE6",
+  "do_objectID": "957096EC-945A-4D40-9C4E-C5B120E8103A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +15,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 152,
-    "x": 100,
-    "y": 1671
+    "height": 32,
+    "width": 168,
+    "x": 124,
+    "y": 1118
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -27,19 +31,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "02. Navigation 导航/Pagination分页/小/结合跳转备份",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "F99B1147-B2C4-4A34-8F66-D6E41A9B3FB5/762295AB-F80E-43EC-B271-0B7F91C8C4B0_layerStyle",
-      "value": "7AB6EAC6-6A0C-4C7B-A868-FA34A1117C87"
+      "class": "text",
+      "id": "7447241A-EBC2-4561-B1DF-721AE0276D30"
+    },
+    {
+      "class": "text",
+      "id": "2A8E5734-93B8-4940-B8C9-E78D77B32E15"
     }
   ],
+  "name": "基础页头内容备份",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -75,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B5EA5214-FBE2-433E-A5E7-66C3C7193604",
+    "do_objectID": "22B94BA9-4E23-44EE-B0FF-9BD5900BFE1F",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -86,6 +92,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "A6BEFEE1-1E59-4C91-838B-C972350BF591"
+  }
 }
