@@ -51,22 +51,13 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "35608A82-25A5-4890-AF12-0196A3CB2001"
-    },
-    {
       "class": "group",
-      "id": "1F0B6318-83BE-4197-B6AA-8184EEF4D771"
+      "id": "E8D677DC-12A8-44AE-A381-634C756FF6B8"
     }
   ],
   "name": "01. General 通用/Icon图标/40/video备份",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "9A9529E8-3663-442D-8BA7-F5AD79B2414B_layerStyle"
-    }
   ],
   "presetDictionary": {
   },
