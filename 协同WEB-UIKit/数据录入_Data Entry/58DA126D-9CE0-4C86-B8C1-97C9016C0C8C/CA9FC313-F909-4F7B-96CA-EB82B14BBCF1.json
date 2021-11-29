@@ -18,7 +18,7 @@
     "height": 22,
     "width": 52,
     "x": 402,
-    "y": 2200
+    "y": 2315
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -32,7 +32,7 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "7048C9A9-8838-483A-92B8-4AB269FB0E4E_symbolID",
+      "overrideName": "04BC4C41-27BA-4974-882D-A090A184363A_symbolID",
       "value": "2E2ED059-D3C9-4BBE-8616-DF6124D5E978"
     }
   ],
@@ -87,5 +87,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5B9478E7-D29C-4CAF-B118-0EA7FE69B05E"
+  "symbolID": "37628BA5-E77B-4912-AA8A-7B62D85F7B87"
 }
