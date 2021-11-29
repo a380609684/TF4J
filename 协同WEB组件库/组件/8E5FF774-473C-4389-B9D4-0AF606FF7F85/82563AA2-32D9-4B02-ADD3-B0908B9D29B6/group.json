@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1CFE225C-7650-4A1A-BEF7-605F6A9AB48A",
+  "do_objectID": "82563AA2-32D9-4B02-ADD3-B0908B9D29B6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +15,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": 124,
-    "y": 746
+    "height": 22,
+    "width": 52,
+    "x": 12,
+    "y": 4
   },
+  "groupLayout": {
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -27,14 +35,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "04. Data Display 数据展示/Checkbox多选框/未选择",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3E037BBC-F588-462F-9FF6-AC148FD9DEC6"
+    },
+    {
+      "class": "text",
+      "id": "D0C857AF-A406-4C79-9957-4B31F6D86B52"
+    }
   ],
-  "resizingConstraint": 63,
+  "name": "编组 21",
+  "nameIsFixed": false,
+  "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -70,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E3040C69-E723-4A00-A10A-9E2A798CE7BF",
+    "do_objectID": "EBADAABB-1814-4821-8E8E-AFEC9499C8D7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -81,6 +96,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "C201C4D0-9185-4CB9-BE91-7FE004D79EEF"
+  }
 }

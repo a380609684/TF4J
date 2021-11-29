@@ -2,8 +2,8 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F86A783B-8120-4A25-A680-42E446D8F14C",
-  "edited": true,
+  "do_objectID": "20A8AE0C-310A-423E-83FC-39FD91E62EA1",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,12 +13,12 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 8,
+  "fixedRadius": 2,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 72,
-    "width": 104,
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
     "x": 0,
     "y": 0
   },
@@ -31,56 +31,55 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矩形",
+  "name": "矩形备份 4",
   "nameIsFixed": false,
   "needsConvertionToNewRoundCorners": false,
   "pointRadiusBehaviour": 1,
   "points": [
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
-      "curveFrom": "{-2.1684043449710094e-16, 0}",
+      "cornerRadius": 2,
+      "curveFrom": "{0, 0}",
       "curveMode": 1,
-      "curveTo": "{-2.1684043449710094e-16, 0}",
+      "curveTo": "{0, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{-2.1684043449710094e-16, 0}"
+      "point": "{0, 0}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
-      "curveFrom": "{1.0000000000000007, 0}",
+      "cornerRadius": 2,
+      "curveFrom": "{1, 0}",
       "curveMode": 1,
-      "curveTo": "{1.0000000000000007, 0}",
+      "curveTo": "{1, 0}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.0000000000000007, 0}"
+      "point": "{1, 0}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
-      "curveFrom": "{1.0000000000000007, 1.0000000000000007}",
+      "cornerRadius": 2,
+      "curveFrom": "{1, 1}",
       "curveMode": 1,
-      "curveTo": "{1.0000000000000007, 1.0000000000000007}",
+      "curveTo": "{1, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{1.0000000000000007, 1.0000000000000007}"
+      "point": "{1, 1}"
     },
     {
       "_class": "curvePoint",
-      "cornerRadius": 8,
-      "curveFrom": "{-2.2204460492503136e-16, 1.0000000000000007}",
+      "cornerRadius": 2,
+      "curveFrom": "{0, 1}",
       "curveMode": 1,
-      "curveTo": "{-2.2204460492503136e-16, 1.0000000000000007}",
+      "curveTo": "{0, 1}",
       "hasCurveFrom": false,
       "hasCurveTo": false,
-      "point": "{-2.2204460492503136e-16, 1.0000000000000007}"
+      "point": "{0, 1}"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 57,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "29E9F2D3-26EE-40FF-B915-FF5DC9B910DC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -107,9 +106,10 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8784313725490196,
-          "green": 0.8509803921568627,
-          "red": 0.8352941176470589
+          "blue": 1,
+          "green": 0.5176470588235293,
+          "red": 0.3411764705882353,
+          "swatchID": "A3A78037-B34D-45AF-9F4F-3AF7413FFCCF"
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -148,9 +148,9 @@
           ],
           "to": "{0.5, 1}"
         },
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
-        "thickness": 1
+        "thickness": 2
       }
     ],
     "colorControls": {
@@ -166,7 +166,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "43F8F05D-94F5-4B1D-96AC-24EAB4B2D4CD",
+    "do_objectID": "E0DB52A4-6216-438C-B568-0D8CEC212C14",
     "endMarkerType": 0,
     "fills": [
       {
@@ -226,68 +226,35 @@
     ],
     "miterLimit": 10,
     "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 28,
-        "color": {
-          "_class": "color",
-          "alpha": 0.05,
-          "blue": 0.1647058823529412,
-          "green": 0.1529411764705882,
-          "red": 0.1294117647058823
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 9,
-        "spread": 8
-      },
-      {
-        "_class": "shadow",
-        "blurRadius": 16,
-        "color": {
-          "_class": "color",
-          "alpha": 0.1,
-          "blue": 0.1647058823529412,
-          "green": 0.1529411764705882,
-          "red": 0.1294117647058823
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 6,
-        "spread": 0
-      },
-      {
-        "_class": "shadow",
-        "blurRadius": 6,
-        "color": {
-          "_class": "color",
-          "alpha": 0.14,
-          "blue": 0.1647058823529412,
-          "green": 0.1529411764705882,
-          "red": 0.1294117647058823
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 3,
-        "spread": -4
-      }
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 14,
+            "enabled": 1,
+            "modelID": "constraint_a0b4ac6f-762d-47ff-833e-ad1551ec86d0",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 14
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_949c537d-57b6-42cd-93cb-41b8d2ad04ff",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    },
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "5EBB5D54-4633-4ED7-9386-B39EC5248E17",
+        "sharedStyleName": "07.边框/01.默认"
+      }
+    }
   }
 }

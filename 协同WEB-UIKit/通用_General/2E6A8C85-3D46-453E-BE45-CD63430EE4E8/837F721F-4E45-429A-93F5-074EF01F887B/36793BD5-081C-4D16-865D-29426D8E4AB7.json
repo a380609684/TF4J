@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7AD70A63-56E4-4173-8FB3-C5E4FC38D043",
+  "do_objectID": "36793BD5-081C-4D16-865D-29426D8E4AB7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,15 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 72,
-    "width": 104,
-    "x": 824,
-    "y": 1984
+    "height": 32,
+    "width": 80,
+    "x": 4.000000000000227,
+    "y": 4
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -31,25 +27,29 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "03. Data Entry 数据录入/Selection 选项/图标类/默认",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "F86A783B-8120-4A25-A680-42E446D8F14C"
+      "_class": "overrideValue",
+      "overrideName": "3E037BBC-F588-462F-9FF6-AC148FD9DEC6_symbolID",
+      "value": ""
     },
     {
-      "class": "symbolInstance",
-      "id": "46DF635E-2DE9-4DD7-8D51-3B2423719F41"
+      "_class": "overrideValue",
+      "overrideName": "D0C857AF-A406-4C79-9957-4B31F6D86B52_stringValue",
+      "value": "收藏"
     },
     {
-      "class": "symbolInstance",
-      "id": "F3D7CA48-8065-4C7A-B9C5-3DC1D71E8EEF"
+      "_class": "overrideValue",
+      "overrideName": "3A43B7E7-C1EE-42CF-A3ED-CE03C7071ED7_layerStyle",
+      "value": "EDC9F6E9-68AB-434B-B5C4-C5A1824FA2F9"
     }
   ],
-  "name": "编组 5备份",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -85,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B2C61C6D-84A9-40B7-BFBB-6BF4A26BDA40",
+    "do_objectID": "B4180790-9E18-40F9-AB00-7FC9C3F69C20",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -96,5 +96,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "CC2FD7B3-D48B-4BA2-8620-B8793D208C78"
 }

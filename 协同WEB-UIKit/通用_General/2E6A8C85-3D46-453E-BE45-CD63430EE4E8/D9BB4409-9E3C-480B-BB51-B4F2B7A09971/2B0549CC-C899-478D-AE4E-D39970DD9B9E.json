@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "67A654D8-D938-4946-B89A-36EF84B0DAB0",
+  "do_objectID": "2B0549CC-C899-478D-AE4E-D39970DD9B9E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 80,
+    "width": 96,
     "x": 4.000000000000227,
     "y": 4
   },
@@ -32,12 +32,17 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "E50C270F-55F8-41FD-AD52-B87FB29D7763_stringValue",
+      "overrideName": "3E037BBC-F588-462F-9FF6-AC148FD9DEC6_symbolID",
+      "value": "18C3531B-4240-4FF2-AA28-A33457E1DE08"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D0C857AF-A406-4C79-9957-4B31F6D86B52_stringValue",
       "value": "收藏"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "D7E81511-943E-4FB0-817D-698AD0A0CDD7_layerStyle",
+      "overrideName": "3A43B7E7-C1EE-42CF-A3ED-CE03C7071ED7_layerStyle",
       "value": "EDC9F6E9-68AB-434B-B5C4-C5A1824FA2F9"
     }
   ],
@@ -80,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "0616D438-7028-4C3F-BB31-7B84EAC4BB0A",
+    "do_objectID": "F3CBC3E8-0339-4CFF-80D5-D65676F2E9DA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +97,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CF44AB78-3467-457B-A438-6D00C58EB1D4"
+  "symbolID": "CC2FD7B3-D48B-4BA2-8620-B8793D208C78"
 }

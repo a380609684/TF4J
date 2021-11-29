@@ -1,9 +1,8 @@
 {
-  "_class": "rectangle",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E48E5FC9-78C2-448B-BA87-61879F6B6A24",
-  "edited": false,
+  "do_objectID": "3E037BBC-F588-462F-9FF6-AC148FD9DEC6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,74 +12,29 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 1,
+    "height": 16,
+    "width": 16,
     "x": 0,
-    "y": 0
+    "y": 4
   },
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
-  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矩形",
+  "name": "01. General 通用/Icon图标/16/014.设置",
   "nameIsFixed": false,
-  "needsConvertionToNewRoundCorners": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
-    }
+  "overrideValues": [
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "B8588065-7E99-43C5-82F6-A4119F96DDAC",
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -116,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "68AAE483-350D-47E8-8AF2-BA5DAD3D4315",
+    "do_objectID": "E76BDE6B-F623-43B3-B9DE-643FD008A6C9",
     "endMarkerType": 0,
     "fills": [
       {
@@ -124,10 +78,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2470588235294118,
-          "green": 0.2274509803921569,
-          "red": 0.203921568627451,
-          "swatchID": "19C16166-31AC-43F7-A371-7C1BFCB45CF6"
+          "blue": 0.3450980392156863,
+          "green": 0.3254901960784314,
+          "red": 0.3019607843137255
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -180,5 +133,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "97E9E9D9-4317-4507-BBEC-4210B158F283"
 }
