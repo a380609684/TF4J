@@ -1,0 +1,108 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "ADC4B9F8-273C-4D3C-B574-42C0E07CF16E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 82,
+    "x": 2067,
+    "y": 840
+  },
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "04. Data Display 数据展示/Tag标签/添加标签",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B97877AE-0949-433C-885E-780BE53373FA_layerStyle",
+      "value": "8EC8D7D8-4D98-4A48-B504-C9841D0CC0CC[E977197A-656D-48DD-A98E-4E7B58D4FE05]"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B33DD27C-4C35-43C1-A962-480D506EEC9B_fillColor",
+      "value": {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2470588235294118,
+        "green": 0.2274509803921569,
+        "red": 0.203921568627451,
+        "swatchID": "9E045C4B-53F5-4054-8031-FB64888C4E1A"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B33DD27C-4C35-43C1-A962-480D506EEC9B_symbolID",
+      "value": "653327E8-8F77-4020-BBA0-FC19E573E86D"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "ECA7F508-A4B7-42B5-A3A7-5BCBABB33ED7",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1B58BCB0-7E0D-4054-A329-2BAB9CEED4AF"
+}

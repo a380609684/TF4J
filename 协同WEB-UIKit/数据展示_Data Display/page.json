@@ -89,6 +89,10 @@
     {
       "class": "artboard",
       "id": "71F982AF-13EE-42FD-99B7-97D89A91C910"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ADC4B9F8-273C-4D3C-B574-42C0E07CF16E"
     }
   ],
   "name": "数据展示_Data Display",
