@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -62,21 +62,6 @@
   "name": "04. Data Display 数据展示/Checkbox多选框/已选择",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": false,
-      "overrideName": "B737439E-9D51-41C3-BA93-C934BCD463F6_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B737439E-9D51-41C3-BA93-C934BCD463F6/1FFB6A85-7ED0-415F-A40E-978182B21BAA_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "B737439E-9D51-41C3-BA93-C934BCD463F6_fillColor"
-    }
   ],
   "presetDictionary": {
   },

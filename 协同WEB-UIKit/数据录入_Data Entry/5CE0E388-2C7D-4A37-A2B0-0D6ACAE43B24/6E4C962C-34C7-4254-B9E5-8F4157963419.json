@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E052DBD9-A778-45C1-B356-47BA9C141458",
+  "do_objectID": "6E4C962C-34C7-4254-B9E5-8F4157963419",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 20,
-    "x": 334,
-    "y": 1702
+    "height": 22,
+    "width": 66,
+    "x": 288,
+    "y": 1049
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,9 +27,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "03. Data Entry 数据录入/Radio 单选框/Icon/未选中备份 2",
+  "name": "04. Data Display 数据展示/Checkbox多选框/带文字备份 5",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "29DE7280-D1D1-47FA-91EA-90E6AC01B57C_stringValue",
+      "value": "选项三"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -70,7 +75,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "FFE2D362-A1FB-4D39-822B-3FB04BC712D7",
+    "do_objectID": "45D87704-0B9D-490D-BA81-4FB01990CCC7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,5 +87,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "862D5233-0CEE-4623-A941-E649A67981E4"
+  "symbolID": "5B9478E7-D29C-4CAF-B118-0EA7FE69B05E"
 }

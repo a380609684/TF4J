@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9220781B-868D-4D85-823B-C955FA277C09",
+  "do_objectID": "C97C341A-C903-41CB-94CF-C1A988F87848",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
-    "width": 20,
-    "x": 254,
-    "y": 1702
+    "height": 22,
+    "width": 54,
+    "x": 252,
+    "y": 1685
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,9 +27,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "03. Data Entry 数据录入/Radio 单选框/Icon/未选中备份",
+  "name": "03. Data Entry 数据录入/Radio 单选框/Icon/未选中备份 4",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9A6B01FE-5499-4C05-AA7A-8645B3D98488_stringValue",
+      "value": "苹果"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -70,7 +75,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "CF1807F4-27C7-43E0-A2E7-351EAA5CA6C9",
+    "do_objectID": "730AAC57-7956-4DB2-A6E0-7CA04C6ADB96",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,5 +87,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0E35CA8E-A0BA-4F46-896E-1D6C594BA6A1"
+  "symbolID": "B67C37FB-B261-467A-9025-8E08318BEC43"
 }

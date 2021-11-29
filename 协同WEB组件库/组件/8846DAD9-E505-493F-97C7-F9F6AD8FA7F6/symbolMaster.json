@@ -26,7 +26,7 @@
     "height": 22,
     "width": 54,
     "x": -2232,
-    "y": 3905
+    "y": 3868
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -36,7 +36,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,12 +59,8 @@
       "id": "B0C1BC5C-639A-4438-8519-E2239C4F0EDC"
     },
     {
-      "class": "oval",
-      "id": "DB5F16FE-D043-4F10-9E23-30AF8588A80D"
-    },
-    {
-      "class": "oval",
-      "id": "B156E26A-E355-40DC-A3A3-561146238ABC"
+      "class": "symbolInstance",
+      "id": "00678458-DB1C-4383-982B-A68D25C87430"
     }
   ],
   "name": "03. Data Entry 数据录入/Radio 单选框/Icon/已选中不可用带文字",
@@ -73,7 +69,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "B156E26A-E355-40DC-A3A3-561146238ABC_layerStyle"
+      "overrideName": "00678458-DB1C-4383-982B-A68D25C87430_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",

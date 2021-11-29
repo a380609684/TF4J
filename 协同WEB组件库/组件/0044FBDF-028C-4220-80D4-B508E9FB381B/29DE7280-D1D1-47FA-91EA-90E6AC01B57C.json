@@ -9,10 +9,10 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1647058823529412,
-            "green": 0.1529411764705882,
-            "red": 0.1294117647058823,
-            "swatchID": "8A9369E0-2BC2-40D9-932D-69F01BAA12D0"
+            "blue": 0.803921568627451,
+            "green": 0.7803921568627451,
+            "red": 0.7568627450980392,
+            "swatchID": "BDA98E26-6206-4E1B-ADAC-EF5CFC540ECE"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -26,7 +26,8 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "minimumLineHeight": 22,
+            "tighteningFactorForTruncation": 0.05
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -34,12 +35,12 @@
         "location": 0
       }
     ],
-    "string": "香梨"
+    "string": "选项"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D7904C6F-F67B-4ED7-85AD-9DB85A5919EE",
+  "do_objectID": "29DE7280-D1D1-47FA-91EA-90E6AC01B57C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -55,10 +56,10 @@
     "constrainProportions": false,
     "height": 22,
     "width": 28,
-    "x": 362,
-    "y": 1701
+    "x": 24,
+    "y": -2
   },
-  "glyphBounds": "{{0, 5}, {28, 14}}",
+  "glyphBounds": "{{0, 5}, {28, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,12 +68,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "香梨",
+  "name": "选项",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E6F5A858-BAA3-4F28-A84C-402DBC30A7B0[8ED750A7-FB62-4F6D-9FAC-E11C668119BC]",
+  "sharedStyleID": "6CE2904F-4905-425A-B3B3-EA7BBA75FDFB",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -108,7 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "87738AF2-F439-4369-93AC-702CE891C3E5",
+    "do_objectID": "E64E00AA-7B98-4109-9C1A-100F1F1E7190",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -124,10 +125,10 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1647058823529412,
-          "green": 0.1529411764705882,
-          "red": 0.1294117647058823,
-          "swatchID": "8A9369E0-2BC2-40D9-932D-69F01BAA12D0"
+          "blue": 0.803921568627451,
+          "green": 0.7803921568627451,
+          "red": 0.7568627450980392,
+          "swatchID": "BDA98E26-6206-4E1B-ADAC-EF5CFC540ECE"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -141,7 +142,8 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "minimumLineHeight": 22,
+          "tighteningFactorForTruncation": 0.05
         },
         "textStyleVerticalAlignmentKey": 0
       },
