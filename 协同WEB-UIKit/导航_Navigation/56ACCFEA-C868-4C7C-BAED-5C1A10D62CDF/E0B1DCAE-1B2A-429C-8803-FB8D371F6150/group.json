@@ -49,12 +49,16 @@
       "id": "C2E763FD-3FAF-484D-8BE7-32C895087C8C"
     },
     {
-      "class": "symbolInstance",
-      "id": "2628AF1D-E0DE-4B9E-AA6E-1469E396F3C4"
+      "class": "text",
+      "id": "A59D70C0-71F9-4107-960E-19E19B1E38F0"
     },
     {
       "class": "group",
-      "id": "765E03FF-28AC-40B6-83CD-A4BC41588933"
+      "id": "E1F655F8-B16B-48D7-BD9E-FF2719235D5E"
+    },
+    {
+      "class": "group",
+      "id": "8B00C4FE-0D44-4683-AF6B-1FF50B77F8CE"
     }
   ],
   "name": "编组 3",
