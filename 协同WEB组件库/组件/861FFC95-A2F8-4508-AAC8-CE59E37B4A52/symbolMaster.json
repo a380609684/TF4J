@@ -28,6 +28,12 @@
     "x": 910,
     "y": 84
   },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
     "axis": 0,
@@ -65,7 +71,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "9E81D8F5-7051-4888-83FD-5885D580F6E3_layerStyle"
+      "overrideName": "4381DC7F-40E8-46A8-BA97-F1432D0D8CE1_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -75,7 +81,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "4381DC7F-40E8-46A8-BA97-F1432D0D8CE1_stringValue"
+      "overrideName": "9E81D8F5-7051-4888-83FD-5885D580F6E3_layerStyle"
     }
   ],
   "presetDictionary": {

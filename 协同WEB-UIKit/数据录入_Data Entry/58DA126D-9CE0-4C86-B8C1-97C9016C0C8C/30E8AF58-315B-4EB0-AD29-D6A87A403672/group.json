@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 212,
+    "height": 228,
     "width": 280,
     "x": 122,
     "y": 1139
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -49,12 +49,8 @@
       "id": "E62FF480-2317-4452-AB6B-E597D64A90E4"
     },
     {
-      "class": "symbolInstance",
-      "id": "FA9E3259-2B00-4164-8A74-D13F7C839D36"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E340A72C-8C61-40A2-8B80-B328D3CBC7ED"
+      "class": "group",
+      "id": "71A38931-CC84-4BA6-B8E3-6A835765A381"
     }
   ],
   "name": "编组备份",

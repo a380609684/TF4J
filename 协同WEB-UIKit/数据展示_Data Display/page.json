@@ -85,6 +85,10 @@
     {
       "class": "rectangle",
       "id": "A0DCD16D-B37A-4F2D-ACBE-A01588315102"
+    },
+    {
+      "class": "artboard",
+      "id": "71F982AF-13EE-42FD-99B7-97D89A91C910"
     }
   ],
   "name": "数据展示_Data Display",

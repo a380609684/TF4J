@@ -18,8 +18,8 @@
     "constrainProportions": true,
     "height": 18,
     "width": 18,
-    "x": 1,
-    "y": 1
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -77,7 +77,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "1A2DAC96-9800-4D52-A854-306DFF06E314",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -227,5 +226,13 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "1A2DAC96-9800-4D52-A854-306DFF06E314",
+        "sharedStyleName": "07.边框/06.不可用"
+      }
+    }
   }
 }

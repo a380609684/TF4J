@@ -18,8 +18,8 @@
     "constrainProportions": true,
     "height": 18,
     "width": 18,
-    "x": 1,
-    "y": 1
+    "x": 0,
+    "y": 0
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -77,7 +77,6 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "5EBB5D54-4633-4ED7-9386-B39EC5248E17",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -104,10 +103,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.803921568627451,
-          "green": 0.7803921568627451,
-          "red": 0.7568627450980392,
-          "swatchID": "BDA98E26-6206-4E1B-ADAC-EF5CFC540ECE"
+          "blue": 0.86,
+          "green": 0.841491304347826,
+          "red": 0.8263478260869566
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",
@@ -227,5 +225,13 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.sketch.detach": {
+      "sharedStyle": {
+        "sharedStyleId": "5EBB5D54-4633-4ED7-9386-B39EC5248E17",
+        "sharedStyleName": "07.边框/01.默认"
+      }
+    }
   }
 }
