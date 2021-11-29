@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -55,13 +55,13 @@
       "id": "039BDBAD-7A37-4FAD-BA01-88465782E8D8"
     }
   ],
-  "name": "01. General 通用/Icon图标/16/148.企业联盟备份",
+  "name": "01. General 通用/Icon图标/16/148.企业联盟",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "00542A0E-AE9B-4398-87D0-DFB9EF1E9ACD_layerStyle"
+      "overrideName": "039BDBAD-7A37-4FAD-BA01-88465782E8D8_layerStyle"
     }
   ],
   "presetDictionary": {
