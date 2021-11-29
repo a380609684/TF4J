@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "点击后退10页"
+    "string": "后退后"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 73,
+    "width": 36,
     "x": 100,
     "y": 2494
   },
-  "glyphBounds": "{{0, 5}, {72, 12}}",
+  "glyphBounds": "{{0, 5}, {36, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "点击后退10页",
+  "name": "后退后",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

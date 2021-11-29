@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "另一截断符号hover"
+    "string": "hover显示后退10页"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -59,7 +59,7 @@
     "x": 100,
     "y": 2300
   },
-  "glyphBounds": "{{0, 5}, {103, 12}}",
+  "glyphBounds": "{{0, 5}, {102, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "另一截断符号hover",
+  "name": "hover显示后退10页",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

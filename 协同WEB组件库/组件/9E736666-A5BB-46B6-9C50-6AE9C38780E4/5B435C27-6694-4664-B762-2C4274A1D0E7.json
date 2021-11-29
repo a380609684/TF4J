@@ -9,10 +9,10 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.803921568627451,
-            "green": 0.7803921568627451,
-            "red": 0.7568627450980392,
-            "swatchID": "BDA98E26-6206-4E1B-ADAC-EF5CFC540ECE"
+            "blue": 0.1647058823529412,
+            "green": 0.1529411764705882,
+            "red": 0.1294117647058823,
+            "swatchID": "F7E9285E-1081-4BA2-B82F-6509397B6801"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -26,8 +26,7 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 22,
-            "minimumLineHeight": 22,
-            "tighteningFactorForTruncation": 0.05
+            "minimumLineHeight": 22
           },
           "textStyleVerticalAlignmentKey": 0
         },
@@ -73,7 +72,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "6CE2904F-4905-425A-B3B3-EA7BBA75FDFB",
+  "sharedStyleID": "8ED750A7-FB62-4F6D-9FAC-E11C668119BC",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -125,10 +124,10 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.803921568627451,
-          "green": 0.7803921568627451,
-          "red": 0.7568627450980392,
-          "swatchID": "BDA98E26-6206-4E1B-ADAC-EF5CFC540ECE"
+          "blue": 0.1647058823529412,
+          "green": 0.1529411764705882,
+          "red": 0.1294117647058823,
+          "swatchID": "F7E9285E-1081-4BA2-B82F-6509397B6801"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -142,8 +141,7 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 22,
-          "minimumLineHeight": 22,
-          "tighteningFactorForTruncation": 0.05
+          "minimumLineHeight": 22
         },
         "textStyleVerticalAlignmentKey": 0
       },

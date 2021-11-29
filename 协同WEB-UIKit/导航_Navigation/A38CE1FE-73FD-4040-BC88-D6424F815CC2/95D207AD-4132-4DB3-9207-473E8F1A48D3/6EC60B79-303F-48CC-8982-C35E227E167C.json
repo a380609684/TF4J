@@ -1,8 +1,8 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DF00BBE5-26AD-4AD0-813A-CAAE0ED06E8A",
+  "do_objectID": "6EC60B79-303F-48CC-8982-C35E227E167C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,37 +15,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 140,
-    "width": 700,
-    "x": 100,
-    "y": 2524
+    "height": 32,
+    "width": 629,
+    "x": 47,
+    "y": 92
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
+  "layerListExpandedType": 0,
+  "name": "02. Navigation 导航/Pagination分页/默认/1页跳转",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "643D26DA-2F7C-40EA-A510-9A107ECB062E"
+      "_class": "overrideValue",
+      "overrideName": "BF042BE6-7011-4729-B723-6D2283353041/0DCADA7C-F919-4C36-ACAC-1A80F0A08C07/376004CC-E95F-4FF7-807C-AC50DF56F7E5_stringValue",
+      "value": " "
     },
     {
-      "class": "rectangle",
-      "id": "ADC9FCFC-5AB0-4AD5-AB6E-876EE1ADBCD0"
+      "_class": "overrideValue",
+      "overrideName": "8D888656-C64A-4565-AB6C-33ABEFD81D67/7DFE535A-4FEF-462A-8650-151A9AA9CDF8_layerStyle",
+      "value": "26288F62-98E0-4A18-A344-09883F8AC909"
     }
   ],
-  "name": "编组 4备份 6",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -81,7 +80,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "DE7EDC5C-CCB2-4449-B831-28A20EB4038F",
+    "do_objectID": "C3DC1E42-77D9-4526-821A-2FBF36BA173D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +91,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "B3B733A0-0F9A-445F-8EEF-0B0D766484CB"
 }
