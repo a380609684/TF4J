@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 20,
+    "height": 18,
     "width": 96,
     "x": 841,
-    "y": 26
+    "y": 27
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -36,7 +36,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -65,17 +65,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "EEBFF28B-53C1-431D-BDFA-ABD8EF25C3B2_textStyle"
+      "overrideName": "EEBFF28B-53C1-431D-BDFA-ABD8EF25C3B2_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "031DB78F-26A3-4334-ABCB-8F49562CFA72_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "EEBFF28B-53C1-431D-BDFA-ABD8EF25C3B2_stringValue"
     }
   ],
   "presetDictionary": {

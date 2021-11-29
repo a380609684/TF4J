@@ -36,7 +36,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -80,11 +80,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "04BC4C41-27BA-4974-882D-A090A184363A_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "04BC4C41-27BA-4974-882D-A090A184363A/BE5B60D9-C8BA-4EDA-A491-747C561AA4C5_layerStyle"
     }
   ],
   "presetDictionary": {

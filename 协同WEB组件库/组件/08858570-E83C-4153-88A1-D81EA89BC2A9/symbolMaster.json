@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,7 +59,7 @@
       "id": "6295F89F-1E3F-4E61-922C-56BA8067F8D7"
     }
   ],
-  "name": "01. General 通用/Icon图标/16/146.PC",
+  "name": "01. General 通用/Icon图标/16/149.PC",
   "nameIsFixed": true,
   "overrideProperties": [
   ],

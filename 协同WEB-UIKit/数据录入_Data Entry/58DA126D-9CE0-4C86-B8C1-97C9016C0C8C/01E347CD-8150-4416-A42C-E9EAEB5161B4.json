@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E340A72C-8C61-40A2-8B80-B328D3CBC7ED",
+  "do_objectID": "01E347CD-8150-4416-A42C-E9EAEB5161B4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 60,
-    "x": 76,
-    "y": 180
+    "height": 22,
+    "width": 54,
+    "x": 408,
+    "y": 1685
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,18 +27,18 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "01. General 通用/Buttons按钮/01.主按钮/默认备份 4",
+  "name": "03. Data Entry 数据录入/Radio 单选框/Icon/未选中备份 6",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "30E12318-E593-4FE3-BAEB-AE9073FBDE9D_symbolID",
-      "value": ""
+      "overrideName": "B0C1BC5C-639A-4438-8519-E2239C4F0EDC_stringValue",
+      "value": "榴莲"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "F90A3D17-EF44-4867-ACC0-AB02A362EBA7_stringValue",
-      "value": "取消"
+      "overrideName": "00678458-DB1C-4383-982B-A68D25C87430_symbolID",
+      "value": "0FEB1C12-315E-4094-AF34-9109817D6272"
     }
   ],
   "resizingConstraint": 63,
@@ -80,7 +80,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "70D212B2-91B2-4D50-8C22-85A6B81E13C3",
+    "do_objectID": "9E923DAB-ACD2-470E-9BD7-3EFFA7F6D079",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +92,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "45252CE1-5281-4342-978F-A2B96C490164"
+  "symbolID": "012A397B-1138-4201-A58D-EB5879170A2A"
 }

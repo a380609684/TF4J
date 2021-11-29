@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "FA9E3259-2B00-4164-8A74-D13F7C839D36",
+  "do_objectID": "7048C9A9-8838-483A-92B8-4AB269FB0E4E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 60,
+    "height": 16,
+    "width": 16,
     "x": 0,
-    "y": 180
+    "y": 3
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,19 +27,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "01. General 通用/Buttons按钮/01.主按钮/默认备份 3",
+  "name": "04. Data Display 数据展示/Checkbox多选框/未选择",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "6249247A-53A6-4794-A28A-A004A396BD47_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "4EEF0FC2-E5AB-45A6-9CAE-2D698CB83B5F_stringValue",
-      "value": "提交"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -80,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "24C27675-34B1-4B30-A4ED-2955D55BBDAC",
+    "do_objectID": "7579C463-F92C-4AA9-87DA-2987ADED6BF5",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5BEC2FF9-433C-4AAA-A4C2-4558361CC8AF"
+  "symbolID": "BF8E1292-E56C-4DE4-9E7A-DB0C77F800D6"
 }

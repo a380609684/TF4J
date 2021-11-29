@@ -10,7 +10,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "63862021-7292-4E55-9C89-F6A6C5B7193F",
+  "do_objectID": "0044FBDF-028C-4220-80D4-B508E9FB381B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 54,
-    "x": -2232,
-    "y": 3868
+    "width": 52,
+    "x": -741,
+    "y": 84
   },
   "groupLayout": {
     "_class": "MSImmutableInferredGroupLayout",
@@ -55,35 +55,31 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "7048C9A9-8838-483A-92B8-4AB269FB0E4E"
+    },
+    {
       "class": "text",
-      "id": "EAA1922D-E479-48D5-B7B2-BE8A135CDB93"
-    },
-    {
-      "class": "oval",
-      "id": "4D7315DB-042D-4D07-A664-3E13E99B4074"
-    },
-    {
-      "class": "oval",
-      "id": "3C547418-743A-4E03-9311-028389099D75"
+      "id": "29DE7280-D1D1-47FA-91EA-90E6AC01B57C"
     }
   ],
-  "name": "03. Data Entry 数据录入/Radio 单选框/Icon/已选中带文字",
+  "name": "04. Data Display 数据展示/Checkbox多选框/带文字不可用",
   "nameIsFixed": true,
   "overrideProperties": [
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "3C547418-743A-4E03-9311-028389099D75_layerStyle"
+      "overrideName": "29DE7280-D1D1-47FA-91EA-90E6AC01B57C_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "EAA1922D-E479-48D5-B7B2-BE8A135CDB93_stringValue"
+      "overrideName": "29DE7280-D1D1-47FA-91EA-90E6AC01B57C_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "EAA1922D-E479-48D5-B7B2-BE8A135CDB93_textStyle"
+      "overrideName": "7048C9A9-8838-483A-92B8-4AB269FB0E4E_symbolID"
     }
   ],
   "presetDictionary": {
@@ -127,7 +123,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "3878AD51-AD9A-455D-A5F3-3BBE276425D6",
+    "do_objectID": "0B8A3CD1-13F2-43DA-800C-68FE52C5D311",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -139,7 +135,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "49C4D34A-C9A7-4637-AED8-191F3802BB4B",
+  "symbolID": "B9D84905-B54C-4E6B-A695-B6AA34FFFB7B",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
