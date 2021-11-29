@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 90,
-    "x": 84,
+    "width": 52,
+    "x": 122,
     "y": 2363
   },
   "hasClippingMask": false,
@@ -32,7 +32,7 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "A008E8E9-07A8-4435-843D-6CF70103479B_stringValue",
+      "overrideName": "30DFB623-5E61-46E7-808C-599792FAF2EC_stringValue",
       "value": "图片"
     }
   ],
@@ -87,5 +87,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E6F5A858-BAA3-4F28-A84C-402DBC30A7B0"
+  "symbolID": "0C4B9A44-88DD-4B10-BFB8-44084EFC9C75"
 }

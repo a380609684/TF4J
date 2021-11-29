@@ -299,6 +299,14 @@
     {
       "class": "symbolInstance",
       "id": "EBC81B38-A872-4835-98D8-1357B35DCE5C"
+    },
+    {
+      "class": "text",
+      "id": "CC74E9BA-9CD9-4749-B520-DD9C733186BF"
+    },
+    {
+      "class": "text",
+      "id": "07E5BAEF-A3D9-4446-BB83-047288B5EBC1"
     }
   ],
   "name": "表单Form",
