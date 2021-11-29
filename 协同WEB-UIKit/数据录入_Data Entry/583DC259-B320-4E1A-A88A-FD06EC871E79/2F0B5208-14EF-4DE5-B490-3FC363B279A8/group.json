@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1CFE225C-7650-4A1A-BEF7-605F6A9AB48A",
+  "do_objectID": "2F0B5208-14EF-4DE5-B490-3FC363B279A8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,11 +15,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 16,
-    "x": 124,
-    "y": 746
+    "height": 18,
+    "width": 18,
+    "x": 128,
+    "y": 747
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -27,14 +31,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "04. Data Display 数据展示/Checkbox多选框/未选择",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
+    {
+      "class": "oval",
+      "id": "1F61C01C-5DE9-44E6-9BC7-10E30E4BF4E3"
+    }
   ],
+  "name": "03. Data Entry 数据录入/Radio 单选框/Icon/未选中备份 3",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -70,7 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E3040C69-E723-4A00-A10A-9E2A798CE7BF",
+    "do_objectID": "21FE11B4-E1A2-4DC3-A587-F519353AFF92",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -81,6 +88,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "C201C4D0-9185-4CB9-BE91-7FE004D79EEF"
+  }
 }
