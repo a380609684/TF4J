@@ -30,6 +30,11 @@
   "name": "01. General 通用/Icon图标/12/026.Loadding",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "81B08688-E4BA-4498-9315-FC61298E1F3A_layerStyle",
+      "value": "61F8D6B2-1FB7-47D9-AD3D-A132954FC77F[066CF8E1-0636-42D6-81BA-884A6A0ED573]"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
