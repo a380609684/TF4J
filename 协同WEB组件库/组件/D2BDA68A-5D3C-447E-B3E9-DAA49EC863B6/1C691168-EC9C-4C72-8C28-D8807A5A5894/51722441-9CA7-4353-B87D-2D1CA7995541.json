@@ -18,15 +18,15 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "MicrosoftYaHei",
-              "size": 14
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24,
             "tighteningFactorForTruncation": 0.05
           },
           "textStyleVerticalAlignmentKey": 0
@@ -54,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 28,
+    "height": 24,
+    "width": 32,
     "x": 12,
-    "y": 8
+    "y": 10
   },
-  "glyphBounds": "{{0, 5}, {28, 14}}",
+  "glyphBounds": "{{0, 4}, {32, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -73,7 +73,7 @@
   "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "CFAAB5C5-7A79-4D18-9F5D-EBA1C689D0ED",
+  "sharedStyleID": "02231305-C1C1-41F8-991F-8C3FF86E61B7",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -134,15 +134,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "MicrosoftYaHei",
-            "size": 14
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24,
           "tighteningFactorForTruncation": 0.05
         },
         "textStyleVerticalAlignmentKey": 0

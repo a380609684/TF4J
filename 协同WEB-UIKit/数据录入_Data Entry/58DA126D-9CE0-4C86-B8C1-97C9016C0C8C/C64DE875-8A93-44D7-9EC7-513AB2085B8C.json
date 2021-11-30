@@ -16,9 +16,15 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
+<<<<<<< HEAD
+    "width": 90,
+    "x": 84,
+    "y": 2188
+=======
     "width": 52,
     "x": 122,
     "y": 2094
+>>>>>>> fd4267cbb2efead592b68a7b98575fc5f1101cff
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,

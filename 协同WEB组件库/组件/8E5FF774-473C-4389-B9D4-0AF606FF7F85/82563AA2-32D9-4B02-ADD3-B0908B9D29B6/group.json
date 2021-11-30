@@ -1,0 +1,129 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/583DC259-B320-4E1A-A88A-FD06EC871E79/343DF5CE-945E-4EE7-B0B0-7C8E359B6D31.json
+  "do_objectID": "343DF5CE-945E-4EE7-B0B0-7C8E359B6D31",
+=======
+  "do_objectID": "82563AA2-32D9-4B02-ADD3-B0908B9D29B6",
+>>>>>>> fd4267cbb2efead592b68a7b98575fc5f1101cff:协同WEB组件库/组件/8E5FF774-473C-4389-B9D4-0AF606FF7F85/82563AA2-32D9-4B02-ADD3-B0908B9D29B6/group.json
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/583DC259-B320-4E1A-A88A-FD06EC871E79/343DF5CE-945E-4EE7-B0B0-7C8E359B6D31.json
+    "width": 68,
+    "x": 108,
+    "y": 1015
+=======
+    "width": 52,
+    "x": 12,
+    "y": 4
+>>>>>>> fd4267cbb2efead592b68a7b98575fc5f1101cff:协同WEB组件库/组件/8E5FF774-473C-4389-B9D4-0AF606FF7F85/82563AA2-32D9-4B02-ADD3-B0908B9D29B6/group.json
+  },
+  "groupLayout": {
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/583DC259-B320-4E1A-A88A-FD06EC871E79/343DF5CE-945E-4EE7-B0B0-7C8E359B6D31.json
+  "name": "03. Data Entry 数据录入/Radio 单选框/Icon/已选中带文字",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EAA1922D-E479-48D5-B7B2-BE8A135CDB93_stringValue",
+      "value": "选项一"
+=======
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3E037BBC-F588-462F-9FF6-AC148FD9DEC6"
+    },
+    {
+      "class": "text",
+      "id": "D0C857AF-A406-4C79-9957-4B31F6D86B52"
+>>>>>>> fd4267cbb2efead592b68a7b98575fc5f1101cff:协同WEB组件库/组件/8E5FF774-473C-4389-B9D4-0AF606FF7F85/82563AA2-32D9-4B02-ADD3-B0908B9D29B6/group.json
+    }
+  ],
+  "name": "编组 21",
+  "nameIsFixed": false,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/583DC259-B320-4E1A-A88A-FD06EC871E79/343DF5CE-945E-4EE7-B0B0-7C8E359B6D31.json
+    "do_objectID": "6E4BA90A-5284-4A51-8A15-160FC916AE66",
+=======
+    "do_objectID": "EBADAABB-1814-4821-8E8E-AFEC9499C8D7",
+>>>>>>> fd4267cbb2efead592b68a7b98575fc5f1101cff:协同WEB组件库/组件/8E5FF774-473C-4389-B9D4-0AF606FF7F85/82563AA2-32D9-4B02-ADD3-B0908B9D29B6/group.json
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/583DC259-B320-4E1A-A88A-FD06EC871E79/343DF5CE-945E-4EE7-B0B0-7C8E359B6D31.json
+  },
+  "symbolID": "F8837B50-51E8-4DCC-9006-93C2962AB1AE"
+=======
+  }
+>>>>>>> fd4267cbb2efead592b68a7b98575fc5f1101cff:协同WEB组件库/组件/8E5FF774-473C-4389-B9D4-0AF606FF7F85/82563AA2-32D9-4B02-ADD3-B0908B9D29B6/group.json
+}
