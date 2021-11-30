@@ -32,17 +32,17 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "BA5D04FF-63E4-48CE-B9D7-04D6A06C0C11_stringValue",
-      "value": "收藏"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "C1FB764F-A7D8-430D-B149-C93517A410D5_symbolID",
+      "overrideName": "3E037BBC-F588-462F-9FF6-AC148FD9DEC6_symbolID",
       "value": "18C3531B-4240-4FF2-AA28-A33457E1DE08"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "D1531B87-4463-4DC5-924E-31E8C9D37B8C_layerStyle",
+      "overrideName": "D0C857AF-A406-4C79-9957-4B31F6D86B52_stringValue",
+      "value": "收藏"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3A43B7E7-C1EE-42CF-A3ED-CE03C7071ED7_layerStyle",
       "value": "EDC9F6E9-68AB-434B-B5C4-C5A1824FA2F9"
     }
   ],
@@ -97,5 +97,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "9F76AF61-1E0F-4410-8DE8-BF0C2A28BD32"
+  "symbolID": "CC2FD7B3-D48B-4BA2-8620-B8793D208C78"
 }

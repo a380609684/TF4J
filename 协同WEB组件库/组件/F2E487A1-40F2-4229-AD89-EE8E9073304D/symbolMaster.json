@@ -23,7 +23,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
+    "height": 44,
     "width": 196,
     "x": -1437,
     "y": 289
@@ -61,17 +61,17 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "55494829-30F5-4190-83FF-4DCC30EA3985_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "55494829-30F5-4190-83FF-4DCC30EA3985_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "590546A4-3FE1-477A-8866-8DB198B80518_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "55494829-30F5-4190-83FF-4DCC30EA3985_stringValue"
     }
   ],
   "presetDictionary": {
