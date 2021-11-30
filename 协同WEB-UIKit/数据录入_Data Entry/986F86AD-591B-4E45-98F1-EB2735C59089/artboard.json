@@ -130,10 +130,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "46F63F60-78D6-4ADC-98C8-1BC30CC29DB4"
-    },
-    {
-      "class": "symbolInstance",
       "id": "70EE257F-0594-49BB-9AB1-96245D467F6A"
     },
     {
@@ -155,10 +151,6 @@
     {
       "class": "symbolInstance",
       "id": "226BCA55-DB5D-469E-A048-5DC226C0DCB2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AEC4CFCA-3E3C-4896-8432-5465484F33E4"
     }
   ],
   "name": "开关Switch",

@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1488,
+    "height": 1178,
     "width": 1143,
     "x": 914,
     "y": -407
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -63,10 +63,6 @@
     {
       "class": "group",
       "id": "FBE72FEE-6624-40F3-8A7F-AFBD91B361DE"
-    },
-    {
-      "class": "group",
-      "id": "CA5C485E-29FD-4DB9-8A17-7E60CB5EF0FC"
     },
     {
       "class": "group",
@@ -155,46 +151,6 @@
     {
       "class": "symbolInstance",
       "id": "6E0B5FEE-E19E-4179-A801-893899649B6C"
-    },
-    {
-      "class": "oval",
-      "id": "95ADC3D0-6C79-4389-9DA1-9F32CBB417A4"
-    },
-    {
-      "class": "oval",
-      "id": "235274BC-D05A-4BDD-86D1-E607262119F8"
-    },
-    {
-      "class": "oval",
-      "id": "2EA3DDA4-D521-4EDE-BDD3-EC010A4BF94D"
-    },
-    {
-      "class": "oval",
-      "id": "FF7D23A0-8B6B-42CB-97FB-0662CFCDC8E0"
-    },
-    {
-      "class": "oval",
-      "id": "B8AA4FDE-9E6D-45F2-AA85-C1A2F5F442BF"
-    },
-    {
-      "class": "text",
-      "id": "8B7403F5-A935-4270-9FAC-A1F5F993672D"
-    },
-    {
-      "class": "text",
-      "id": "798FB4A1-809E-48FD-8DD4-B4227A6B64F4"
-    },
-    {
-      "class": "text",
-      "id": "23D42B0E-9B58-490B-8FBF-0210298E0BFB"
-    },
-    {
-      "class": "text",
-      "id": "BD2831F9-6D20-4133-9414-904671125874"
-    },
-    {
-      "class": "text",
-      "id": "3D2BCCFB-64C6-43AA-8E25-D30305AE6E29"
     }
   ],
   "name": "徽标数Badge",
