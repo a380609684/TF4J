@@ -49,10 +49,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "837F721F-4E45-429A-93F5-074EF01F887B"
-    },
-    {
       "class": "symbolInstance",
       "id": "09BFC61F-7031-403F-9F49-C5F1DB0FD49D"
     },
@@ -398,7 +394,11 @@
     },
     {
       "class": "group",
-      "id": "D9BB4409-9E3C-480B-BB51-B4F2B7A09971"
+      "id": "7AD70A63-56E4-4173-8FB3-C5E4FC38D043"
+    },
+    {
+      "class": "group",
+      "id": "D5B3EB16-F453-4809-A02F-CD76D383877C"
     },
     {
       "class": "text",

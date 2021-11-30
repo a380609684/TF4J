@@ -32,13 +32,13 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "3E037BBC-F588-462F-9FF6-AC148FD9DEC6_symbolID",
-      "value": "70D3AB1B-7D1C-4C75-A1A0-3C59D7334954"
+      "overrideName": "BA5D04FF-63E4-48CE-B9D7-04D6A06C0C11_stringValue",
+      "value": "删除"
     },
     {
       "_class": "overrideValue",
-      "overrideName": "D0C857AF-A406-4C79-9957-4B31F6D86B52_stringValue",
-      "value": "删除"
+      "overrideName": "C1FB764F-A7D8-430D-B149-C93517A410D5_symbolID",
+      "value": "70D3AB1B-7D1C-4C75-A1A0-3C59D7334954"
     }
   ],
   "resizingConstraint": 63,
@@ -92,5 +92,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CC2FD7B3-D48B-4BA2-8620-B8793D208C78"
+  "symbolID": "9F76AF61-1E0F-4410-8DE8-BF0C2A28BD32"
 }

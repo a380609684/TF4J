@@ -62,11 +62,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 81,
+        "length": 60,
         "location": 4
       }
     ],
-    "string": "截断符号，当达到页面阈值时，使用省略号截断列表。鼠标hover截断符号可前进/后退10页，当页面数≤10时，直接铺开，无需省略；当页面数＞10时，默认展示前4页及最后一页"
+    "string": "截断符号，当达到页面阈值时，使用省略号截断列表。当页面数≤10时，直接铺开，无需省略；当页面数＞10时，默认展示前4页及最后一页"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -86,11 +86,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 942,
+    "width": 737,
     "x": 24,
     "y": 227
   },
-  "glyphBounds": "{{0, 5}, {941, 12}}",
+  "glyphBounds": "{{0, 5}, {736, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

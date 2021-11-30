@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 56,
-    "x": 436,
-    "y": 987
+    "width": 44,
+    "x": 433,
+    "y": 1047
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -33,7 +33,7 @@
     {
       "_class": "overrideValue",
       "overrideName": "79D7AC4E-BE81-4F91-85EE-9039D76A2D17_stringValue",
-      "value": "默认标签"
+      "value": "标签一"
     }
   ],
   "resizingConstraint": 63,
