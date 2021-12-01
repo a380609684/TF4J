@@ -507,7 +507,7 @@
       "do_objectID": "76D473A9-1B07-40E8-A39F-8B9E71E36058",
       "fontFamilyName": "DIN",
       "fontFileName": "DIN-Regular.otf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "DIN-Regular"
       ]
@@ -5136,6 +5136,167 @@
       "remoteStyleID": "BA900FCE-82BF-4283-A433-FBB60C1A9D4E[C67BAB24-4EB3-43F5-9F86-DAF5D4FBD822]",
       "sourceLibraryName": "WEB设计系统",
       "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "do_objectID": "85397062-B6B0-49AB-BC8D-EFE1D9993D0E",
+      "libraryID": "61C48DAF-FC9B-44FC-8C4D-DAA9B4A2CC5C",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "0AE64179-3730-4561-BDE5-A1ADBE4728E6",
+        "name": "主色/geekblue6-品牌主色",
+        "value": {
+          "_class": "style",
+          "blur": {
+            "_class": "blur",
+            "center": "{0.5, 0.5}",
+            "isEnabled": false,
+            "motionAngle": 0,
+            "radius": 10,
+            "saturation": 1,
+            "type": 0
+          },
+          "borderOptions": {
+            "_class": "borderOptions",
+            "dashPattern": [
+            ],
+            "isEnabled": true,
+            "lineCapStyle": 0,
+            "lineJoinStyle": 0
+          },
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": false,
+              "position": 1,
+              "thickness": 1
+            }
+          ],
+          "colorControls": {
+            "_class": "colorControls",
+            "brightness": 0,
+            "contrast": 1,
+            "hue": 0,
+            "isEnabled": true,
+            "saturation": 1
+          },
+          "contextSettings": {
+            "_class": "graphicsContextSettings",
+            "blendMode": 0,
+            "opacity": 1
+          },
+          "do_objectID": "3C4DF74E-58E4-45F6-B7A4-5E7682F6E83C",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9803921568627451,
+                "green": 0.3568627450980393,
+                "red": 0.1725490196078431
+              },
+              "contextSettings": {
+                "_class": "graphicsContextSettings",
+                "blendMode": 0,
+                "opacity": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0,
+                      "green": 0,
+                      "red": 0
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "innerShadows": [
+          ],
+          "miterLimit": 10,
+          "shadows": [
+          ],
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "B5D696ED-E71C-4AD6-B398-BC26BF1E1809",
+      "sourceLibraryName": "pc规范-3月 2",
+      "symbolPrivate": false
     }
   ],
   "foreignSwatches": [

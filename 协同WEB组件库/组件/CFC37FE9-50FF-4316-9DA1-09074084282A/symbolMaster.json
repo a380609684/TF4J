@@ -1,8 +1,16 @@
 {
-  "_class": "group",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9DC73E0A-B571-43CB-8CB1-B7AD33AFD2C8",
+  "do_objectID": "CFC37FE9-50FF-4316-9DA1-09074084282A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,38 +23,54 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 24,
-    "width": 24,
-    "x": 440,
-    "y": 16
+    "height": 16,
+    "width": 16,
+    "x": -3176,
+    "y": 2147
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "9F6E9211-BC32-4C25-ADF7-EB6682C94550"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AD4A2019-457A-409D-B2E8-2D575C70F7A2"
+      "class": "shapeGroup",
+      "id": "E774CC7C-B90F-40B5-991C-CFD026915D24"
     }
   ],
-  "name": "01. General 通用/Buttons按钮/07.极简按钮/02.功能按钮/单图标-默认",
-  "nameIsFixed": false,
+  "name": "01. General 通用/Icon图标/16/引号备份 2",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C6B0ACEA-8E25-44CC-AD35-2CBCE8064916_layerStyle"
+    }
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -81,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "80B56B0B-2E36-42A0-8A20-12191C4CE2FB",
+    "do_objectID": "F4DE9F0C-366E-444C-B5F7-CBD039510F21",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -93,40 +117,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "userInfo": {
-    "com.bohemiancoding.sketchtool.detach": {
-      "symbolInstance": {
-        "do_objectID": "FFE50E89-72B7-447D-819E-4C7E32BCBA3E",
-        "frame": {
-          "_class": "rect",
-          "constrainProportions": false,
-          "height": 24,
-          "width": 24,
-          "x": 440,
-          "y": 16
-        }
-      },
-      "symbolMaster": {
-        "do_objectID": "F70DF3DB-42CF-4CAF-ACEC-72F56CD49219",
-        "symbolID": "B32681AF-F3A2-4355-AB77-A2A32C189B56"
-      }
-    },
-    "com.sketch.detach": {
-      "symbolInstance": {
-        "do_objectID": "FFE50E89-72B7-447D-819E-4C7E32BCBA3E",
-        "frame": {
-          "_class": "rect",
-          "constrainProportions": false,
-          "height": 24,
-          "width": 24,
-          "x": 440,
-          "y": 16
-        }
-      },
-      "symbolMaster": {
-        "do_objectID": "F70DF3DB-42CF-4CAF-ACEC-72F56CD49219",
-        "symbolID": "B32681AF-F3A2-4355-AB77-A2A32C189B56"
-      }
-    }
+  "symbolID": "2C29BB33-E69A-47B6-8C3E-290EDA12CEA1",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
   }
 }

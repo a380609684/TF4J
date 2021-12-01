@@ -1,9 +1,8 @@
 {
-  "_class": "rectangle",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9F6E9211-BC32-4C25-ADF7-EB6682C94550",
-  "edited": true,
+  "do_objectID": "53ED2A97-24CD-40AB-B726-B961AA221ADF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,74 +12,39 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 2,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
     "width": 24,
-    "x": 0,
-    "y": 0
+    "x": 436,
+    "y": 16
   },
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
-  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "矩形",
+  "name": "01. General 通用/Buttons按钮/02.次按钮/只有图标-默认",
   "nameIsFixed": false,
-  "needsConvertionToNewRoundCorners": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
+  "overrideValues": [
     {
-      "_class": "curvePoint",
-      "cornerRadius": 2,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
+      "_class": "overrideValue",
+      "overrideName": "3F3EC356-4F3B-40A3-A0DE-59252DA70E45_symbolID",
+      "value": "A159A48E-1511-41B8-9B53-6E3E59A9D1EE"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 2,
-      "curveFrom": "{0.99999999999999056, 0}",
-      "curveMode": 1,
-      "curveTo": "{0.99999999999999056, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.99999999999999056, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 2,
-      "curveFrom": "{0.99999999999999056, 1}",
-      "curveMode": 1,
-      "curveTo": "{0.99999999999999056, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0.99999999999999056, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 2,
-      "curveFrom": "{0, 0.99999999999999989}",
-      "curveMode": 1,
-      "curveTo": "{0, 0.99999999999999989}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0.99999999999999989}"
+      "_class": "overrideValue",
+      "overrideName": "9F051109-893A-4903-8A95-EB27686A800A_layerStyle",
+      "value": "C167BFFF-BBF8-4D59-A37D-03B764C5643C"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 12,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "E1ED6212-2554-427E-B0FA-77FE801BF2E8",
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -116,7 +80,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A95D704B-ECA0-4FF5-B0D5-9503BF16CD20",
+    "do_objectID": "02C73CED-B807-4880-821F-AB0ADDB53312",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -127,5 +91,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "38E92616-5C8A-46F1-91FB-B4BDD138A8AB"
 }

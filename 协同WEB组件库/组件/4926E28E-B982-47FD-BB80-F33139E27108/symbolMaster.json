@@ -1,8 +1,16 @@
 {
-  "_class": "symbolInstance",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "1CFE225C-7650-4A1A-BEF7-605F6A9AB48A",
+  "do_objectID": "4926E28E-B982-47FD-BB80-F33139E27108",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,25 +25,52 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 124,
-    "y": 746
+    "x": -3205,
+    "y": 2147
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "04. Data Display 数据展示/Checkbox多选框/未选择",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A63FEE86-9D37-4CFB-83FE-D9AA0269B55D"
+    }
   ],
+  "name": "01. General 通用/Icon图标/16/引号备份",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D0EF4303-0EAD-4F2C-8904-E20E2798EEFF_layerStyle"
+    }
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -70,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E3040C69-E723-4A00-A10A-9E2A798CE7BF",
+    "do_objectID": "503B8F04-FBFE-40C9-93A5-736B1F6CE35D",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -82,5 +117,11 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C201C4D0-9185-4CB9-BE91-7FE004D79EEF"
+  "symbolID": "55CB5BEC-4D43-4BAE-B27F-D07FB2B3F120",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
 }

@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6A1DCFA5-B096-4B23-8222-DE96C153F2CB",
+  "do_objectID": "7B3FEEF7-0B24-4F63-B384-CA3105D6E862",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 51,
-    "width": 980,
-    "x": 100,
-    "y": 2507
+    "height": 24,
+    "width": 24,
+    "x": 330,
+    "y": 664
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,14 +27,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "标题备份 3",
+  "name": "01. General 通用/Icon图标/24/052.Loadding备份 2",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "B3C2E71A-2609-42BE-A4E6-B1D9213A43FD_stringValue",
-      "value": "32"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -75,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "7EB58CA6-6223-460E-9F18-6F6EAA17B60C",
+    "do_objectID": "2C62FE9F-283D-43DD-95E6-50982356A9AD",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,5 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C9F72146-308C-4157-9D05-BA9430327FA9"
+  "symbolID": "D09E5230-42E4-4F23-91A4-50587A84FDE6"
 }

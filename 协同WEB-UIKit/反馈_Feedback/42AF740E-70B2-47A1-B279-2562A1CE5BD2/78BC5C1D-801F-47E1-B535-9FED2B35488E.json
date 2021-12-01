@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "4F5583DE-9986-4604-81B4-601EEAC1A9CB",
+  "do_objectID": "78BC5C1D-801F-47E1-B535-9FED2B35488E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,33 +12,29 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 664,
-    "width": 346.6523143164693,
-    "x": -699.8261571582347,
-    "y": -32
+    "constrainProportions": false,
+    "height": 12,
+    "width": 12,
+    "x": 129,
+    "y": 536
   },
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/efb9c311dc4d177125519577776f27074c91f3e2.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 144,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "位图",
+  "name": "01. General 通用/Icon图标/12/026.Loadding备份",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -75,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "ECFECBE7-BB3A-4F6A-B579-3CEF363BFBF2",
+    "do_objectID": "C2027308-0F4F-4DF1-9612-C935670D711B",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -86,5 +81,6 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "AC05FCC5-3A6C-43B2-88C3-7AF43F2CD061"
 }
