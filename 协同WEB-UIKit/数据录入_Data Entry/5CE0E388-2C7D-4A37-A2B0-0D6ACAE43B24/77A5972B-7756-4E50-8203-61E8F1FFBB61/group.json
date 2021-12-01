@@ -2,11 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/5CE0E388-2C7D-4A37-A2B0-0D6ACAE43B24/77A5972B-7756-4E50-8203-61E8F1FFBB61/group.json
   "do_objectID": "77A5972B-7756-4E50-8203-61E8F1FFBB61",
-=======
-  "do_objectID": "68822C3E-A612-45B1-8BA5-DCD0E4A51A50",
->>>>>>> 05bdb29218e6a805e1c795fe5cb022e39c29da61:协同WEB-UIKit/反馈_Feedback/42AF740E-70B2-47A1-B279-2562A1CE5BD2/68822C3E-A612-45B1-8BA5-DCD0E4A51A50.json
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,8 +17,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 241,
-    "y": 496
+    "x": 124,
+    "y": 746
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -35,17 +31,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/5CE0E388-2C7D-4A37-A2B0-0D6ACAE43B24/77A5972B-7756-4E50-8203-61E8F1FFBB61/group.json
   "layers": [
     {
       "class": "rectangle",
       "id": "20A8AE0C-310A-423E-83FC-39FD91E62EA1"
     }
-=======
-  "name": "01. General 通用/Icon图标/16/072.loadding备份",
-  "nameIsFixed": false,
-  "overrideValues": [
->>>>>>> 05bdb29218e6a805e1c795fe5cb022e39c29da61:协同WEB-UIKit/反馈_Feedback/42AF740E-70B2-47A1-B279-2562A1CE5BD2/68822C3E-A612-45B1-8BA5-DCD0E4A51A50.json
   ],
   "name": "04. Data Display 数据展示/Checkbox多选框/未选择备份",
   "nameIsFixed": false,
@@ -87,11 +77,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/5CE0E388-2C7D-4A37-A2B0-0D6ACAE43B24/77A5972B-7756-4E50-8203-61E8F1FFBB61/group.json
     "do_objectID": "52702D67-0486-4E49-93C0-3BCB74CEFE75",
-=======
-    "do_objectID": "7A0EC9A8-2C28-47B2-86F9-77B03DA15812",
->>>>>>> 05bdb29218e6a805e1c795fe5cb022e39c29da61:协同WEB-UIKit/反馈_Feedback/42AF740E-70B2-47A1-B279-2562A1CE5BD2/68822C3E-A612-45B1-8BA5-DCD0E4A51A50.json
     "endMarkerType": 0,
     "fills": [
     ],
@@ -102,10 +88,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/5CE0E388-2C7D-4A37-A2B0-0D6ACAE43B24/77A5972B-7756-4E50-8203-61E8F1FFBB61/group.json
   }
-=======
-  },
-  "symbolID": "346EA0AF-B8FE-4413-BDE3-3E1C7C5AFDBD"
->>>>>>> 05bdb29218e6a805e1c795fe5cb022e39c29da61:协同WEB-UIKit/反馈_Feedback/42AF740E-70B2-47A1-B279-2562A1CE5BD2/68822C3E-A612-45B1-8BA5-DCD0E4A51A50.json
 }

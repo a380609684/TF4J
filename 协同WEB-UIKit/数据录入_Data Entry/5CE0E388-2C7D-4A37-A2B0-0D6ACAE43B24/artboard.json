@@ -162,11 +162,7 @@
     },
     {
       "class": "group",
-<<<<<<< HEAD
       "id": "77A5972B-7756-4E50-8203-61E8F1FFBB61"
-=======
-      "id": "7B02FFD0-5ECF-4486-8876-DFC07B6050C3"
->>>>>>> 05bdb29218e6a805e1c795fe5cb022e39c29da61
     },
     {
       "class": "symbolInstance",
@@ -186,11 +182,23 @@
     },
     {
       "class": "symbolInstance",
+      "id": "8802C368-A760-4ADA-8C48-2C99015DCCC6"
+    },
+    {
+      "class": "symbolInstance",
       "id": "938E223B-8BF2-4C78-879B-95B06EF4A196"
     },
     {
       "class": "symbolInstance",
+      "id": "0B06C412-74DA-497A-A9EB-558A08E6055A"
+    },
+    {
+      "class": "symbolInstance",
       "id": "9B38CE0E-247F-48E2-AB73-DD2D5CFD180B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E4C962C-34C7-4254-B9E5-8F4157963419"
     },
     {
       "class": "rectangle",
