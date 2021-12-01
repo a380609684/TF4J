@@ -26,28 +26,21 @@
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "minimumLineHeight": 22,
+            "tighteningFactorForTruncation": 0.05
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 3,
         "location": 0
       }
     ],
-<<<<<<< HEAD:协同WEB组件库/组件/C5B49C0B-13BA-44AB-90B8-F982FFC4051D/81655026-2C18-4C30-BCF2-944D3ABBE729/8039ED24-D8C0-49E6-80EB-81170C02C739/79EA0AAC-3B83-47C4-8411-23FC22EA1E3F.json
     "string": "关键词"
-=======
-    "string": "按钮"
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/F71DE0ED-3247-4412-B870-4CF1D327793B/9AF4AA4A-24E1-4308-852C-F745B24B9629/BFF04659-01BD-4B6E-AAFB-D0A209B11F46.json
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-<<<<<<< HEAD:协同WEB组件库/组件/C5B49C0B-13BA-44AB-90B8-F982FFC4051D/81655026-2C18-4C30-BCF2-944D3ABBE729/8039ED24-D8C0-49E6-80EB-81170C02C739/79EA0AAC-3B83-47C4-8411-23FC22EA1E3F.json
   "do_objectID": "79EA0AAC-3B83-47C4-8411-23FC22EA1E3F",
-=======
-  "do_objectID": "BFF04659-01BD-4B6E-AAFB-D0A209B11F46",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/F71DE0ED-3247-4412-B870-4CF1D327793B/9AF4AA4A-24E1-4308-852C-F745B24B9629/BFF04659-01BD-4B6E-AAFB-D0A209B11F46.json
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -62,19 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-<<<<<<< HEAD:协同WEB组件库/组件/C5B49C0B-13BA-44AB-90B8-F982FFC4051D/81655026-2C18-4C30-BCF2-944D3ABBE729/8039ED24-D8C0-49E6-80EB-81170C02C739/79EA0AAC-3B83-47C4-8411-23FC22EA1E3F.json
     "width": 42,
     "x": 12,
     "y": 4
   },
   "glyphBounds": "{{0, 5}, {42, 14}}",
-=======
-    "width": 28,
-    "x": 24,
-    "y": 0
-  },
-  "glyphBounds": "{{0, 5}, {28, 14}}",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/F71DE0ED-3247-4412-B870-4CF1D327793B/9AF4AA4A-24E1-4308-852C-F745B24B9629/BFF04659-01BD-4B6E-AAFB-D0A209B11F46.json
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -83,21 +68,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-<<<<<<< HEAD:协同WEB组件库/组件/C5B49C0B-13BA-44AB-90B8-F982FFC4051D/81655026-2C18-4C30-BCF2-944D3ABBE729/8039ED24-D8C0-49E6-80EB-81170C02C739/79EA0AAC-3B83-47C4-8411-23FC22EA1E3F.json
   "name": "关键词",
   "nameIsFixed": false,
   "resizingConstraint": 44,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "CFAAB5C5-7A79-4D18-9F5D-EBA1C689D0ED",
-=======
-  "name": "文案",
-  "nameIsFixed": true,
-  "resizingConstraint": 41,
-  "resizingType": 0,
-  "rotation": 0,
-  "sharedStyleID": "46F13C6B-D951-40C3-8EFD-491A341A559D",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/F71DE0ED-3247-4412-B870-4CF1D327793B/9AF4AA4A-24E1-4308-852C-F745B24B9629/BFF04659-01BD-4B6E-AAFB-D0A209B11F46.json
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -133,11 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-<<<<<<< HEAD:协同WEB组件库/组件/C5B49C0B-13BA-44AB-90B8-F982FFC4051D/81655026-2C18-4C30-BCF2-944D3ABBE729/8039ED24-D8C0-49E6-80EB-81170C02C739/79EA0AAC-3B83-47C4-8411-23FC22EA1E3F.json
     "do_objectID": "224D1B17-F036-498E-8F18-4E9579883119",
-=======
-    "do_objectID": "4FDF4E79-7F45-4B95-AB1F-917839A89AAB",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/F71DE0ED-3247-4412-B870-4CF1D327793B/9AF4AA4A-24E1-4308-852C-F745B24B9629/BFF04659-01BD-4B6E-AAFB-D0A209B11F46.json
     "endMarkerType": 0,
     "fills": [
     ],
@@ -170,7 +142,8 @@
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "minimumLineHeight": 22,
+          "tighteningFactorForTruncation": 0.05
         },
         "textStyleVerticalAlignmentKey": 0
       },

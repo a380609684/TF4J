@@ -26,7 +26,6 @@
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-<<<<<<< HEAD:协同WEB组件库/组件/21537C4B-5ECB-49B2-84BB-49D51273CCFF/3A21269D-923C-4B86-93CF-4D923ACEE656/2C306CBA-FBDB-4630-9061-D7CFB7E1D7AC.json
             "maximumLineHeight": 18,
             "minimumLineHeight": 18
           },
@@ -37,27 +36,11 @@
       }
     ],
     "string": "这是一条警告提示"
-=======
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 2,
-        "location": 0
-      }
-    ],
-    "string": "按钮"
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/06C58C60-244F-43EE-91B2-D9B36BE4AFAC/A79302B7-AEC8-4CBF-A0F0-348D3BDBA854/5D238D36-D566-4930-9684-5A82E09CA863.json
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-<<<<<<< HEAD:协同WEB组件库/组件/21537C4B-5ECB-49B2-84BB-49D51273CCFF/3A21269D-923C-4B86-93CF-4D923ACEE656/2C306CBA-FBDB-4630-9061-D7CFB7E1D7AC.json
   "do_objectID": "2C306CBA-FBDB-4630-9061-D7CFB7E1D7AC",
-=======
-  "do_objectID": "5D238D36-D566-4930-9684-5A82E09CA863",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/06C58C60-244F-43EE-91B2-D9B36BE4AFAC/A79302B7-AEC8-4CBF-A0F0-348D3BDBA854/5D238D36-D566-4930-9684-5A82E09CA863.json
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -71,21 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-<<<<<<< HEAD:协同WEB组件库/组件/21537C4B-5ECB-49B2-84BB-49D51273CCFF/3A21269D-923C-4B86-93CF-4D923ACEE656/2C306CBA-FBDB-4630-9061-D7CFB7E1D7AC.json
     "height": 18,
     "width": 96,
     "x": 0,
     "y": 0
   },
   "glyphBounds": "{{0, 3}, {96, 13}}",
-=======
-    "height": 22,
-    "width": 28,
-    "x": 24,
-    "y": 0
-  },
-  "glyphBounds": "{{0, 5}, {28, 14}}",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/06C58C60-244F-43EE-91B2-D9B36BE4AFAC/A79302B7-AEC8-4CBF-A0F0-348D3BDBA854/5D238D36-D566-4930-9684-5A82E09CA863.json
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -94,20 +68,11 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-<<<<<<< HEAD:协同WEB组件库/组件/21537C4B-5ECB-49B2-84BB-49D51273CCFF/3A21269D-923C-4B86-93CF-4D923ACEE656/2C306CBA-FBDB-4630-9061-D7CFB7E1D7AC.json
   "name": "这是一条警告提示",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-=======
-  "name": "文案",
-  "nameIsFixed": true,
-  "resizingConstraint": 41,
-  "resizingType": 0,
-  "rotation": 0,
-  "sharedStyleID": "46F13C6B-D951-40C3-8EFD-491A341A559D",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/06C58C60-244F-43EE-91B2-D9B36BE4AFAC/A79302B7-AEC8-4CBF-A0F0-348D3BDBA854/5D238D36-D566-4930-9684-5A82E09CA863.json
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -143,11 +108,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-<<<<<<< HEAD:协同WEB组件库/组件/21537C4B-5ECB-49B2-84BB-49D51273CCFF/3A21269D-923C-4B86-93CF-4D923ACEE656/2C306CBA-FBDB-4630-9061-D7CFB7E1D7AC.json
     "do_objectID": "C9369E6E-10AD-4D23-9BE6-2DDB346B1073",
-=======
-    "do_objectID": "C989887B-B277-4B99-B7BB-AC6BB085BB95",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/06C58C60-244F-43EE-91B2-D9B36BE4AFAC/A79302B7-AEC8-4CBF-A0F0-348D3BDBA854/5D238D36-D566-4930-9684-5A82E09CA863.json
     "endMarkerType": 0,
     "fills": [
     ],
@@ -180,13 +141,8 @@
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-<<<<<<< HEAD:协同WEB组件库/组件/21537C4B-5ECB-49B2-84BB-49D51273CCFF/3A21269D-923C-4B86-93CF-4D923ACEE656/2C306CBA-FBDB-4630-9061-D7CFB7E1D7AC.json
           "maximumLineHeight": 18,
           "minimumLineHeight": 18
-=======
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/06C58C60-244F-43EE-91B2-D9B36BE4AFAC/A79302B7-AEC8-4CBF-A0F0-348D3BDBA854/5D238D36-D566-4930-9684-5A82E09CA863.json
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -194,12 +150,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 0
 }

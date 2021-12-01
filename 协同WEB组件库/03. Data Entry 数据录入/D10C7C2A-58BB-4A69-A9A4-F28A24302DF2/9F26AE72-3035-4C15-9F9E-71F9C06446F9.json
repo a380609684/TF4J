@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 3,
         "location": 0
       }
     ],
-    "string": "激活"
+    "string": "激 活"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,11 +55,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 28,
-    "width": 40,
-    "x": 1033.5,
+    "width": 46,
+    "x": 1030.5,
     "y": 3193
   },
-  "glyphBounds": "{{0, 5}, {40, 20}}",
+  "glyphBounds": "{{0, 5}, {46, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "激活",
+  "name": "激 活",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

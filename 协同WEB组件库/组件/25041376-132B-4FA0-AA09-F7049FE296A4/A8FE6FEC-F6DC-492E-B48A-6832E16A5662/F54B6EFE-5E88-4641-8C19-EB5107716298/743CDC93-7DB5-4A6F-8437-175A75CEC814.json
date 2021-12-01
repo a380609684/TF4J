@@ -2,11 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-<<<<<<< HEAD:协同WEB组件库/组件/25041376-132B-4FA0-AA09-F7049FE296A4/A8FE6FEC-F6DC-492E-B48A-6832E16A5662/F54B6EFE-5E88-4641-8C19-EB5107716298/743CDC93-7DB5-4A6F-8437-175A75CEC814.json
   "do_objectID": "743CDC93-7DB5-4A6F-8437-175A75CEC814",
-=======
-  "do_objectID": "C707BF77-6058-48D1-BA99-E18CED28C0C1",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/C707BF77-6058-48D1-BA99-E18CED28C0C1.json
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -19,17 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-<<<<<<< HEAD:协同WEB组件库/组件/25041376-132B-4FA0-AA09-F7049FE296A4/A8FE6FEC-F6DC-492E-B48A-6832E16A5662/F54B6EFE-5E88-4641-8C19-EB5107716298/743CDC93-7DB5-4A6F-8437-175A75CEC814.json
     "height": 16,
     "width": 16,
     "x": 168,
     "y": 8
-=======
-    "height": 32,
-    "width": 84,
-    "x": 718.0000000000002,
-    "y": 289
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/C707BF77-6058-48D1-BA99-E18CED28C0C1.json
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -38,11 +27,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-<<<<<<< HEAD:协同WEB组件库/组件/25041376-132B-4FA0-AA09-F7049FE296A4/A8FE6FEC-F6DC-492E-B48A-6832E16A5662/F54B6EFE-5E88-4641-8C19-EB5107716298/743CDC93-7DB5-4A6F-8437-175A75CEC814.json
   "name": "01. General 通用/Icon图标/16/027.失败-F",
-=======
-  "name": "01. General 通用/Buttons按钮/01.主按钮/大备份 52",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/C707BF77-6058-48D1-BA99-E18CED28C0C1.json
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -85,11 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-<<<<<<< HEAD:协同WEB组件库/组件/25041376-132B-4FA0-AA09-F7049FE296A4/A8FE6FEC-F6DC-492E-B48A-6832E16A5662/F54B6EFE-5E88-4641-8C19-EB5107716298/743CDC93-7DB5-4A6F-8437-175A75CEC814.json
     "do_objectID": "61A59116-FACE-4FCF-BFA5-336324CE1DD5",
-=======
-    "do_objectID": "F21E96ED-7F1D-4DBB-863C-B3B842A42AFE",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/C707BF77-6058-48D1-BA99-E18CED28C0C1.json
     "endMarkerType": 0,
     "fills": [
     ],
@@ -101,9 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-<<<<<<< HEAD:协同WEB组件库/组件/25041376-132B-4FA0-AA09-F7049FE296A4/A8FE6FEC-F6DC-492E-B48A-6832E16A5662/F54B6EFE-5E88-4641-8C19-EB5107716298/743CDC93-7DB5-4A6F-8437-175A75CEC814.json
   "symbolID": "8177514B-2B87-469F-AD94-DAC32C38B56E"
-=======
-  "symbolID": "FB857415-E699-40C8-AEF7-2CA811BD0980"
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/C707BF77-6058-48D1-BA99-E18CED28C0C1.json
 }
