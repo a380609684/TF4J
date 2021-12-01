@@ -302,9 +302,6 @@
     },
     {
       "class": "symbolInstance",
-<<<<<<< HEAD
-      "id": "EBC81B38-A872-4835-98D8-1357B35DCE5C"
-=======
       "id": "3A557927-3E48-4AE5-B082-F131C868F207"
     },
     {
@@ -426,7 +423,6 @@
     {
       "class": "symbolInstance",
       "id": "D957D5AC-F819-42C2-B1DD-5970DE19941F"
->>>>>>> 6e2f4faa951d8629f068e72fc01eb03b15cb0e44
     }
   ],
   "name": "表单Form",

@@ -22,8 +22,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1926,
-    "width": 1496,
+    "height": 1944,
+    "width": 1691,
     "x": 14272,
     "y": -1335
   },
@@ -31,7 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -75,6 +75,14 @@
     {
       "class": "rectangle",
       "id": "8F59A4EB-7595-43F1-AA5F-DB97CF49B764"
+    },
+    {
+      "class": "rectangle",
+      "id": "5D9BEF4E-A326-45D4-960A-05D9C4AE6068"
+    },
+    {
+      "class": "rectangle",
+      "id": "847884E2-5A90-45F3-968F-FACB8A1332FA"
     },
     {
       "class": "rectangle",
@@ -123,6 +131,14 @@
     {
       "class": "rectangle",
       "id": "8AB284CB-B54D-471A-8029-508B9F7E4D7D"
+    },
+    {
+      "class": "rectangle",
+      "id": "67D35735-F732-4155-B088-C14C60A8203A"
+    },
+    {
+      "class": "rectangle",
+      "id": "0FA10D1D-F2E9-4A5F-A920-437E5E1B2BCD"
     },
     {
       "class": "rectangle",
@@ -186,6 +202,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "85DE315D-E75A-4AF4-9114-4D0311287448"
+    },
+    {
+      "class": "symbolInstance",
       "id": "3ADAC563-A9AB-4582-85A1-0BFD58324887"
     },
     {
@@ -195,6 +215,10 @@
     {
       "class": "symbolInstance",
       "id": "6E1E8A0C-57C0-407A-9B14-B2364E4966C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAFED3B0-EA9C-4CDD-B8E0-69B5C89BC487"
     },
     {
       "class": "symbolInstance",
@@ -258,6 +282,14 @@
     },
     {
       "class": "symbolInstance",
+      "id": "88DE9000-D8E8-4A57-88F0-08847872C02A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BFC2DA00-185D-4E3A-88FE-218C3CD85976"
+    },
+    {
+      "class": "symbolInstance",
       "id": "2AC25C91-BBC5-4432-AB9F-E2E6A42B94DC"
     },
     {
@@ -271,6 +303,14 @@
     {
       "class": "symbolInstance",
       "id": "888F83C5-0074-48B8-BDE8-A76F45419045"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95A0EDA6-A258-455C-8483-F30AF368731E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D4BAD63-5425-4B5C-BAA0-A9C657E32B83"
     },
     {
       "class": "symbolInstance",
@@ -306,11 +346,19 @@
     },
     {
       "class": "symbolInstance",
+      "id": "1912EF6F-9967-4A48-B0B3-CE7E35A5B114"
+    },
+    {
+      "class": "symbolInstance",
       "id": "B4CFE3B4-AF1A-4B7C-86D1-D6E388D095D5"
     },
     {
       "class": "symbolInstance",
       "id": "10FDA9B1-5588-48D5-8DD5-87AB6658DB8D"
+    },
+    {
+      "class": "group",
+      "id": "5486E1FF-C5C5-484A-B0DA-4342670E441C"
     }
   ],
   "name": "穿梭框 Transfer",

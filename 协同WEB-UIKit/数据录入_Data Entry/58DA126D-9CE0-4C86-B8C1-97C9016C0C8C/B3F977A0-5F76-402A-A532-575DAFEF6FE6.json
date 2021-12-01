@@ -16,15 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-<<<<<<< HEAD
-    "width": 90,
-    "x": 84,
-    "y": 1989
-=======
     "width": 52,
     "x": 122,
     "y": 1846
->>>>>>> 6e2f4faa951d8629f068e72fc01eb03b15cb0e44
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -88,5 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E6F5A858-BAA3-4F28-A84C-402DBC30A7B0"
+  "symbolID": "0C4B9A44-88DD-4B10-BFB8-44084EFC9C75"
 }

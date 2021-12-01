@@ -169,20 +169,8 @@
       "id": "C11B7ECF-2544-482C-9233-E26D31EE25FF"
     },
     {
-      "class": "group",
-      "id": "C5408067-6093-44C9-AA04-CCA32701D15F"
-    },
-    {
       "class": "symbolInstance",
       "id": "3445D6FE-9A90-483B-967A-A9874072D87D"
-    },
-    {
-      "class": "group",
-      "id": "45DD1269-7180-4A23-B622-DD843D6AC8E1"
-    },
-    {
-      "class": "rectangle",
-      "id": "20AF9F30-253E-4257-B0D9-AD890930D6FF"
     },
     {
       "class": "symbolInstance",
@@ -315,10 +303,6 @@
     {
       "class": "symbolInstance",
       "id": "1D674D0B-8104-41CB-8BFD-0B23132DB763"
-    },
-    {
-      "class": "group",
-      "id": "222255CD-9AB5-466E-B176-887493BCC94B"
     },
     {
       "class": "symbolInstance",
@@ -485,10 +469,6 @@
       "id": "099F1578-3FEF-4A02-B0FD-FF2D1E9F1EB2"
     },
     {
-      "class": "group",
-      "id": "282FECD2-BD93-4403-B2B0-02FABFAB77EB"
-    },
-    {
       "class": "symbolInstance",
       "id": "B1BDD51D-9F60-4A79-9730-D32AB6E7A084"
     },
@@ -497,28 +477,12 @@
       "id": "C4165338-9D27-47A0-A73A-4192851089D3"
     },
     {
-      "class": "group",
-      "id": "35F73FB5-81DE-41DE-B7D9-56169D36FB26"
-    },
-    {
-      "class": "group",
-      "id": "2F03AADA-E634-4E51-8E49-A5463C430130"
-    },
-    {
       "class": "symbolInstance",
       "id": "03FEA517-DA8F-47DE-84D9-A13FB5C48919"
     },
     {
-      "class": "group",
-      "id": "7A602F1B-C570-49F2-96D3-3DDF98D34B74"
-    },
-    {
       "class": "symbolInstance",
       "id": "239282F7-6922-4B7B-8DBD-3965B007D5A9"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2942C7FB-8B62-4832-8460-C318F7C78333"
     },
     {
       "class": "symbolInstance",
@@ -539,10 +503,6 @@
     {
       "class": "symbolInstance",
       "id": "B71893C4-C545-4DD7-AEEC-EC13E35808E1"
-    },
-    {
-      "class": "group",
-      "id": "4C579559-BB01-4C98-BF5E-783E53868B83"
     },
     {
       "class": "symbolInstance",
@@ -985,8 +945,8 @@
       "id": "C773B8C0-1CA4-4B05-B2C8-1EF7DBD55FA0"
     },
     {
-      "class": "group",
-      "id": "04C09336-19E8-48C6-AB68-28B238A4E1B2"
+      "class": "symbolInstance",
+      "id": "E3539750-76DB-459A-9081-FEF2567C1D58"
     },
     {
       "class": "symbolInstance",
@@ -999,30 +959,6 @@
     {
       "class": "symbolInstance",
       "id": "13E5722E-E738-42E7-9D92-5CD13E2BB602"
-    },
-    {
-      "class": "oval",
-      "id": "70254191-E24D-46B9-A61A-0EE68B773150"
-    },
-    {
-      "class": "oval",
-      "id": "039DC31B-9A0D-4CE8-ADDF-68DE7BC9B6AC"
-    },
-    {
-      "class": "text",
-      "id": "223D00A3-C346-49DB-9112-6A84901463B5"
-    },
-    {
-      "class": "text",
-      "id": "5861ABE7-843F-434C-B033-DD6539E5B2EF"
-    },
-    {
-      "class": "text",
-      "id": "DDF3914B-422C-4312-A599-7FB2522A9D76"
-    },
-    {
-      "class": "text",
-      "id": "49A56932-EB24-45B5-AC6E-3AE66B92BE89"
     }
   ],
   "name": "按钮 Button",
