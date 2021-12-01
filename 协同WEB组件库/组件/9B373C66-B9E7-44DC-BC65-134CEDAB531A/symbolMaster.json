@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -58,6 +58,11 @@
   "name": "01. General 通用/Icon图标/12/012.清空-F",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6327CE6D-2CC9-4B67-BA6E-3C075FCB98AE_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

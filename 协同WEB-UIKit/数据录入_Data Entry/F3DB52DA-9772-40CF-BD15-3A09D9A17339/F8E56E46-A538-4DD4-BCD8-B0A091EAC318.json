@@ -1,0 +1,102 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F8E56E46-A538-4DD4-BCD8-B0A091EAC318",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 152,
+    "x": 191,
+    "y": 1816
+  },
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "02. Navigation 导航/Pagination分页/小/2页",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "788FF85D-F72A-4039-BFF3-A69CC9DC28F9/A7D03289-2631-4C9C-9DFC-916ED0FBB6C1_layerStyle",
+      "value": "C9276CD4-E393-4BD8-8061-92963B3C1E7C[5D41CD5E-F49D-4026-A4F1-11A22A0C185F]"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "788FF85D-F72A-4039-BFF3-A69CC9DC28F9/E0F9C63A-9A80-402E-B37D-2699A6CDAF26_fillColor",
+      "value": {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3450980392156863,
+        "green": 0.3254901960784314,
+        "red": 0.3019607843137255
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "C2EFB5BD-BE24-43EF-A456-AEC031E576FB",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A6BEFEE1-1E59-4C91-838B-C972350BF591"
+}

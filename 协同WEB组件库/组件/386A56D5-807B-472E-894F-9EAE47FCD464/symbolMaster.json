@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -58,11 +58,6 @@
   "name": "03. Data Entry 数据录入/Input输入框/纯文字/中/激活",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "ACBAFCD5-2F9F-47FC-A6E6-381368AD557D_layerStyle"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

@@ -18,7 +18,7 @@
     "height": 32,
     "width": 280,
     "x": 174,
-    "y": 1568
+    "y": 1488
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -30,11 +30,6 @@
   "name": "03. Data Entry 数据录入/Input输入框/纯文字/大/未输入备份 2",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "F8EBBB2E-7F27-4F49-B8DF-A20AC5181BC9_layerStyle",
-      "value": "C775FF7C-2453-42AD-B0D9-1C272FEA1440"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
