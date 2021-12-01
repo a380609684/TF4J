@@ -1,8 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0B06C412-74DA-497A-A9EB-558A08E6055A",
+  "do_objectID": "DEC43A8C-F2BB-40AF-A87A-E9BEC975E74E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,10 +16,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 66,
-    "x": 198,
-    "y": 1049
+    "width": 52,
+    "x": 16,
+    "y": 4
   },
+  "groupLayout": {
+    "_class": "MSImmutableInferredGroupLayout",
+    "axis": 0,
+    "layoutAnchor": 0,
+    "maxSize": 0,
+    "minSize": 0
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -27,19 +35,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "04. Data Display 数据展示/Checkbox多选框/带文字备份 4",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layers": [
     {
-      "_class": "overrideValue",
-      "overrideName": "29DE7280-D1D1-47FA-91EA-90E6AC01B57C_stringValue",
-      "value": "选项二"
+      "class": "text",
+      "id": "42369482-B141-4C1F-951B-EEA60FA29470"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4453FD7-A4D5-47E1-AB82-4323F08913B6"
     }
   ],
-  "resizingConstraint": 63,
+  "name": "编组",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -75,7 +85,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "2B9039FF-C977-4CEF-A52D-68E4A3079823",
+    "do_objectID": "11B4E70E-F97F-4798-ADDA-BA05E8F25E77",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -86,6 +96,5 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "5B9478E7-D29C-4CAF-B118-0EA7FE69B05E"
+  }
 }

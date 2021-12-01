@@ -30,6 +30,11 @@
   "name": "03. Data Entry 数据录入/Input输入框/选择器+输入框/中-输入中/前",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F6B5E1C5-E7C9-4E0F-9492-5FA40494FC8D_symbolID",
+      "value": "5CC72F70-CFD1-4540-AB34-02ED801F923E"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,

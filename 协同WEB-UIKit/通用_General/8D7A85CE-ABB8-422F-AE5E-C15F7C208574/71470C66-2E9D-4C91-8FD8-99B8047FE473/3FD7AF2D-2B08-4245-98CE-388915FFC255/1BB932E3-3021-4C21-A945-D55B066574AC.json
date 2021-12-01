@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E3539750-76DB-459A-9081-FEF2567C1D58",
+  "do_objectID": "1BB932E3-3021-4C21-A945-D55B066574AC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,28 +15,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 51,
-    "width": 980,
-    "x": 100,
-    "y": 955
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 4
   },
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "标题",
-  "nameIsFixed": false,
+  "name": "图标",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "B3C2E71A-2609-42BE-A4E6-B1D9213A43FD_stringValue",
-      "value": "样式&状态"
+      "overrideName": "93464AAB-0D22-430E-9C03-201373ADF804_layerStyle",
+      "value": "0F3E351E-F0F5-42E0-AB75-854E6B6A28A7[6D526790-F5D8-4F58-9648-DEF5A0E6CCFE]"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -75,7 +75,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A2231980-0481-4BA6-AF92-66AF2574C37D",
+    "do_objectID": "C684B478-129E-43D9-BE4C-91430B705F35",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,5 +87,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C9F72146-308C-4157-9D05-BA9430327FA9"
+  "symbolID": "697A64D8-14B7-4514-A36E-5D1F18226EB3"
 }
