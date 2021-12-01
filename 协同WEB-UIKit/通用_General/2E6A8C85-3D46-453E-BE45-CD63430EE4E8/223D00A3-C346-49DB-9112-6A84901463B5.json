@@ -1,0 +1,203 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+<<<<<<< HEAD:协同WEB组件库/组件/3396809C-9DA7-49A4-82BB-E7EF9DDE6E11/2D13818A-5803-4698-AC5E-A39C9FB32156.json
+            "blue": 0.5882352941176471,
+            "green": 0.5529411764705883,
+            "red": 0.5294117647058824,
+            "swatchID": "FC555EDF-9B66-4420-B214-98F18EF66051"
+=======
+            "blue": 0,
+            "green": 0,
+            "red": 1
+>>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/2E6A8C85-3D46-453E-BE45-CD63430EE4E8/223D00A3-C346-49DB-9112-6A84901463B5.json
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+<<<<<<< HEAD:协同WEB组件库/组件/3396809C-9DA7-49A4-82BB-E7EF9DDE6E11/2D13818A-5803-4698-AC5E-A39C9FB32156.json
+              "name": "MicrosoftYaHei",
+              "size": 14
+=======
+              "name": "PingFangSC-Semibold",
+              "size": 16
+>>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/2E6A8C85-3D46-453E-BE45-CD63430EE4E8/223D00A3-C346-49DB-9112-6A84901463B5.json
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 12,
+        "location": 0
+      }
+    ],
+<<<<<<< HEAD:协同WEB组件库/组件/3396809C-9DA7-49A4-82BB-E7EF9DDE6E11/2D13818A-5803-4698-AC5E-A39C9FB32156.json
+    "string": "选择区域"
+=======
+    "string": "背景色应为grey-10"
+>>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/2E6A8C85-3D46-453E-BE45-CD63430EE4E8/223D00A3-C346-49DB-9112-6A84901463B5.json
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+<<<<<<< HEAD:协同WEB组件库/组件/3396809C-9DA7-49A4-82BB-E7EF9DDE6E11/2D13818A-5803-4698-AC5E-A39C9FB32156.json
+  "do_objectID": "2D13818A-5803-4698-AC5E-A39C9FB32156",
+=======
+  "do_objectID": "223D00A3-C346-49DB-9112-6A84901463B5",
+>>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/2E6A8C85-3D46-453E-BE45-CD63430EE4E8/223D00A3-C346-49DB-9112-6A84901463B5.json
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+<<<<<<< HEAD:协同WEB组件库/组件/3396809C-9DA7-49A4-82BB-E7EF9DDE6E11/2D13818A-5803-4698-AC5E-A39C9FB32156.json
+    "width": 56,
+    "x": 12,
+    "y": 4
+  },
+  "glyphBounds": "{{0, 5}, {56, 14}}",
+=======
+    "width": 139,
+    "x": 976,
+    "y": 1378
+  },
+  "glyphBounds": "{{0, 3}, {139, 18}}",
+>>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/2E6A8C85-3D46-453E-BE45-CD63430EE4E8/223D00A3-C346-49DB-9112-6A84901463B5.json
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+<<<<<<< HEAD:协同WEB组件库/组件/3396809C-9DA7-49A4-82BB-E7EF9DDE6E11/2D13818A-5803-4698-AC5E-A39C9FB32156.json
+  "lineSpacingBehaviour": 2,
+  "name": "选择区域",
+=======
+  "lineSpacingBehaviour": 3,
+  "name": "背景色应为grey-10",
+>>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/2E6A8C85-3D46-453E-BE45-CD63430EE4E8/223D00A3-C346-49DB-9112-6A84901463B5.json
+  "nameIsFixed": false,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "CFAAB5C5-7A79-4D18-9F5D-EBA1C689D0ED",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+<<<<<<< HEAD:协同WEB组件库/组件/3396809C-9DA7-49A4-82BB-E7EF9DDE6E11/2D13818A-5803-4698-AC5E-A39C9FB32156.json
+    "do_objectID": "D3461801-369A-4F1C-AD97-730620D0A2C3",
+=======
+    "do_objectID": "E42AC798-19C2-4033-850F-E17FF32B1628",
+>>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/2E6A8C85-3D46-453E-BE45-CD63430EE4E8/223D00A3-C346-49DB-9112-6A84901463B5.json
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+<<<<<<< HEAD:协同WEB组件库/组件/3396809C-9DA7-49A4-82BB-E7EF9DDE6E11/2D13818A-5803-4698-AC5E-A39C9FB32156.json
+          "blue": 0.5882352941176471,
+          "green": 0.5529411764705883,
+          "red": 0.5294117647058824,
+          "swatchID": "FC555EDF-9B66-4420-B214-98F18EF66051"
+=======
+          "blue": 0,
+          "green": 0,
+          "red": 1
+>>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/2E6A8C85-3D46-453E-BE45-CD63430EE4E8/223D00A3-C346-49DB-9112-6A84901463B5.json
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+<<<<<<< HEAD:协同WEB组件库/组件/3396809C-9DA7-49A4-82BB-E7EF9DDE6E11/2D13818A-5803-4698-AC5E-A39C9FB32156.json
+            "name": "MicrosoftYaHei",
+            "size": 14
+=======
+            "name": "PingFangSC-Semibold",
+            "size": 16
+>>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/2E6A8C85-3D46-453E-BE45-CD63430EE4E8/223D00A3-C346-49DB-9112-6A84901463B5.json
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
+}

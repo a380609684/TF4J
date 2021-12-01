@@ -1,0 +1,109 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/58DA126D-9CE0-4C86-B8C1-97C9016C0C8C/B512CC8D-810C-4007-B003-67E796E19C08.json
+  "do_objectID": "B512CC8D-810C-4007-B003-67E796E19C08",
+=======
+  "do_objectID": "110C785F-CCA9-410F-A145-1875A7DE2057",
+>>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8D7A85CE-ABB8-422F-AE5E-C15F7C208574/110C785F-CCA9-410F-A145-1875A7DE2057.json
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/58DA126D-9CE0-4C86-B8C1-97C9016C0C8C/B512CC8D-810C-4007-B003-67E796E19C08.json
+    "height": 50,
+    "width": 196,
+    "x": 122,
+    "y": 3166
+=======
+    "height": 32,
+    "width": 84,
+    "x": 113,
+    "y": 0
+>>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8D7A85CE-ABB8-422F-AE5E-C15F7C208574/110C785F-CCA9-410F-A145-1875A7DE2057.json
+  },
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/58DA126D-9CE0-4C86-B8C1-97C9016C0C8C/B512CC8D-810C-4007-B003-67E796E19C08.json
+  "name": "03. Data Entry 数据录入/Input输入框/校验/中-成功",
+=======
+  "name": "01. General 通用/Buttons按钮/01.主按钮/大备份 5",
+>>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8D7A85CE-ABB8-422F-AE5E-C15F7C208574/110C785F-CCA9-410F-A145-1875A7DE2057.json
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/58DA126D-9CE0-4C86-B8C1-97C9016C0C8C/B512CC8D-810C-4007-B003-67E796E19C08.json
+    "do_objectID": "3FFA3C12-C2D8-4A97-AAA1-49C48629258C",
+=======
+    "do_objectID": "C7C85576-544E-475F-A499-D6E7996447B7",
+>>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8D7A85CE-ABB8-422F-AE5E-C15F7C208574/110C785F-CCA9-410F-A145-1875A7DE2057.json
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/58DA126D-9CE0-4C86-B8C1-97C9016C0C8C/B512CC8D-810C-4007-B003-67E796E19C08.json
+  "symbolID": "F1F000C7-B230-4A07-956B-13F11DDEC5E9"
+=======
+  "symbolID": "0F3E351E-F0F5-42E0-AB75-854E6B6A28A7"
+>>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8D7A85CE-ABB8-422F-AE5E-C15F7C208574/110C785F-CCA9-410F-A145-1875A7DE2057.json
+}

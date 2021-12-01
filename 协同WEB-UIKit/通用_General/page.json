@@ -45,6 +45,66 @@
     {
       "class": "artboard",
       "id": "6BBCCB9E-027A-4FA6-89CB-1279893D8745"
+    },
+    {
+      "class": "rectangle",
+      "id": "C803A51B-8B68-4A95-9846-D4B2142C87C0"
+    },
+    {
+      "class": "group",
+      "id": "8D7A85CE-ABB8-422F-AE5E-C15F7C208574"
+    },
+    {
+      "class": "text",
+      "id": "24A33BCC-0A4C-48DB-A821-BD1644853E9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E9CD368-5F29-4C23-A99F-F9F6032103DE"
+    },
+    {
+      "class": "group",
+      "id": "0E0923B0-0BEE-4CF0-B552-ABE0AE78524E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C707BF77-6058-48D1-BA99-E18CED28C0C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4518A20A-7A13-4824-8832-21D0F9BB45A2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ACE9D777-CB25-42F9-9D14-85545452C4B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97DD4273-F49D-4089-9CCE-7D880BF7D5EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "86AFEE22-1CF2-4F5F-A9F5-5BD0705D9D57"
+    },
+    {
+      "class": "group",
+      "id": "06C58C60-244F-43EE-91B2-D9B36BE4AFAC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5BA685EA-E821-4E27-A400-7F5EEE687BD1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8864F624-3543-450D-AE4B-3EB0150BFC01"
+    },
+    {
+      "class": "group",
+      "id": "F71DE0ED-3247-4412-B870-4CF1D327793B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9A04BA7C-94AE-4FBE-9728-8216B38EEF2C"
     }
   ],
   "name": "通用_General",

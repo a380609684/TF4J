@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 60,
+    "height": 40,
+    "width": 64,
     "x": 0,
     "y": 0
   },
@@ -32,12 +32,12 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "6249247A-53A6-4794-A28A-A004A396BD47_symbolID",
+      "overrideName": "23073506-0C57-45C1-8A73-81A253DF46F8_symbolID",
       "value": ""
     },
     {
       "_class": "overrideValue",
-      "overrideName": "4EEF0FC2-E5AB-45A6-9CAE-2D698CB83B5F_stringValue",
+      "overrideName": "8DFA947D-11D3-4811-9CB7-5945FD86CD4D_stringValue",
       "value": "提交"
     }
   ],
@@ -92,5 +92,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5BEC2FF9-433C-4AAA-A4C2-4558361CC8AF"
+  "symbolID": "9A1D88F2-304A-45F7-8B8B-7F1E5F8F4CAB"
 }
