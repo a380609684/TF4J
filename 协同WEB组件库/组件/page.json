@@ -3493,6 +3493,10 @@
     {
       "class": "text",
       "id": "CF177064-AC94-4EFC-82D5-7678757442FA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2C5DF43F-95A7-4B42-AFBA-7AAF6E1F1FAD"
     }
   ],
   "name": "组件",

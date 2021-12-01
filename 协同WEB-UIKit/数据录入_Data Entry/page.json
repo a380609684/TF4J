@@ -64,10 +64,6 @@
     },
     {
       "class": "artboard",
-      "id": "583DC259-B320-4E1A-A88A-FD06EC871E79"
-    },
-    {
-      "class": "artboard",
       "id": "986F86AD-591B-4E45-98F1-EB2735C59089"
     },
     {
@@ -89,6 +85,10 @@
     {
       "class": "symbolInstance",
       "id": "3921A39F-7897-45EB-83F6-61E38CA1CCCD"
+    },
+    {
+      "class": "artboard",
+      "id": "85735F4D-7D90-49A8-8031-FD266BD83A3B"
     }
   ],
   "name": "数据录入_Data Entry",
