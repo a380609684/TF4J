@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E3539750-76DB-459A-9081-FEF2567C1D58",
+  "do_objectID": "D0E49DBF-46AB-4171-8DEB-6DEED542D215",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 51,
-    "width": 980,
-    "x": 100,
-    "y": 955
+    "height": 76,
+    "width": 352,
+    "x": 24,
+    "y": 112
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -27,16 +27,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "标题",
+  "name": "06.Others 其他/区域标注",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "overrideName": "B3C2E71A-2609-42BE-A4E6-B1D9213A43FD_stringValue",
-      "value": "样式&状态"
-    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -75,7 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "A2231980-0481-4BA6-AF92-66AF2574C37D",
+    "do_objectID": "25DB3207-1F44-442C-AD51-676F76CB6C3A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -87,5 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "C9F72146-308C-4157-9D05-BA9430327FA9"
+  "symbolID": "E39EC428-67BF-4B1C-A8D7-1A6D9BA22A1F"
 }
