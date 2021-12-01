@@ -36,7 +36,7 @@
     "minSize": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -75,6 +75,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "C39BB0EC-D3E6-44EB-B36A-5624CA24EF7A/93464AAB-0D22-430E-9C03-201373ADF804_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C39BB0EC-D3E6-44EB-B36A-5624CA24EF7A_fillColor"
     },
     {
       "_class": "MSImmutableOverrideProperty",
