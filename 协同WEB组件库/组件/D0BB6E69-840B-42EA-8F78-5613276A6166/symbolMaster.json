@@ -26,7 +26,7 @@
     "height": 32,
     "width": 128,
     "x": -597,
-    "y": 6932
+    "y": 6677
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -94,21 +94,6 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "AF69BC7E-F79A-4208-BC2D-6E97F95343A5_fillColor"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "32B8CC12-F8C6-4F37-92B7-BB0991A27786_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "32B8CC12-F8C6-4F37-92B7-BB0991A27786/039BDBAD-7A37-4FAD-BA01-88465782E8D8_layerStyle"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "32B8CC12-F8C6-4F37-92B7-BB0991A27786_fillColor"
     },
     {
       "_class": "MSImmutableOverrideProperty",
