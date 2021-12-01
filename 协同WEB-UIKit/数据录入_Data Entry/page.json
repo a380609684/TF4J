@@ -85,6 +85,10 @@
     {
       "class": "bitmap",
       "id": "6B0E8402-3422-44B4-8184-B9F440AF673D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3921A39F-7897-45EB-83F6-61E38CA1CCCD"
     }
   ],
   "name": "数据录入_Data Entry",

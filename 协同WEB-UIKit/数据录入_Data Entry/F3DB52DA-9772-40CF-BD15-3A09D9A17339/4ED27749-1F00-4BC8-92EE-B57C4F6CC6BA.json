@@ -2,11 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/F3DB52DA-9772-40CF-BD15-3A09D9A17339/4ED27749-1F00-4BC8-92EE-B57C4F6CC6BA.json
   "do_objectID": "4ED27749-1F00-4BC8-92EE-B57C4F6CC6BA",
-=======
-  "do_objectID": "8E9CD368-5F29-4C23-A99F-F9F6032103DE",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8E9CD368-5F29-4C23-A99F-F9F6032103DE.json
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,15 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/F3DB52DA-9772-40CF-BD15-3A09D9A17339/4ED27749-1F00-4BC8-92EE-B57C4F6CC6BA.json
     "width": 32,
     "x": 453,
     "y": 1177
-=======
-    "width": 84,
-    "x": 622.0000000000002,
-    "y": 289
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8E9CD368-5F29-4C23-A99F-F9F6032103DE.json
   },
   "hasClippingMask": false,
   "isFixedToViewport": false,
@@ -37,11 +27,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/F3DB52DA-9772-40CF-BD15-3A09D9A17339/4ED27749-1F00-4BC8-92EE-B57C4F6CC6BA.json
   "name": "07. Others 其他/鼠标/单击备份 2",
-=======
-  "name": "01. General 通用/Buttons按钮/01.主按钮/大备份 51",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8E9CD368-5F29-4C23-A99F-F9F6032103DE.json
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -84,11 +70,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/F3DB52DA-9772-40CF-BD15-3A09D9A17339/4ED27749-1F00-4BC8-92EE-B57C4F6CC6BA.json
     "do_objectID": "2309D725-79EF-4267-B453-888C82AFFCCF",
-=======
-    "do_objectID": "8EE96499-4060-4D89-BD38-771E20F3B017",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8E9CD368-5F29-4C23-A99F-F9F6032103DE.json
     "endMarkerType": 0,
     "fills": [
     ],
@@ -100,9 +82,5 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-<<<<<<< HEAD:协同WEB-UIKit/数据录入_Data Entry/F3DB52DA-9772-40CF-BD15-3A09D9A17339/4ED27749-1F00-4BC8-92EE-B57C4F6CC6BA.json
   "symbolID": "809CC3BB-7700-4A5E-8591-069FA39FE2AC"
-=======
-  "symbolID": "FB857415-E699-40C8-AEF7-2CA811BD0980"
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8E9CD368-5F29-4C23-A99F-F9F6032103DE.json
 }

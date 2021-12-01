@@ -23,9 +23,8 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
+            "alignment": 2,
             "allowsDefaultTighteningForTruncation": 0,
-<<<<<<< HEAD:协同WEB-UIKit/🎱 Icon Library/B02B1D09-A41B-4FA8-B1FF-53BBC20FBF39/A12A00F8-3BFA-4BF4-9ADF-6CA591BBE569.json
             "maximumLineHeight": 20,
             "minimumLineHeight": 20,
             "tighteningFactorForTruncation": 0.05
@@ -37,27 +36,11 @@
       }
     ],
     "string": "Format"
-=======
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 2,
-        "location": 0
-      }
-    ],
-    "string": "按钮"
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8D7A85CE-ABB8-422F-AE5E-C15F7C208574/71470C66-2E9D-4C91-8FD8-99B8047FE473/3FD7AF2D-2B08-4245-98CE-388915FFC255/122C5AE4-AADE-47BE-895E-F76885080BEC.json
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-<<<<<<< HEAD:协同WEB-UIKit/🎱 Icon Library/B02B1D09-A41B-4FA8-B1FF-53BBC20FBF39/A12A00F8-3BFA-4BF4-9ADF-6CA591BBE569.json
   "do_objectID": "A12A00F8-3BFA-4BF4-9ADF-6CA591BBE569",
-=======
-  "do_objectID": "122C5AE4-AADE-47BE-895E-F76885080BEC",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8D7A85CE-ABB8-422F-AE5E-C15F7C208574/71470C66-2E9D-4C91-8FD8-99B8047FE473/3FD7AF2D-2B08-4245-98CE-388915FFC255/122C5AE4-AADE-47BE-895E-F76885080BEC.json
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -71,21 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-<<<<<<< HEAD:协同WEB-UIKit/🎱 Icon Library/B02B1D09-A41B-4FA8-B1FF-53BBC20FBF39/A12A00F8-3BFA-4BF4-9ADF-6CA591BBE569.json
     "height": 20,
     "width": 41,
     "x": 107.5,
     "y": 2622
   },
   "glyphBounds": "{{1, 5}, {40, 11}}",
-=======
-    "height": 22,
-    "width": 28,
-    "x": 24,
-    "y": 0
-  },
-  "glyphBounds": "{{0, 5}, {28, 14}}",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8D7A85CE-ABB8-422F-AE5E-C15F7C208574/71470C66-2E9D-4C91-8FD8-99B8047FE473/3FD7AF2D-2B08-4245-98CE-388915FFC255/122C5AE4-AADE-47BE-895E-F76885080BEC.json
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -94,21 +68,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-<<<<<<< HEAD:协同WEB-UIKit/🎱 Icon Library/B02B1D09-A41B-4FA8-B1FF-53BBC20FBF39/A12A00F8-3BFA-4BF4-9ADF-6CA591BBE569.json
   "name": "Format",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "E5EE03F6-40DA-464B-9D6A-6D6C0407D967",
-=======
-  "name": "文案",
-  "nameIsFixed": true,
-  "resizingConstraint": 41,
-  "resizingType": 0,
-  "rotation": 0,
-  "sharedStyleID": "46F13C6B-D951-40C3-8EFD-491A341A559D",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8D7A85CE-ABB8-422F-AE5E-C15F7C208574/71470C66-2E9D-4C91-8FD8-99B8047FE473/3FD7AF2D-2B08-4245-98CE-388915FFC255/122C5AE4-AADE-47BE-895E-F76885080BEC.json
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -144,11 +109,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-<<<<<<< HEAD:协同WEB-UIKit/🎱 Icon Library/B02B1D09-A41B-4FA8-B1FF-53BBC20FBF39/A12A00F8-3BFA-4BF4-9ADF-6CA591BBE569.json
     "do_objectID": "8E743DD3-0C09-4ECC-9B47-BB7D09C9A6A4",
-=======
-    "do_objectID": "AA39E1D3-2AEB-42E4-B921-F70E4D5C3100",
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8D7A85CE-ABB8-422F-AE5E-C15F7C208574/71470C66-2E9D-4C91-8FD8-99B8047FE473/3FD7AF2D-2B08-4245-98CE-388915FFC255/122C5AE4-AADE-47BE-895E-F76885080BEC.json
     "endMarkerType": 0,
     "fills": [
     ],
@@ -178,16 +139,11 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
+          "alignment": 2,
           "allowsDefaultTighteningForTruncation": 0,
-<<<<<<< HEAD:协同WEB-UIKit/🎱 Icon Library/B02B1D09-A41B-4FA8-B1FF-53BBC20FBF39/A12A00F8-3BFA-4BF4-9ADF-6CA591BBE569.json
           "maximumLineHeight": 20,
           "minimumLineHeight": 20,
           "tighteningFactorForTruncation": 0.05
-=======
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
->>>>>>> 40bd6c6f71d319151d4a19493ca7ee6795b7be07:协同WEB-UIKit/通用_General/8D7A85CE-ABB8-422F-AE5E-C15F7C208574/71470C66-2E9D-4C91-8FD8-99B8047FE473/3FD7AF2D-2B08-4245-98CE-388915FFC255/122C5AE4-AADE-47BE-895E-F76885080BEC.json
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -195,12 +151,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "isAutoWidth": 1
-      }
-    }
-  }
+  "textBehaviour": 0
 }
