@@ -25,7 +25,7 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": -3417,
+    "x": -3444,
     "y": 2384
   },
   "groupLayout": {
@@ -62,6 +62,16 @@
   "name": "01. General 通用/Icon图标/16/155.排序",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F6969F1C-4EAB-4E6A-B3B9-02040A6998D6_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F668A1BD-FC2B-404D-90D0-2EF5EB907A5D_layerStyle"
+    }
   ],
   "presetDictionary": {
   },

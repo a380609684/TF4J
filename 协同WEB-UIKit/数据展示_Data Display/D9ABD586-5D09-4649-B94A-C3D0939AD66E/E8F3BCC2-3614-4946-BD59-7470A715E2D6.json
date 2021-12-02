@@ -31,11 +31,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 63,
+        "length": 47,
         "location": 0
       }
     ],
-    "string": "表头高度：80px, 176px, 280px, 464px, 560px。根据不同的内容类型选择合适的尺寸。\n内容栏高度：\n"
+    "string": "表头高度：48px。  内容栏高度：56px，82px。\n金额、操作右对齐，其它按左对齐规则。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -54,12 +54,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 66,
-    "width": 547,
+    "height": 44,
+    "width": 302,
     "x": 110,
     "y": 271
   },
-  "glyphBounds": "{{0, 4}, {538, 36}}",
+  "glyphBounds": "{{0, 4}, {294, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "表头高度：80px, 176px, 28",
+  "name": "表头高度：48px。 内容栏高度：56p",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

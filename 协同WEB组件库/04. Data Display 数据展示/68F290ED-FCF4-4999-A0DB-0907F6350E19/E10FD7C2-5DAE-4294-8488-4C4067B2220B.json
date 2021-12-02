@@ -32,11 +32,6 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "6D25B2FE-92A0-4890-A535-CF778BF6ED56/D0953941-3D7E-4DD8-8A7D-04B5D561152F_layerStyle",
-      "value": "F84D6F48-575B-4C80-BEF7-5DB48C1217B4"
-    },
-    {
-      "_class": "overrideValue",
       "overrideName": "6D25B2FE-92A0-4890-A535-CF778BF6ED56_fillColor",
       "value": {
         "_class": "color",
@@ -70,6 +65,21 @@
         "red": 0.7568627450980392,
         "swatchID": "BDA98E26-6206-4E1B-ADAC-EF5CFC540ECE"
       }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "242A2A0F-0257-4CF1-AFE0-6C78646443B1/11BCBEBB-0C01-4343-8A86-C2EAD1168F20_layerStyle",
+      "value": "066CF8E1-0636-42D6-81BA-884A6A0ED573"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D13B5318-2FB9-4691-917F-3C0693509878/F6969F1C-4EAB-4E6A-B3B9-02040A6998D6_layerStyle",
+      "value": "066CF8E1-0636-42D6-81BA-884A6A0ED573"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D13B5318-2FB9-4691-917F-3C0693509878/F668A1BD-FC2B-404D-90D0-2EF5EB907A5D_layerStyle",
+      "value": "066CF8E1-0636-42D6-81BA-884A6A0ED573"
     }
   ],
   "resizingConstraint": 63,

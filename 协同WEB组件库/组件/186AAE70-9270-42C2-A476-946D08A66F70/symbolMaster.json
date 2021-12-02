@@ -125,6 +125,21 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
+      "overrideName": "242A2A0F-0257-4CF1-AFE0-6C78646443B1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "242A2A0F-0257-4CF1-AFE0-6C78646443B1/11BCBEBB-0C01-4343-8A86-C2EAD1168F20_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "242A2A0F-0257-4CF1-AFE0-6C78646443B1_fillColor"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
       "overrideName": "6D25B2FE-92A0-4890-A535-CF778BF6ED56_symbolID"
     },
     {

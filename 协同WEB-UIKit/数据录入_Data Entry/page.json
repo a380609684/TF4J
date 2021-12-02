@@ -89,6 +89,14 @@
     {
       "class": "artboard",
       "id": "85735F4D-7D90-49A8-8031-FD266BD83A3B"
+    },
+    {
+      "class": "rectangle",
+      "id": "1E599B5C-EE9C-4177-ACFD-C4DD6CF58F79"
+    },
+    {
+      "class": "rectangle",
+      "id": "4DD4BD48-B7BB-4F5E-8028-CC3AFA46E644"
     }
   ],
   "name": "数据录入_Data Entry",

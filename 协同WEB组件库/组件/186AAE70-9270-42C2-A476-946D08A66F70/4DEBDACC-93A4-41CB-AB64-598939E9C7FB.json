@@ -9,28 +9,28 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3450980392156863,
-            "green": 0.3254901960784314,
-            "red": 0.3019607843137255,
-            "swatchID": "244DE014-B067-4D47-82E4-2323A71FBAC1"
+            "blue": 0.5882352941176471,
+            "green": 0.5529411764705883,
+            "red": 0.5294117647058824,
+            "swatchID": "FC555EDF-9B66-4420-B214-98F18EF66051"
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "MicrosoftYaHei",
+              "name": "MicrosoftYaHei-Bold",
               "size": 14
             }
           },
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 1,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "minimumLineHeight": 22,
+            "tighteningFactorForTruncation": 0.05
           },
-          "strikethroughStyle": 0,
-          "textStyleVerticalAlignmentKey": 0,
-          "underlineStyle": 0
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
         "location": 0
@@ -74,7 +74,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "76DA6D29-5E10-4A68-BCAB-E3E766905DCD",
+  "sharedStyleID": "5F99F2FA-EFBD-4493-8ABC-56C4148C43EE",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -126,28 +126,28 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3450980392156863,
-          "green": 0.3254901960784314,
-          "red": 0.3019607843137255,
-          "swatchID": "244DE014-B067-4D47-82E4-2323A71FBAC1"
+          "blue": 0.5882352941176471,
+          "green": 0.5529411764705883,
+          "red": 0.5294117647058824,
+          "swatchID": "FC555EDF-9B66-4420-B214-98F18EF66051"
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "MicrosoftYaHei",
+            "name": "MicrosoftYaHei-Bold",
             "size": 14
           }
         },
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 1,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "minimumLineHeight": 22,
+          "tighteningFactorForTruncation": 0.05
         },
-        "strikethroughStyle": 0,
-        "textStyleVerticalAlignmentKey": 0,
-        "underlineStyle": 0
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
