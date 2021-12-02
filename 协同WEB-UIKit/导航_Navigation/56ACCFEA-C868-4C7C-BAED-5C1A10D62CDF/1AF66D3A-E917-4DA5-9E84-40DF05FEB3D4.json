@@ -35,7 +35,7 @@
         "location": 0
       }
     ],
-    "string": "当空间有限时（例如出现五级以上的面包屑），面包屑会自动折叠并且使用省略号来表示更多信息，默认显示第一项和最后两项，hover显示浮层，点击展开。"
+    "string": "当空间有限时（例如出现五级以上的面包屑），面包屑会自动折叠并且使用省略号来表示更多信息，默认显示第一项和最后一项，hover显示浮层，点击展开。"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,

@@ -43,10 +43,6 @@
       "id": "58DA126D-9CE0-4C86-B8C1-97C9016C0C8C"
     },
     {
-      "class": "artboard",
-      "id": "F3DB52DA-9772-40CF-BD15-3A09D9A17339"
-    },
-    {
       "class": "rectangle",
       "id": "39272B8A-E486-47BA-980A-E763E3F4304E"
     },
@@ -81,6 +77,7 @@
     {
       "class": "bitmap",
       "id": "6B0E8402-3422-44B4-8184-B9F440AF673D"
+<<<<<<< HEAD
     },
     {
       "class": "symbolInstance",
@@ -97,6 +94,8 @@
     {
       "class": "rectangle",
       "id": "4DD4BD48-B7BB-4F5E-8028-CC3AFA46E644"
+=======
+>>>>>>> b1d6498d290e68dcc5f08ed38c2b6bd2e56911f8
     }
   ],
   "name": "数据录入_Data Entry",
