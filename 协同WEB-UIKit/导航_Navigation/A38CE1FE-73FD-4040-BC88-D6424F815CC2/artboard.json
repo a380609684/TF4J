@@ -23,7 +23,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4100,
+    "height": 5806,
     "width": 1436,
     "x": 9734,
     "y": -1097
@@ -32,7 +32,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,6 +49,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "B7BAE341-3195-4176-91BC-5EC42F8F6EF8"
+    },
     {
       "class": "symbolInstance",
       "id": "33AEA1E8-DC65-4930-8F96-3BEA9B9087C5"
@@ -75,7 +79,11 @@
     },
     {
       "class": "group",
-      "id": "2F2C395C-2088-4A63-80BA-EEF5A414FDFF"
+      "id": "CA6CB7D5-9317-4A0E-8C87-61BD44DF69C3"
+    },
+    {
+      "class": "group",
+      "id": "E0CC8FB5-EB60-4132-9307-E73ECA8B7CB9"
     },
     {
       "class": "text",
@@ -167,6 +175,10 @@
     },
     {
       "class": "group",
+      "id": "AE69C52F-BAEC-4799-98C5-CE2E0C7C0492"
+    },
+    {
+      "class": "group",
       "id": "C30A4B25-9032-4D1C-B9DE-5197D5C8A081"
     },
     {
@@ -179,7 +191,39 @@
     },
     {
       "class": "text",
+      "id": "A2AEEB94-1A44-40BB-9D6C-D105444F25DA"
+    },
+    {
+      "class": "text",
       "id": "A3901ED8-8B14-4FFD-BDF8-9D3DDB97A9FC"
+    },
+    {
+      "class": "text",
+      "id": "69086748-5DC5-4B07-BE07-D75A04E8F0E8"
+    },
+    {
+      "class": "group",
+      "id": "6DC507E0-CE18-4FB2-8587-51BBE17FD794"
+    },
+    {
+      "class": "group",
+      "id": "F262E6A0-FBAA-4B66-A4BC-50B4A41FFA51"
+    },
+    {
+      "class": "group",
+      "id": "A5FC2B15-8A74-4EA2-818D-47C234C27BD7"
+    },
+    {
+      "class": "text",
+      "id": "DB9F163E-F874-417C-BB9E-EADABBFD89E2"
+    },
+    {
+      "class": "text",
+      "id": "47BABB2C-FAFD-4F96-ADC7-0E47D573227A"
+    },
+    {
+      "class": "text",
+      "id": "067DF228-3F92-4338-A5A2-593CDBE14A3D"
     }
   ],
   "name": "分页Pagination",

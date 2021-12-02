@@ -27,11 +27,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 2,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "迷你"
+    "string": "迷你·常规"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 25,
-    "width": 36,
+    "width": 81,
     "x": 100,
-    "y": 2784
+    "y": 2787
   },
-  "glyphBounds": "{{0, 4}, {36, 17}}",
+  "glyphBounds": "{{0, 4}, {81, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "迷你",
+  "name": "迷你·常规",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

@@ -57,7 +57,7 @@
     "height": 22,
     "width": 47,
     "x": 100,
-    "y": 2878
+    "y": 4173
   },
   "glyphBounds": "{{1, 5}, {45, 12}}",
   "hasClippingMask": false,
@@ -68,7 +68,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "Normal备份 7",
+  "name": "Normal",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
