@@ -97,6 +97,14 @@
     {
       "class": "artboard",
       "id": "433F99F4-1E3C-41DB-9748-BA227F82BD91"
+    },
+    {
+      "class": "rectangle",
+      "id": "3DAA39F0-E981-4AE9-8FD2-738C4D31B825"
+    },
+    {
+      "class": "rectangle",
+      "id": "416604A5-05E2-43F5-9E2C-5EB0C0F1907F"
     }
   ],
   "name": "03. Data Entry 数据录入",

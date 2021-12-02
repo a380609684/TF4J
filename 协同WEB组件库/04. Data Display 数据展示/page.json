@@ -56,7 +56,15 @@
     },
     {
       "class": "artboard",
+      "id": "68F290ED-FCF4-4999-A0DB-0907F6350E19"
+    },
+    {
+      "class": "artboard",
       "id": "D447EE64-3EB5-409F-91A2-251F39857F84"
+    },
+    {
+      "class": "rectangle",
+      "id": "A99D1C50-98FD-4830-9DCC-DEA36052F3DD"
     }
   ],
   "name": "04. Data Display 数据展示",
