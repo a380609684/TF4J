@@ -1,0 +1,127 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E10FD7C2-5DAE-4294-8488-4C4067B2220B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 1450,
+    "x": 98,
+    "y": 280
+  },
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "04. Data Display 数据展示/Table表格/表头",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6D25B2FE-92A0-4890-A535-CF778BF6ED56/D0953941-3D7E-4DD8-8A7D-04B5D561152F_layerStyle",
+      "value": "F84D6F48-575B-4C80-BEF7-5DB48C1217B4"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6D25B2FE-92A0-4890-A535-CF778BF6ED56_fillColor",
+      "value": {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.803921568627451,
+        "green": 0.7803921568627451,
+        "red": 0.7568627450980392,
+        "swatchID": "BDA98E26-6206-4E1B-ADAC-EF5CFC540ECE"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D13B5318-2FB9-4691-917F-3C0693509878_fillColor",
+      "value": {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.803921568627451,
+        "green": 0.7803921568627451,
+        "red": 0.7568627450980392,
+        "swatchID": "BDA98E26-6206-4E1B-ADAC-EF5CFC540ECE"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "242A2A0F-0257-4CF1-AFE0-6C78646443B1_fillColor",
+      "value": {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.803921568627451,
+        "green": 0.7803921568627451,
+        "red": 0.7568627450980392,
+        "swatchID": "BDA98E26-6206-4E1B-ADAC-EF5CFC540ECE"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "BB20816B-E59E-498F-BEEE-D38F09D8585E",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "28AAFAEB-BFB5-47BC-B255-F53BF6993FDD"
+}
